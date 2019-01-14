@@ -7,7 +7,11 @@ msg-ihgpu5	adu
 msg-iogpu10	E
 msg-iogpu11	E
 msg-iogpu14	adu
+msg-iogpu3	E
+msg-iogpu5	E
 msg-iogpu6	E
+msg-iogpu7	E
 msg-iogpu8	E
+msg-iogpu9	E
 msg-test3	adu
 msg-test5	au
