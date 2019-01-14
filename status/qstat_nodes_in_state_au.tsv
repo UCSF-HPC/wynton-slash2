@@ -1,0 +1,13 @@
+queuename	states
+msg-id24	adu
+msg-idgpu1	adu
+msg-ihgpu1	E
+msg-ihgpu4	adu
+msg-ihgpu5	adu
+msg-iogpu10	E
+msg-iogpu11	E
+msg-iogpu14	adu
+msg-iogpu6	E
+msg-iogpu8	E
+msg-test3	adu
+msg-test5	au
