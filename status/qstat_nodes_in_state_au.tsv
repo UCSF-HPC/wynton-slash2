@@ -1,7 +1,6 @@
 queuename	states
 msg-id24	adu
 msg-idgpu1	adu
-msg-ihgpu2	adu
 msg-ihgpu4	adu
 msg-ihgpu5	adu
 msg-iogpu14	adu
