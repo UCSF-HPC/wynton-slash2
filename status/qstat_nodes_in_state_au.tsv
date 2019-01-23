@@ -1,6 +1,7 @@
 queuename	states
 cc-idgpu1	au
 msg-id24	adu
+msg-id34	au
 msg-idgpu1	adu
 msg-ihgpu4	adu
 msg-ihgpu5	adu
@@ -8,4 +9,3 @@ msg-iogpu12	au
 msg-iogpu14	adu
 msg-test3	adu
 msg-test5	au
-qb3-id3	au
