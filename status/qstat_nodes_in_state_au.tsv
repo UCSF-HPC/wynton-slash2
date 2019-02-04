@@ -2,7 +2,13 @@ queuename	states
 msg-hmio1	adu
 msg-id24	adu
 msg-idgpu1	adu
+<<<<<<< HEAD
 msg-idgpu1	du
+=======
+msg-ihgpu4	adu
+msg-ihgpu5	adu
+msg-iogpu12	au
+>>>>>>> 34ddf2ced12eac2cfc2858dc28755ce6e8b45606
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
