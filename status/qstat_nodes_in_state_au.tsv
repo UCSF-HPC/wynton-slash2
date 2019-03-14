@@ -3,6 +3,8 @@ mac-id4	au
 msg-hmio1	adu
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu6	adu
+msg-ihgpu6	du
 msg-io1	au
 msg-iogpu14	adu
 msg-iogpu14	du
