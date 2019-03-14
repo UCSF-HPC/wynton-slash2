@@ -1,4 +1,5 @@
 queuename	states
+mac-id4	au
 msg-hmio1	adu
 msg-idgpu1	adu
 msg-idgpu1	du
