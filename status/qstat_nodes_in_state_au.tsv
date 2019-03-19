@@ -1,6 +1,6 @@
 queuename	states
-cc-idgpu3	au
-cc-idgpu3	u
+cc-idgpu3	adu
+cc-idgpu3	du
 msg-hmio1	adu
 msg-idgpu1	adu
 msg-idgpu1	du
