@@ -2,6 +2,8 @@ queuename	states
 msg-hmio1	adu
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu6	adu
+msg-ihgpu6	du
 msg-ihgpu7	adu
 msg-ihgpu7	du
 msg-io1	au
