@@ -7,12 +7,9 @@ msg-idgpu1	du
 msg-ihgpu7	adu
 msg-ihgpu7	du
 msg-io1	au
-msg-iogpu11	adu
-msg-iogpu11	du
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
 msg-test5	au
-qb3-id2	adu
 qb3-id50	au
 qb3-id7	adu
