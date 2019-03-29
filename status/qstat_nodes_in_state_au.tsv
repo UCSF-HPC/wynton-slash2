@@ -2,7 +2,6 @@ queuename	states
 cc-idgpu5	adu
 cc-idgpu5	du
 msg-hmio1	adu
-msg-id33	adu
 msg-idgpu1	adu
 msg-idgpu1	du
 msg-ihgpu7	adu
