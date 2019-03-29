@@ -1,6 +1,7 @@
 queuename	states
 cc-idgpu5	adu
 cc-idgpu5	du
+mac-id7	adu
 msg-hmio1	adu
 msg-idgpu1	adu
 msg-idgpu1	du
@@ -13,3 +14,4 @@ msg-test3	adu
 msg-test5	au
 qb3-id50	au
 qb3-id7	adu
+qb3-id84	adu
