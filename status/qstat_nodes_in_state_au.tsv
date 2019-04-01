@@ -8,6 +8,7 @@ cc-idgpu5	adu
 cc-idgpu5	du
 -	JOBS
 msg-hmio1	adu
+msg-id40	au
 msg-idgpu1	adu
 msg-idgpu1	du
 msg-ihgpu7	adu
