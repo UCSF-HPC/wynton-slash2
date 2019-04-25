@@ -3,6 +3,8 @@ msg-hmio1	adu
 msg-id40	au
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu4	au
+msg-ihgpu4	u
 msg-io1	adu
 msg-iogpu14	adu
 msg-iogpu14	du
