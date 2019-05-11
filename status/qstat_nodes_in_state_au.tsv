@@ -5,6 +5,7 @@ msg-id40	au
 msg-idgpu1	adu
 msg-idgpu1	du
 msg-io1	adu
+msg-iogpu11	E
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
