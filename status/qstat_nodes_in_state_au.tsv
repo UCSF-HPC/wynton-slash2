@@ -4,7 +4,15 @@ msg-id35	au
 msg-id40	au
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-io10	adu
 msg-io1	adu
+msg-io2	adu
+msg-io3	adu
+msg-io4	adu
+msg-io5	adu
+msg-io7	adu
+msg-io8	adu
+msg-io9	adu
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
