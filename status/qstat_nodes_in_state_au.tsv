@@ -8,6 +8,7 @@ queuename	states
 5450294	06/06/2019
 -	JOBS
 msg-hmio1	adu
+msg-id39	au
 msg-id40	au
 msg-idgpu1	adu
 msg-idgpu1	du
