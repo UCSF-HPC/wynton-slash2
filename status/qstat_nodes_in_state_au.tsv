@@ -5,7 +5,9 @@ queuename	states
 5450288	06/06/2019
 5450289	06/06/2019
 cc-idgpu1	adu
-cc-idgpu1	u
+cc-idgpu1	du
+cc-idgpu2	adu
+cc-idgpu2	du
 -	JOBS
 msg-hmio1	adu
 msg-id40	au
