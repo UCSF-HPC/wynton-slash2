@@ -13,6 +13,8 @@ msg-id1	aDu
 msg-id40	aDdu
 msg-idgpu1	aDdu
 msg-idgpu1	Ddu
+msg-iogpu12	aDu
+msg-iogpu12	Du
 msg-iogpu14	aDdu
 msg-iogpu14	Ddu
 msg-test3	aDdu
@@ -26,5 +28,3 @@ qb3-ih77	aDdu
 qb3-ih78	aDdu
 qb3-ih79	aDdu
 qb3-io11	aDu
-qb3-io16	aDu
-qb3-io17	aDu
