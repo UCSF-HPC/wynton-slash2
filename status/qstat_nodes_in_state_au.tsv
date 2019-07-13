@@ -8,6 +8,9 @@ queuename	states
 5707513	06/24/2019
 cc-idgpu1	du
 -	JOBS
+mac-id3	adu
+mac-inst-id2	adu
+mac-inst-id3	adu
 msg-hmio1	adu
 msg-id40	adu
 msg-idgpu1	adu
