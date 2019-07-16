@@ -9,6 +9,7 @@ queuename	states
 cc-idgpu1	du
 -	JOBS
 msg-hmio1	adu
+msg-id37	au
 msg-id40	adu
 msg-idgpu1	adu
 msg-idgpu1	du
