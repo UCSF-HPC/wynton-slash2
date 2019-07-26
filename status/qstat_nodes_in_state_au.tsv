@@ -12,8 +12,6 @@ queuename	states
 7927327	07/21/2019
 7927328	07/21/2019
 cc-idgpu1	du
-cc-idgpu2	adu
-cc-idgpu2	du
 -	JOBS
 msg-hmio1	adu
 msg-id40	adu
