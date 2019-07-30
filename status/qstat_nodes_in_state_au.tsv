@@ -71,6 +71,8 @@ msg-iogpu11	E
 msg-iogpu13	E
 msg-iogpu14	adu
 msg-iogpu14	du
+msg-iogpu5	E
+msg-iogpu9	E
 msg-test3	adu
 msg-test5	au
 qb3-hmid1	adu
@@ -94,4 +96,4 @@ qb3-ih77	adu
 qb3-ih78	adu
 qb3-ih79	adu
 qb3-io19	au
-qb3-io4	au
+qb3-iogpu3	E
