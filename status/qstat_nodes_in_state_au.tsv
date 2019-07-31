@@ -14,7 +14,6 @@ queuename	states
 mac-id2	au
 mac-id4	au
 mac-inst-hmid1	au
-mac-inst-id1	au
 mac-inst-id2	au
 mac-inst-id3	au
 msg-hmio1	adu
