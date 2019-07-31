@@ -65,6 +65,7 @@ msg-id8	au
 msg-id9	au
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu6	E
 msg-ihgpu7	E
 msg-ihgpu8	E
 msg-iogpu10	E
@@ -90,6 +91,7 @@ qb3-idgpu2	au
 qb3-idgpu2	u
 qb3-idgpu3	E
 qb3-idgpu4	E
+qb3-idgpu5	E
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
