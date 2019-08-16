@@ -8,6 +8,8 @@ msg-hmio1	adu
 msg-id40	adu
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu8	au
+msg-ihgpu8	u
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-iogpu2	E
