@@ -5,7 +5,6 @@ queuename	states
 8022110	08/05/2019
 8022112	08/05/2019
 -	JOBS
-mac-id5	au
 msg-hmio1	adu
 msg-id40	adu
 msg-idgpu1	adu
@@ -16,7 +15,6 @@ msg-test3	adu
 msg-test5	au
 qb3-id103	au
 qb3-id105	au
-qb3-id134	au
 qb3-id37	au
 qb3-id7	adu
 qb3-ih1	adu
