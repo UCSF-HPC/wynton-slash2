@@ -7,6 +7,7 @@ queuename	states
 -	JOBS
 msg-hmio1	adu
 msg-id11	E
+msg-id19	E
 msg-id23	E
 msg-id25	E
 msg-id35	E
@@ -32,6 +33,7 @@ qb3-ih21	E
 qb3-ih22	E
 qb3-ih23	E
 qb3-ih24	E
+qb3-ih29	E
 qb3-ih2	adu
 qb3-ih32	E
 qb3-ih37	E
@@ -47,7 +49,9 @@ qb3-ih58	E
 qb3-ih59	E
 qb3-ih61	E
 qb3-ih62	E
+qb3-ih66	E
 qb3-ih68	E
+qb3-ih69	E
 qb3-ih6	E
 qb3-ih71	E
 qb3-ih73	E
