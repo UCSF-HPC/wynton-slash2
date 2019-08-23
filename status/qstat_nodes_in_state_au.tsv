@@ -7,6 +7,7 @@ queuename	states
 -	JOBS
 msg-hmio1	adu
 msg-id23	E
+msg-id25	E
 msg-id40	adu
 msg-idgpu1	adu
 msg-idgpu1	du
