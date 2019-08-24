@@ -17,6 +17,8 @@ msg-id40	adu
 msg-id9	E
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-ihgpu6	E
+msg-iogpu10	E
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
@@ -52,6 +54,7 @@ qb3-ih40	E
 qb3-ih42	au
 qb3-ih43	E
 qb3-ih44	E
+qb3-ih46	E
 qb3-ih47	E
 qb3-ih49	E
 qb3-ih4	adu
@@ -86,3 +89,4 @@ qb3-io19	au
 qb3-io22	E
 qb3-io27	E
 qb3-io28	au
+qb3-io4	E
