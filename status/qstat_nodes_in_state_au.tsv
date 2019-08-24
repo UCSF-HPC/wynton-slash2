@@ -11,6 +11,7 @@ msg-id17	E
 msg-id19	E
 msg-id20	E
 msg-id23	E
+msg-id24	E
 msg-id25	E
 msg-id35	E
 msg-id38	E
@@ -33,6 +34,7 @@ qb3-id37	au
 qb3-id7	adu
 qb3-id95	E
 qb3-idgpu4	E
+qb3-ih11	E
 qb3-ih12	E
 qb3-ih15	E
 qb3-ih16	E
@@ -88,6 +90,7 @@ qb3-ih76	E
 qb3-ih77	adu
 qb3-ih78	adu
 qb3-ih79	adu
+qb3-ih7	E
 qb3-ih8	E
 qb3-io14	E
 qb3-io16	au
