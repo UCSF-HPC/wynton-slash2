@@ -5,7 +5,8 @@ queuename	states
 8422267	09/18/2019
 8422271	09/18/2019
 8422284	09/18/2019
-8489200	09/25/2019
+8489195	09/25/2019
+8489199	09/25/2019
 cc-idgpu4	au
 cc-idgpu4	u
 -	JOBS
@@ -19,7 +20,8 @@ msg-idgpu1	adu
 msg-idgpu1	du
 msg-iogpu14	adu
 msg-iogpu14	du
-msg-iogpu1	E
+msg-iogpu1	au
+msg-iogpu1	uE
 msg-iogpu2	au
 msg-iogpu2	u
 msg-test3	adu
