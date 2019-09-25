@@ -14,6 +14,7 @@ mac-id8	au
 mac-inst-id2	au
 msg-hmio1	adu
 msg-hmio2	au
+msg-id11	au
 msg-id15	au
 msg-id1	au
 msg-id38	au
@@ -57,7 +58,6 @@ qb3-id19	au
 qb3-id20	au
 qb3-id22	au
 qb3-id29	au
-qb3-id2	au
 qb3-id37	au
 qb3-id38	au
 qb3-id41	au
