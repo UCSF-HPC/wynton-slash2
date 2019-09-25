@@ -24,6 +24,8 @@ msg-id8	au
 msg-id9	au
 msg-idgpu1	adu
 msg-idgpu1	du
+msg-iogpu11	au
+msg-iogpu11	u
 msg-iogpu14	adu
 msg-iogpu14	du
 msg-test3	adu
