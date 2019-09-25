@@ -10,6 +10,7 @@ cc-id3	au
 -	JOBS
 mac-id3	au
 mac-id5	au
+mac-id8	au
 mac-inst-id2	au
 msg-hmio1	adu
 msg-hmio2	au
@@ -57,6 +58,8 @@ qb3-id29	au
 qb3-id2	au
 qb3-id37	au
 qb3-id38	au
+qb3-id41	au
+qb3-id42	au
 qb3-id47	au
 qb3-id48	au
 qb3-id49	au
@@ -69,6 +72,7 @@ qb3-id61	au
 qb3-id63	au
 qb3-id64	au
 qb3-id65	au
+qb3-id68	au
 qb3-id69	au
 qb3-id70	au
 qb3-id72	au
