@@ -5,6 +5,8 @@ queuename	states
 8422267	09/18/2019
 8422271	09/18/2019
 8422284	09/18/2019
+cc-idgpu3	au
+cc-idgpu3	u
 -	JOBS
 mac-inst-id2	au
 msg-hmio1	adu
@@ -26,6 +28,7 @@ qb3-ih2	adu
 qb3-ih3	adu
 qb3-ih42	au
 qb3-ih4	adu
+qb3-ih70	au
 qb3-ih77	adu
 qb3-ih78	adu
 qb3-ih79	adu
