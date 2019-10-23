@@ -5,7 +5,7 @@ queuename	states
 8715405	10/20/2019
 8715408	10/20/2019
 8715415	10/20/2019
-8723374	10/23/2019
+8723375	10/23/2019
 cc-hmid1	adu
 cc-id1	adu
 cc-id2	adu
@@ -19,8 +19,6 @@ cc-idgpu3	adu
 cc-idgpu3	u
 cc-idgpu4	adu
 cc-idgpu4	u
-cc-idgpu5	adu
-cc-idgpu5	u
 -	JOBS
 msg-hmio1	adu
 msg-id40	adu
