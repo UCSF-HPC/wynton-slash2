@@ -5,7 +5,7 @@ queuename	states
 8715405	10/20/2019
 8715408	10/20/2019
 8715415	10/20/2019
-8724042	10/23/2019
+8724044	10/23/2019
 cc-idgpu2	E
 cc-idgpu5	E
 -	JOBS
@@ -27,8 +27,6 @@ qb3-idgpu7	au
 qb3-idgpu7	u
 qb3-idgpu8	au
 qb3-idgpu8	u
-qb3-idgpu9	adu
-qb3-idgpu9	du
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
