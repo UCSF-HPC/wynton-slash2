@@ -1,12 +1,9 @@
 queuename	states
 ############################################################################	
 	
-8715386	10/20/2019
 8715405	10/20/2019
 8715408	10/20/2019
 8715415	10/20/2019
-cc-idgpu2	E
-cc-idgpu5	E
 -	JOBS
 msg-hmio1	adu
 msg-id40	adu
@@ -20,7 +17,6 @@ qb3-id53	au
 qb3-id57	au
 qb3-id69	au
 qb3-id7	adu
-qb3-idgpu8	E
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
