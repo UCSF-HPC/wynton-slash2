@@ -9,6 +9,8 @@ queuename	states
 -	JOBS
 msg-hmio1	adu
 msg-id40	adu
+msg-iogpu9	adu
+msg-iogpu9	u
 msg-test3	adu
 msg-test5	au
 qb3-id103	au
