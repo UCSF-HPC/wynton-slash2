@@ -6,10 +6,11 @@ queuename	states
 8715415	10/20/2019
 8730159	10/24/2019
 8730283	10/24/2019
-8753998	10/30/2019
 -	JOBS
 msg-hmio1	adu
 msg-id40	adu
+msg-iogpu12	adu
+msg-iogpu12	u
 msg-iogpu9	adu
 msg-iogpu9	u
 msg-test3	adu
