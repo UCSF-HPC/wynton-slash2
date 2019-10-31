@@ -6,12 +6,14 @@ queuename	states
 8715415	10/20/2019
 8730159	10/24/2019
 8730283	10/24/2019
-8758920	10/30/2019
+8758924	10/30/2019
 cc-id3	adu
 -	JOBS
 mac-inst-hmid1	adu
 msg-hmio1	adu
 msg-id40	adu
+msg-iogpu13	adu
+msg-iogpu13	du
 msg-test3	adu
 msg-test5	au
 qb3-id103	au
@@ -20,8 +22,6 @@ qb3-id19	au
 qb3-id37	au
 qb3-id72	au
 qb3-id7	adu
-qb3-idgpu3	adu
-qb3-idgpu3	du
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
