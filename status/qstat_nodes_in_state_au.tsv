@@ -11,11 +11,13 @@ cc-id3	adu
 mac-inst-hmid1	adu
 msg-hmio1	adu
 msg-id40	adu
+msg-id8	adu
 msg-test3	adu
 msg-test5	au
 qb3-id103	au
 qb3-id105	au
 qb3-id19	au
+qb3-id2	adu
 qb3-id37	au
 qb3-id72	au
 qb3-id7	adu
@@ -23,7 +25,6 @@ qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
 qb3-ih4	adu
-qb3-ih50	adu
 qb3-ih77	adu
 qb3-ih78	adu
 qb3-ih79	adu
