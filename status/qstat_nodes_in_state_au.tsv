@@ -6,8 +6,8 @@ queuename	states
 8715415	10/20/2019
 8730159	10/24/2019
 8730283	10/24/2019
+8867337	11/07/2019
 -	JOBS
-mac-id6	adu
 msg-hmio1	adu
 msg-id1	adu
 msg-id40	adu
@@ -45,4 +45,3 @@ qb3-io17	au
 qb3-io18	au
 qb3-io19	au
 qb3-io28	au
-qb3-io5	adu
