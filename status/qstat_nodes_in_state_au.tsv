@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+8887949	11/08/2019
+-	JOBS
 msg-hmio1	adu
 msg-id40	adu
 msg-test3	adu
@@ -33,3 +37,4 @@ qb3-io17	au
 qb3-io18	au
 qb3-io19	au
 qb3-io28	au
+qb3-iogpu1	E
