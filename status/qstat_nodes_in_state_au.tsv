@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-9191265	12/07/2019
+9191266	12/07/2019
 -	JOBS
 msg-hmio1	adu
 msg-hmio3	au
@@ -10,9 +10,13 @@ msg-ihgpu6	E
 msg-ihgpu7	E
 msg-ihgpu8	E
 msg-iogpu10	E
+msg-iogpu12	E
+msg-iogpu13	E
+msg-iogpu1	E
 msg-iogpu2	E
 msg-iogpu4	E
 msg-iogpu5	E
+msg-iogpu6	E
 msg-iogpu7	E
 msg-test3	adu
 msg-test5	au
