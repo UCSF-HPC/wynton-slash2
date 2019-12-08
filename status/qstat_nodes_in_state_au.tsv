@@ -11,8 +11,7 @@ msg-ihgpu5	E
 msg-ihgpu6	dE
 msg-ihgpu7	E
 msg-ihgpu8	E
-msg-iogpu10	adu
-msg-iogpu10	duE
+msg-iogpu10	dE
 msg-iogpu11	dE
 msg-iogpu12	E
 msg-iogpu13	E
@@ -51,6 +50,5 @@ qb3-io18	au
 qb3-io19	au
 qb3-io25	adu
 qb3-io28	au
-qb3-iogpu2	adu
-qb3-iogpu2	duE
+qb3-iogpu2	dE
 qb3-iogpu3	dE
