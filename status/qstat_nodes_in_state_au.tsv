@@ -7,13 +7,13 @@ msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
 msg-ihgpu3	dE
-msg-ihgpu5	dE
+msg-ihgpu5	E
 msg-ihgpu6	dE
 msg-ihgpu7	dE
 msg-ihgpu8	dE
 msg-iogpu10	dE
 msg-iogpu11	dE
-msg-iogpu12	dE
+msg-iogpu12	E
 msg-iogpu13	dE
 msg-iogpu1	dE
 msg-iogpu4	dE
