@@ -2,15 +2,11 @@ queuename	states
 cc-idgpu1	E
 cc-idgpu2	E
 cc-idgpu3	E
-cc-idgpu4	E
 cc-idgpu5	E
 msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
-msg-ihgpu1	E
-msg-ihgpu2	E
 msg-ihgpu3	E
-msg-ihgpu4	E
 msg-ihgpu5	E
 msg-ihgpu6	E
 msg-ihgpu7	E
@@ -20,9 +16,6 @@ msg-iogpu11	E
 msg-iogpu12	E
 msg-iogpu13	E
 msg-iogpu1	E
-msg-iogpu2	E
-msg-iogpu3	adu
-msg-iogpu3	du
 msg-iogpu4	E
 msg-iogpu5	E
 msg-iogpu6	E
