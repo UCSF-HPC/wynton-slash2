@@ -2,8 +2,7 @@ queuename	states
 cc-idgpu1	dE
 cc-idgpu2	dE
 cc-idgpu3	dE
-cc-idgpu5	adu
-cc-idgpu5	duE
+cc-idgpu5	dE
 msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
