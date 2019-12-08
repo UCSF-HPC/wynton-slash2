@@ -14,7 +14,8 @@ msg-ihgpu8	E
 msg-iogpu10	dE
 msg-iogpu11	dE
 msg-iogpu12	E
-msg-iogpu13	dE
+msg-iogpu13	adu
+msg-iogpu13	duE
 msg-iogpu1	dE
 msg-iogpu4	dE
 msg-iogpu5	dE
