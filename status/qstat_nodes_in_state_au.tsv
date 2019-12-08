@@ -7,8 +7,7 @@ cc-idgpu5	E
 msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
-msg-ihgpu1	adu
-msg-ihgpu1	uE
+msg-ihgpu1	E
 msg-ihgpu2	E
 msg-ihgpu3	E
 msg-ihgpu4	E
