@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-9195963	12/08/2019
+9195969	12/08/2019
 cc-idgpu1	dE
 cc-idgpu2	dE
 cc-idgpu3	dE
@@ -11,15 +11,13 @@ msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
 msg-ihgpu3	dE
-msg-ihgpu5	adu
-msg-ihgpu5	duE
+msg-ihgpu5	dE
 msg-ihgpu6	dE
 msg-ihgpu7	dE
 msg-ihgpu8	dE
 msg-iogpu10	dE
 msg-iogpu11	dE
-msg-iogpu12	adu
-msg-iogpu12	duE
+msg-iogpu12	dE
 msg-iogpu13	dE
 msg-iogpu1	dE
 msg-iogpu4	dE
