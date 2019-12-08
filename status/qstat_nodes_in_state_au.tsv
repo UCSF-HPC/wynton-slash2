@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+9197424	12/08/2019
 cc-idgpu1	dE
 cc-idgpu2	dE
 cc-idgpu3	dE
 cc-idgpu5	dE
+-	JOBS
 msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
