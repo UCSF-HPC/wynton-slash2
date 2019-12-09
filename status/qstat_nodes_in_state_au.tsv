@@ -1,5 +1,10 @@
 queuename	states
-cc-idgpu2	dE
+############################################################################	
+	
+9209665	12/09/2019
+cc-idgpu2	adu
+cc-idgpu2	duE
+-	JOBS
 msg-hmio1	adu
 msg-hmio3	au
 msg-id40	adu
