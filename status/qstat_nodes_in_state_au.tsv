@@ -1,5 +1,6 @@
 queuename	states
 msg-hmio1	adu
+msg-hmio3	adu
 msg-id40	adu
 msg-test3	adu
 msg-test5	au
