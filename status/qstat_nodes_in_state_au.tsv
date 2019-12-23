@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+9533162	12/23/2019
+-	JOBS
 msg-hmio1	adu
 msg-id40	adu
 msg-iogpu9	E
@@ -14,7 +18,6 @@ qb3-id30	au
 qb3-id51	au
 qb3-id76	au
 qb3-id7	adu
-qb3-id82	adu
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
