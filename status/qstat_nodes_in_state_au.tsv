@@ -1,4 +1,5 @@
 queuename	states
+mac-id8	adu
 msg-hmio1	adu
 msg-id40	adu
 msg-iogpu9	E
@@ -28,3 +29,4 @@ qb3-io18	au
 qb3-io19	au
 qb3-io25	adu
 qb3-io28	au
+qb3-io6	adu
