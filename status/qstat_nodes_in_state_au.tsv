@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-9564619	12/24/2019
+9564820	12/24/2019
 cc-idgpu4	au
 cc-idgpu4	u
 -	JOBS
@@ -20,7 +20,6 @@ qb3-id51	au
 qb3-id76	au
 qb3-id7	adu
 qb3-ih1	adu
-qb3-ih20	adu
 qb3-ih2	adu
 qb3-ih3	adu
 qb3-ih42	au
