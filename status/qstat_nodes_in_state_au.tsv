@@ -7,6 +7,7 @@ queuename	states
 9756535	01/07/2020
 9756937	01/07/2020
 9756953	01/07/2020
+9783558	01/09/2020
 cc-idgpu2	adu
 cc-idgpu2	du
 cc-idgpu4	adu
@@ -19,6 +20,8 @@ msg-test3	adu
 msg-test5	au
 qb3-id105	au
 qb3-id19	adu
+qb3-id40	au
+qb3-id42	au
 qb3-id70	au
 qb3-id7	adu
 qb3-ih1	adu
