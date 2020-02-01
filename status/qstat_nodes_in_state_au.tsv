@@ -1,16 +1,17 @@
 queuename	states
+############################################################################	
+	
+395951	01/31/2020
+-	JOBS
 msg-hmio1	adu
 msg-hmio1	au
-msg-id12	au
 msg-id15	au
-msg-id37	au
 msg-id40	adu
 msg-id40	au
 msg-test3	adu
 msg-test3	au
 msg-test5	au
 qb3-id105	au
-qb3-id157	au
 qb3-id70	au
 qb3-id7	adu
 qb3-id7	au
@@ -23,7 +24,6 @@ qb3-ih3	au
 qb3-ih42	au
 qb3-ih4	adu
 qb3-ih4	au
-qb3-ih64	au
 qb3-ih77	adu
 qb3-ih77	au
 qb3-ih78	adu
