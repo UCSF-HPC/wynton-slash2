@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+9761334	02/07/2020
+-	JOBS
 msg-id40	adu
 msg-ihgpu7	adu
 msg-ihgpu7	du
@@ -31,9 +35,6 @@ qb3-id7	adu
 qb3-id81	adu
 qb3-id90	u
 qb3-idgpu10	du
-qb3-idgpu3	E
-qb3-idgpu4	E
-qb3-idgpu5	E
 qb3-idgpu6	adu
 qb3-idgpu6	du
 qb3-idgpu7	u
@@ -62,4 +63,3 @@ qb3-io28	adu
 qb3-io29	u
 qb3-io5	au
 qb3-io5	u
-qb3-iogpu1	E
