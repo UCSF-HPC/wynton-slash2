@@ -14,6 +14,8 @@ queuename	states
 9760125	02/07/2020
 9760126	02/07/2020
 9760127	02/07/2020
+9760129	02/07/2020
+9760131	02/07/2020
 cc-hmid1	du
 cc-id1	du
 cc-id2	du
@@ -110,7 +112,6 @@ msg-iogpu4	du
 msg-iogpu5	adu
 msg-iogpu5	du
 msg-iogpu6	du
-msg-iogpu7	du
 msg-iogpu8	adu
 msg-iogpu8	du
 msg-iogpu9	du
