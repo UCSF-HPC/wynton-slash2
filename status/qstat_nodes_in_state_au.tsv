@@ -13,6 +13,7 @@ queuename	states
 9760234	02/07/2020
 9760240	02/07/2020
 9760243	02/07/2020
+9760246	02/07/2020
 -	JOBS
 mac-id1	adu
 mac-id2	du
@@ -26,7 +27,6 @@ mac-inst-hmid1	du
 mac-inst-id1	du
 mac-inst-id2	du
 mac-inst-id3	du
-msg-id15	adu
 msg-id40	adu
 msg-ihgpu7	adu
 msg-ihgpu7	du
