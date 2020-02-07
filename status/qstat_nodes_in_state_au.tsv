@@ -17,6 +17,7 @@ queuename	states
 9760129	02/07/2020
 9760131	02/07/2020
 9760132	02/07/2020
+9760133	02/07/2020
 cc-hmid1	du
 cc-id1	du
 cc-id2	du
@@ -40,7 +41,6 @@ mac-inst-hmid1	du
 mac-inst-id1	du
 mac-inst-id2	du
 mac-inst-id3	du
-msg-hmio1	adu
 msg-hmio2	du
 msg-hmio3	adu
 msg-id10	adu
@@ -367,7 +367,6 @@ qb3-ih3	adu
 qb3-ih40	du
 qb3-ih41	adu
 qb3-ih41	du
-qb3-ih42	adu
 qb3-ih43	adu
 qb3-ih43	du
 qb3-ih44	du
