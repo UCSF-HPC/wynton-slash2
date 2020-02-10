@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-43080	02/10/2020
+43487	02/10/2020
 cc-idgpu2	E
 cc-idgpu4	E
 -	JOBS
@@ -35,7 +35,6 @@ qb3-id81	adu
 qb3-id90	u
 qb3-idgpu6	adu
 qb3-idgpu6	du
-qb3-idgpu7	du
 qb3-idgpu8	du
 qb3-ih1	adu
 qb3-ih2	adu
