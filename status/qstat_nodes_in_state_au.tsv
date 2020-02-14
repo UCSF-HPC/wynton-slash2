@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+307465	02/14/2020
 cc-idgpu2	au
 cc-idgpu2	u
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-ihgpu7	adu
