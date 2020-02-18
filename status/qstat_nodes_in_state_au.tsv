@@ -1,10 +1,15 @@
 queuename	states
+############################################################################	
+	
+403263	02/18/2020
 cc-idgpu1	E
 cc-idgpu2	au
 cc-idgpu2	u
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
+msg-id20	au
 msg-id40	adu
 msg-ihgpu7	adu
 msg-ihgpu7	du
@@ -13,6 +18,7 @@ msg-test5	adu
 qb3-id124	adu
 qb3-id125	u
 qb3-id127	u
+qb3-id128	au
 qb3-id138	au
 qb3-id138	u
 qb3-id141	u
