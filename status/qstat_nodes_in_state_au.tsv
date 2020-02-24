@@ -3,6 +3,10 @@ cc-idgpu2	au
 cc-idgpu2	u
 msg-id15	au
 msg-id40	adu
+msg-iogpu3	adu
+msg-iogpu3	du
+msg-iogpu6	au
+msg-iogpu6	u
 msg-test3	adu
 msg-test5	adu
 qb3-id37	adu
