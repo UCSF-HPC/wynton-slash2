@@ -1,6 +1,12 @@
 queuename	states
+############################################################################	
+	
+608299	03/04/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
+msg-ihgpu8	adu
+msg-ihgpu8	du
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu6	au
