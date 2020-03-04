@@ -1,12 +1,6 @@
 queuename	states
-############################################################################	
-	
-610694	03/04/2020
--	JOBS
 msg-id15	au
 msg-id40	adu
-msg-ihgpu7	au
-msg-ihgpu7	u
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu6	au
