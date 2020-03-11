@@ -1,10 +1,22 @@
 queuename	states
+############################################################################	
+	
+805545	03/11/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
+msg-ihgpu4	au
+msg-ihgpu4	u
+msg-ihgpu5	au
+msg-ihgpu5	u
 msg-iogpu10	adu
 msg-iogpu10	du
+msg-iogpu1	au
+msg-iogpu1	u
 msg-iogpu3	adu
 msg-iogpu3	du
+msg-iogpu4	au
+msg-iogpu4	u
 msg-iogpu6	au
 msg-iogpu6	u
 msg-test3	adu
