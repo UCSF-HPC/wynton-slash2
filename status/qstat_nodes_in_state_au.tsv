@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+805704	03/11/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-ihgpu1	au
@@ -9,6 +13,8 @@ msg-ihgpu3	au
 msg-ihgpu3	u
 msg-ihgpu4	au
 msg-ihgpu4	u
+msg-ihgpu5	au
+msg-ihgpu5	u
 msg-iogpu10	adu
 msg-iogpu10	du
 msg-iogpu1	au
@@ -19,10 +25,16 @@ msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu4	au
 msg-iogpu4	u
+msg-iogpu5	au
+msg-iogpu5	u
 msg-iogpu6	au
 msg-iogpu6	u
 msg-iogpu7	au
 msg-iogpu7	u
+msg-iogpu8	au
+msg-iogpu8	u
+msg-iogpu9	au
+msg-iogpu9	u
 msg-test3	adu
 msg-test5	adu
 qb3-id105	au
