@@ -1,14 +1,16 @@
 queuename	states
 ############################################################################	
 	
-807295	03/12/2020
+807298	03/12/2020
 -	JOBS
 msg-id15	au
 msg-id40	adu
+msg-ihgpu1	E
 msg-iogpu10	adu
 msg-iogpu10	du
 msg-iogpu2	au
 msg-iogpu2	u
+msg-iogpu8	E
 msg-test3	adu
 msg-test5	adu
 qb3-id105	au
