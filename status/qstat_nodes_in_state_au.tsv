@@ -1,12 +1,34 @@
 queuename	states
+############################################################################	
+	
+950352	03/27/2020
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
 msg-id40	adu
+msg-ihgpu1	adu
+msg-ihgpu1	du
+msg-ihgpu2	adu
+msg-ihgpu2	du
+msg-ihgpu3	adu
+msg-ihgpu3	du
 msg-ihgpu4	au
 msg-ihgpu4	u
+msg-ihgpu5	adu
+msg-ihgpu5	du
+msg-ihgpu8	adu
+msg-ihgpu8	du
 msg-iogpu10	adu
 msg-iogpu10	du
+msg-iogpu1	adu
+msg-iogpu1	du
+msg-iogpu2	adu
+msg-iogpu2	du
+msg-iogpu3	adu
+msg-iogpu3	du
+msg-iogpu4	adu
+msg-iogpu4	du
 msg-test3	adu
 msg-test5	adu
 qb3-id105	au
