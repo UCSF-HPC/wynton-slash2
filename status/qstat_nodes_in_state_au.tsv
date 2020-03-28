@@ -7,14 +7,10 @@ cc-idgpu4	u
 -	JOBS
 msg-id15	au
 msg-id40	adu
-msg-ihgpu1	adu
-msg-ihgpu1	du
 msg-ihgpu4	au
 msg-ihgpu4	u
 msg-iogpu10	adu
 msg-iogpu10	du
-msg-iogpu2	adu
-msg-iogpu2	du
 msg-test3	adu
 msg-test5	adu
 qb3-id105	au
