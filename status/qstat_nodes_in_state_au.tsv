@@ -1,7 +1,12 @@
 queuename	states
+############################################################################	
+	
+1018100	04/02/2020
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
+msg-id1	adu
 msg-id40	adu
 msg-ihgpu4	au
 msg-ihgpu4	u
