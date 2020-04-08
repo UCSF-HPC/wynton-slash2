@@ -3,7 +3,6 @@ queuename	states
 	
 1091052	04/07/2020
 1091053	04/07/2020
-1092644	04/07/2020
 1092649	04/07/2020
 cc-idgpu4	au
 cc-idgpu4	u
@@ -15,6 +14,7 @@ msg-ihgpu4	au
 msg-ihgpu4	u
 msg-iogpu10	adu
 msg-iogpu10	du
+msg-iogpu9	E
 msg-test3	adu
 msg-test5	adu
 qb3-id37	adu
