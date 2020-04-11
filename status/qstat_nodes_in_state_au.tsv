@@ -2,9 +2,9 @@ queuename	states
 cc-idgpu4	au
 cc-idgpu4	u
 mac-id1	au
-mac-inst-id1	adu
-mac-inst-id2	adu
+mac-id7	adu
 msg-id15	au
+msg-id22	adu
 msg-id25	E
 msg-id27	dE
 msg-id40	adu
