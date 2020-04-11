@@ -1,8 +1,14 @@
 queuename	states
+############################################################################	
+	
+1138244	04/10/2020
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 mac-id1	au
+mac-inst-hmid1	adu
 msg-id15	au
+msg-id21	adu
 msg-id25	E
 msg-id27	E
 msg-id40	adu
