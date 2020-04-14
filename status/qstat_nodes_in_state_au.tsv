@@ -3,6 +3,8 @@ queuename	states
 	
 1156619	04/13/2020
 1156620	04/13/2020
+1158319	04/14/2020
+1158344	04/14/2020
 cc-idgpu4	au
 cc-idgpu4	u
 -	JOBS
@@ -16,7 +18,6 @@ msg-iogpu10	adu
 msg-iogpu10	du
 msg-test3	adu
 msg-test5	adu
-qb3-ad5	adu
 qb3-id37	adu
 qb3-id68	au
 qb3-id7	adu
