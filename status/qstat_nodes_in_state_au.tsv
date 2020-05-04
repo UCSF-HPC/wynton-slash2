@@ -1,7 +1,11 @@
 queuename	states
+############################################################################	
+	
+1376411	05/03/2020
 cc-idgpu1	E
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 mac-id1	au
 mac-id5	au
 msg-id15	au
@@ -20,6 +24,7 @@ qb3-id37	adu
 qb3-id4	au
 qb3-id68	au
 qb3-id7	adu
+qb3-idgpu3	E
 qb3-ih1	adu
 qb3-ih2	adu
 qb3-ih3	adu
