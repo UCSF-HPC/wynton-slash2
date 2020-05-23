@@ -3,9 +3,6 @@ queuename	states
 	
 1683453	05/22/2020
 1683454	05/22/2020
-1688087	05/23/2020
-1688188	05/23/2020
-1688393	05/23/2020
 cc-idgpu4	au
 cc-idgpu4	u
 -	JOBS
@@ -36,6 +33,7 @@ qb3-id206	adu
 qb3-id207	adu
 qb3-id212	au
 qb3-id213	adu
+qb3-id215	adu
 qb3-id37	adu
 qb3-id4	au
 qb3-id55	au
