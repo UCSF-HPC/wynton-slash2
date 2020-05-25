@@ -1,6 +1,10 @@
 queuename	states
+############################################################################	
+	
+1744668	05/25/2020
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -11,6 +15,7 @@ msg-iogpu10	du
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
+qb3-ad5	E
 qb3-id105	au
 qb3-id168	au
 qb3-id169	au
