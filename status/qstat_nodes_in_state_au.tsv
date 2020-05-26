@@ -1,8 +1,7 @@
 queuename	states
 ############################################################################	
 	
-1761722	05/26/2020
-1761823	05/26/2020
+1761828	05/26/2020
 cc-idgpu1	adu
 cc-idgpu1	au
 cc-idgpu1	u
@@ -10,7 +9,6 @@ cc-idgpu4	au
 cc-idgpu4	u
 -	JOBS
 msg-id15	au
-msg-id30	E
 msg-id38	E
 msg-id40	adu
 msg-id4	au
@@ -49,7 +47,7 @@ qb3-id76	au
 qb3-id7	adu
 qb3-id80	au
 qb3-ih1	adu
-qb3-ih20	E
+qb3-ih20	aE
 qb3-ih2	adu
 qb3-ih3	adu
 qb3-ih40	au
