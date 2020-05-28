@@ -29,8 +29,14 @@ msg-iogpu12	u
 msg-iogpu13	adu
 msg-iogpu13	au
 msg-iogpu13	u
+msg-iogpu1	au
+msg-iogpu1	u
 msg-iogpu2	au
 msg-iogpu2	u
+msg-iogpu3	au
+msg-iogpu3	u
+msg-iogpu4	au
+msg-iogpu4	u
 msg-iogpu5	adu
 msg-iogpu5	au
 msg-iogpu5	u
