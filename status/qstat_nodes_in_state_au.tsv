@@ -1,4 +1,7 @@
 queuename	states
+############################################################################	
+	
+1863579	06/01/2020
 cc-idgpu1	adu
 cc-idgpu1	au
 cc-idgpu1	u
@@ -7,6 +10,7 @@ cc-idgpu2	au
 cc-idgpu2	u
 cc-idgpu4	au
 cc-idgpu4	u
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -18,7 +22,6 @@ msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
 qb3-id105	adu
-qb3-id127	adu
 qb3-id168	au
 qb3-id169	au
 qb3-id170	au
@@ -33,7 +36,6 @@ qb3-id190	adu
 qb3-id212	adu
 qb3-id213	adu
 qb3-id215	adu
-qb3-id37	adu
 qb3-id4	adu
 qb3-id55	adu
 qb3-id59	adu
