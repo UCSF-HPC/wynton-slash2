@@ -1,8 +1,4 @@
 queuename	states
-############################################################################	
-	
-1991747	06/08/2020
--	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -10,6 +6,7 @@ msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	adu
 msg-iogpu10	du
+msg-iogpu2	E
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
