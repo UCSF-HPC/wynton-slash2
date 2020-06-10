@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+2028258	06/10/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -27,7 +31,6 @@ qb3-ih3	adu
 qb3-ih40	au
 qb3-ih4	adu
 qb3-ih50	au
-qb3-ih60	au
 qb3-ih77	adu
 qb3-ih78	adu
 qb3-ih79	adu
