@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+2081988	06/11/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -37,8 +41,5 @@ qb3-io16	au
 qb3-io18	au
 qb3-io5	au
 qb3-io5	u
-qb3-iogpu1	adu
-qb3-iogpu1	au
-qb3-iogpu1	u
 qb3-iogpu2	adu
 qb3-iogpu2	du
