@@ -4,6 +4,8 @@ msg-id40	adu
 msg-id4	au
 msg-ihgpu4	adu
 msg-ihgpu4	du
+msg-ihgpu8	adu
+msg-ihgpu8	du
 msg-iogpu10	adu
 msg-iogpu10	du
 msg-test3	adu
