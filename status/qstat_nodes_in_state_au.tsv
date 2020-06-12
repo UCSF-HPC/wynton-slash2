@@ -1,4 +1,8 @@
 queuename	states
+############################################################################	
+	
+2101591	06/12/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -6,8 +10,6 @@ msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	adu
 msg-iogpu10	du
-msg-iogpu3	adu
-msg-iogpu3	du
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
