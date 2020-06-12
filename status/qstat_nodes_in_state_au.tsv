@@ -6,6 +6,10 @@ msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	adu
 msg-iogpu10	du
+msg-iogpu5	adu
+msg-iogpu5	du
+msg-iogpu9	adu
+msg-iogpu9	du
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
