@@ -1,5 +1,6 @@
 queuename	states
 msg-id15	au
+msg-id22	adu
 msg-id40	adu
 msg-id4	au
 msg-ihgpu4	adu
@@ -9,6 +10,8 @@ msg-iogpu10	du
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
+qb3-id108	adu
+qb3-id132	adu
 qb3-id168	au
 qb3-id169	au
 qb3-id170	au
@@ -21,7 +24,6 @@ qb3-id190	adu
 qb3-id212	adu
 qb3-id37	adu
 qb3-id46	au
-qb3-id63	adu
 qb3-idgpu4	E
 qb3-ih1	adu
 qb3-ih2	adu
