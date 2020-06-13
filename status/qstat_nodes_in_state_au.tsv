@@ -1,9 +1,11 @@
 queuename	states
+############################################################################	
+	
+2113313	06/13/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
-msg-ihgpu2	adu
-msg-ihgpu2	du
 msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	adu
