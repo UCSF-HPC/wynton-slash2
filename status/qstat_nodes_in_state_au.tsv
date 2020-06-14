@@ -1,5 +1,10 @@
 queuename	states
+############################################################################	
+	
+2119624	06/14/2020
+-	JOBS
 msg-id15	au
+msg-id36	adu
 msg-id40	adu
 msg-id4	au
 msg-ihgpu4	adu
@@ -21,7 +26,6 @@ qb3-id190	adu
 qb3-id212	adu
 qb3-id37	adu
 qb3-id46	au
-qb3-id74	adu
 qb3-idgpu4	E
 qb3-ih1	adu
 qb3-ih2	adu
