@@ -1,5 +1,8 @@
 queuename	states
-mac-id6	adu
+############################################################################	
+	
+2182960	06/18/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
@@ -11,7 +14,6 @@ msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
 qb3-id105	au
-qb3-id121	adu
 qb3-id168	au
 qb3-id169	au
 qb3-id170	au
@@ -23,14 +25,11 @@ qb3-id175	au
 qb3-id190	adu
 qb3-id37	adu
 qb3-id46	au
-qb3-ih11	adu
 qb3-ih16	adu
 qb3-ih1	adu
 qb3-ih2	adu
-qb3-ih36	adu
 qb3-ih3	adu
 qb3-ih40	au
-qb3-ih44	adu
 qb3-ih4	adu
 qb3-ih50	au
 qb3-ih77	adu
