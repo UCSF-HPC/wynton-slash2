@@ -1,10 +1,15 @@
 queuename	states
+############################################################################	
+	
+9788097	07/07/2020
+-	JOBS
 msg-id15	au
 msg-id40	adu
 msg-id4	au
 msg-id9	au
 msg-ihgpu4	adu
 msg-ihgpu4	du
+msg-iogpu3	E
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
