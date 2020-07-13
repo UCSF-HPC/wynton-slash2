@@ -1,8 +1,7 @@
 queuename	states
 ############################################################################	
 	
-9846844	07/12/2020
-cc-idgpu2	E
+9846857	07/12/2020
 -	JOBS
 msg-id15	au
 msg-id40	adu
@@ -10,7 +9,6 @@ msg-id4	au
 msg-id9	au
 msg-ihgpu4	adu
 msg-ihgpu4	du
-msg-iogpu9	E
 msg-test3	adu
 msg-test5	adu
 qb3-ad1	adu
