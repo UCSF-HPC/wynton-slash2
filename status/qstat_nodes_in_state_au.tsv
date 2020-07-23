@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-51798	07/23/2020
+51811	07/23/2020
 cc-idgpu1	adu
 cc-idgpu1	du
 cc-idgpu2	adu
@@ -44,7 +44,6 @@ qb3-idgpu8	du
 qb3-idgpu9	adu
 qb3-idgpu9	du
 qb3-ih1	adu
-qb3-ih20	au
 qb3-ih2	adu
 qb3-ih3	adu
 qb3-ih40	au
