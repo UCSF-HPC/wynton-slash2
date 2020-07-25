@@ -1,18 +1,16 @@
 queuename	states
-############################################################################	
-	
-94944	07/25/2020
 cc-idgpu1	adu
 cc-idgpu1	du
 cc-idgpu2	adu
 cc-idgpu2	du
 cc-idgpu4	adu
 cc-idgpu4	du
--	JOBS
 msg-id15	adu
 msg-id40	adu
 msg-id4	adu
 msg-id9	adu
+msg-ihgpu3	au
+msg-ihgpu3	u
 msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu13	au
