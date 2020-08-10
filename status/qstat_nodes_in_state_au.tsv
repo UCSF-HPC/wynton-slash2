@@ -56,6 +56,8 @@ queuename	states
 255890	08/10/2020
 255891	08/10/2020
 255892	08/10/2020
+255893	08/10/2020
+255894	08/10/2020
 cc-idgpu2	aDu
 cc-idgpu2	u
 cc-idgpu4	aDu
@@ -65,6 +67,7 @@ mac-id2	aDu
 msg-id15	aDdu
 msg-id40	aDdu
 msg-id4	aDdu
+msg-id5	aDu
 msg-id9	aDdu
 msg-ihgpu4	aDdu
 msg-ihgpu4	Ddu
@@ -80,8 +83,10 @@ qb3-id172	aDu
 qb3-id173	aDu
 qb3-id174	aDu
 qb3-id175	aDu
+qb3-id179	aDu
 qb3-id190	aDdu
 qb3-id191	aDu
+qb3-id28	aDdu
 qb3-id37	aDdu
 qb3-id38	aDu
 qb3-id41	aDu
@@ -94,6 +99,8 @@ qb3-id74	aDu
 qb3-id86	aDu
 qb3-idgpu12	aDu
 qb3-idgpu12	Du
+qb3-idgpu3	aDu
+qb3-idgpu3	Du
 qb3-idgpu8	aDu
 qb3-idgpu8	Du
 qb3-idgpu9	aDdu
