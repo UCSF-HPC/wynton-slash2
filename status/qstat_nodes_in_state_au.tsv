@@ -95,6 +95,7 @@ queuename	states
 9941972	08/12/2020
 9941974	08/12/2020
 9941978	08/12/2020
+9941980	08/12/2020
 cc-hmid1	aDu
 cc-id1	aDu
 cc-id2	aDu
@@ -137,8 +138,6 @@ msg-ihgpu4	aDdu
 msg-ihgpu4	Ddu
 msg-iogpu10	aDu
 msg-iogpu10	Du
-msg-iogpu1	aDu
-msg-iogpu1	Du
 msg-iogpu3	aDu
 msg-iogpu3	Du
 msg-test3	aDdu
