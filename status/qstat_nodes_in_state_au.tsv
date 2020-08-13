@@ -1,19 +1,19 @@
 queuename	states
+############################################################################	
+	
 182369	07/30/2020
+9942465	08/13/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
-cc-idgpu1	adu
-cc-idgpu1	du
 cc-idgpu2	adu
 cc-idgpu2	du
 cc-idgpu3	adu
 cc-idgpu3	du
 cc-idgpu4	adu
 cc-idgpu4	du
-cc-idgpu5	adu
-cc-idgpu5	du
+-	JOBS
 mac-id1	au
 mac-id2	au
 mac-id3	au
