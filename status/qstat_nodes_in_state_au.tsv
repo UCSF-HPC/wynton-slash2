@@ -1,19 +1,9 @@
 queuename	states
-############################################################################	
-	
 182369	07/30/2020
-9942465	08/13/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
-cc-idgpu2	adu
-cc-idgpu2	du
-cc-idgpu3	adu
-cc-idgpu3	du
-cc-idgpu4	adu
-cc-idgpu4	du
--	JOBS
 mac-id1	au
 mac-id2	au
 mac-id3	au
@@ -93,12 +83,8 @@ qb3-idgpu12	au
 qb3-idgpu12	u
 qb3-idgpu3	au
 qb3-idgpu3	u
-qb3-idgpu7	au
-qb3-idgpu7	u
 qb3-idgpu8	au
 qb3-idgpu8	u
-qb3-idgpu9	adu
-qb3-idgpu9	du
 qb3-ih10	adu
 qb3-ih11	au
 qb3-ih12	au
