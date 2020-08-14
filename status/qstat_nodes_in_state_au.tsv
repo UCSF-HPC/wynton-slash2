@@ -1,10 +1,14 @@
 queuename	states
+############################################################################	
+	
+9944273	08/13/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
 cc-idgpu1	E
 cc-idgpu2	E
+-	JOBS
 mac-id1	au
 mac-id2	au
 mac-id3	au
@@ -96,10 +100,12 @@ qb3-ih8	u
 qb3-ih9	au
 qb3-io10	au
 qb3-io11	adu
+qb3-io16	adu
 qb3-io18	au
 qb3-io19	au
 qb3-io1	au
 qb3-io3	au
 qb3-io5	au
+qb3-io6	adu
 qb3-iogpu2	adu
 qb3-iogpu2	du
