@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-9967753	08/17/2020
+9967758	08/17/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
@@ -31,6 +31,8 @@ msg-id5	au
 msg-id9	adu
 msg-ihgpu4	adu
 msg-ihgpu4	du
+msg-ihgpu5	au
+msg-ihgpu5	u
 msg-iogpu10	au
 msg-iogpu10	u
 msg-iogpu3	au
