@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+9989452	08/19/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
+-	JOBS
 mac-id1	au
 mac-id2	au
 mac-id3	au
@@ -11,9 +15,7 @@ mac-id5	au
 mac-id6	au
 mac-id7	adu
 mac-id8	adu
-mac-inst-hmid1	au
 mac-inst-id1	au
-mac-inst-id2	au
 mac-inst-id3	au
 msg-hmio1	au
 msg-hmio2	au
