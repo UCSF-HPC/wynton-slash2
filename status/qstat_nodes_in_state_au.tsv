@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+9998878	08/20/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
+-	JOBS
 msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	au
@@ -76,7 +80,6 @@ qb3-ih42	au
 qb3-ih43	au
 qb3-ih44	au
 qb3-ih45	au
-qb3-ih48	au
 qb3-ih4	adu
 qb3-ih50	au
 qb3-ih59	au
