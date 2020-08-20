@@ -1,12 +1,8 @@
 queuename	states
-############################################################################	
-	
-9999156	08/20/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
--	JOBS
 msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	au
@@ -86,6 +82,7 @@ qb3-ih59	au
 qb3-ih5	au
 qb3-ih6	au
 qb3-ih70	au
+qb3-ih73	au
 qb3-ih74	au
 qb3-ih75	au
 qb3-ih77	adu
