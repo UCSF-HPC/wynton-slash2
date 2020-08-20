@@ -18,6 +18,7 @@ mac-id2	au
 mac-id3	au
 mac-id5	au
 mac-id6	au
+mac-inst-hmid1	au
 mac-inst-id1	au
 mac-inst-id2	au
 msg-hmio1	au
@@ -31,6 +32,7 @@ msg-id14	au
 msg-id15	adu
 msg-id16	au
 msg-id17	au
+msg-id19	au
 msg-id1	au
 msg-id20	au
 msg-id21	au
@@ -41,6 +43,7 @@ msg-id25	au
 msg-id26	au
 msg-id27	au
 msg-id28	au
+msg-id29	au
 msg-id2	au
 msg-id30	au
 msg-id31	au
@@ -58,6 +61,8 @@ msg-id5	au
 msg-id7	au
 msg-id8	au
 msg-id9	adu
+msg-ihgpu2	au
+msg-ihgpu2	u
 msg-ihgpu3	au
 msg-ihgpu3	u
 msg-ihgpu4	adu
@@ -210,6 +215,7 @@ qb3-id210	au
 qb3-id211	au
 qb3-id212	au
 qb3-id213	au
+qb3-id214	au
 qb3-id215	au
 qb3-id216	au
 qb3-id217	au
