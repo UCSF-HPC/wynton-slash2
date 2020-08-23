@@ -17,7 +17,6 @@ msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	au
 msg-iogpu10	u
-msg-iogpu9	E
 msg-test3	adu
 msg-test5	adu
 qb3-ad10	adu
@@ -41,7 +40,6 @@ qb3-idgpu12	au
 qb3-idgpu12	u
 qb3-idgpu1	au
 qb3-idgpu1	u
-qb3-idgpu7	E
 qb3-ih10	adu
 qb3-ih11	au
 qb3-ih12	au
