@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+107180	08/26/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
+-	JOBS
 msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	au
@@ -40,7 +44,6 @@ qb3-idgpu12	au
 qb3-idgpu12	u
 qb3-idgpu1	au
 qb3-idgpu1	u
-qb3-idgpu6	E
 qb3-ih10	adu
 qb3-ih11	au
 qb3-ih12	au
