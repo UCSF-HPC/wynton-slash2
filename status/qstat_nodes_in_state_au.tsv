@@ -1,8 +1,12 @@
 queuename	states
+############################################################################	
+	
+161043	08/29/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
+-	JOBS
 msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	au
@@ -17,6 +21,7 @@ msg-ihgpu4	adu
 msg-ihgpu4	du
 msg-iogpu10	au
 msg-iogpu10	u
+msg-iogpu9	E
 qb3-ad10	adu
 qb3-ad1	adu
 qb3-ad6	au
