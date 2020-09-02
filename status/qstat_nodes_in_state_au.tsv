@@ -1,12 +1,11 @@
 queuename	states
-############################################################################	
-	
 191581	09/02/2020
-191597	09/02/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
 cc-id3	au
+cc-idgpu1	au
+cc-idgpu1	u
 cc-idgpu2	au
 cc-idgpu2	u
 cc-idgpu3	au
@@ -15,7 +14,6 @@ cc-idgpu4	au
 cc-idgpu4	u
 cc-idgpu5	au
 cc-idgpu5	u
--	JOBS
 mac-id1	au
 mac-id2	au
 mac-id3	au
@@ -42,6 +40,7 @@ msg-id17	au
 msg-id18	au
 msg-id19	au
 msg-id1	au
+msg-id20	au
 msg-id21	au
 msg-id22	au
 msg-id23	au
@@ -139,6 +138,7 @@ qb3-id114	au
 qb3-id115	au
 qb3-id116	au
 qb3-id118	au
+qb3-id119	au
 qb3-id11	au
 qb3-id120	au
 qb3-id121	au
@@ -154,6 +154,7 @@ qb3-id130	au
 qb3-id131	au
 qb3-id132	au
 qb3-id133	au
+qb3-id134	au
 qb3-id135	au
 qb3-id136	au
 qb3-id137	au
@@ -335,6 +336,8 @@ qb3-idgpu2	au
 qb3-idgpu2	u
 qb3-idgpu3	au
 qb3-idgpu3	u
+qb3-idgpu4	au
+qb3-idgpu4	u
 qb3-idgpu5	au
 qb3-idgpu5	u
 qb3-idgpu6	au
@@ -409,6 +412,7 @@ qb3-ih69	au
 qb3-ih6	au
 qb3-ih70	au
 qb3-ih71	au
+qb3-ih72	au
 qb3-ih73	au
 qb3-ih74	au
 qb3-ih75	au
@@ -423,6 +427,7 @@ qb3-io10	au
 qb3-io11	au
 qb3-io12	adu
 qb3-io13	au
+qb3-io14	au
 qb3-io15	au
 qb3-io16	au
 qb3-io18	au
