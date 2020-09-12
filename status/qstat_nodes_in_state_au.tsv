@@ -6,6 +6,8 @@ queuename	states
 290428	09/11/2020
 290434	09/11/2020
 290441	09/11/2020
+290449	09/11/2020
+290459	09/11/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
@@ -45,8 +47,6 @@ qb3-id233	adu
 qb3-id234	adu
 qb3-id235	adu
 qb3-id6	au
-qb3-idgpu1	E
-qb3-idgpu2	E
 qb3-ih10	adu
 qb3-ih11	au
 qb3-ih12	au
