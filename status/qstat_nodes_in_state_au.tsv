@@ -13,8 +13,14 @@ msg-id40	adu
 msg-id4	adu
 msg-id5	au
 msg-id9	adu
+msg-ihgpu2	au
+msg-ihgpu2	u
+msg-ihgpu3	au
+msg-ihgpu3	u
 msg-ihgpu4	adu
 msg-ihgpu4	du
+msg-ihgpu5	au
+msg-ihgpu5	u
 msg-iogpu10	au
 msg-iogpu10	u
 qb3-ad10	adu
