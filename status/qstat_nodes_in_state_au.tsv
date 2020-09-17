@@ -1,7 +1,7 @@
 queuename	states
 ############################################################################	
 	
-347864	09/17/2020
+347877	09/17/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
@@ -57,17 +57,13 @@ qb3-ih10	adu
 qb3-ih11	au
 qb3-ih12	au
 qb3-ih18	au
-qb3-ih19	au
 qb3-ih1	adu
-qb3-ih20	au
 qb3-ih21	au
 qb3-ih22	au
-qb3-ih23	au
 qb3-ih24	au
 qb3-ih25	au
 qb3-ih26	au
 qb3-ih27	au
-qb3-ih28	au
 qb3-ih29	au
 qb3-ih2	adu
 qb3-ih30	au
@@ -91,8 +87,6 @@ qb3-ih48	au
 qb3-ih4	adu
 qb3-ih50	au
 qb3-ih59	au
-qb3-ih5	au
-qb3-ih6	au
 qb3-ih70	au
 qb3-ih74	au
 qb3-ih75	au
