@@ -1,9 +1,7 @@
 queuename	states
 ############################################################################	
 	
-486225	09/30/2020
-486230	09/30/2020
-486231	09/30/2020
+486239	09/30/2020
 cc-hmid1	au
 cc-id1	au
 cc-id2	au
@@ -46,8 +44,11 @@ qb3-id234	adu
 qb3-id235	adu
 qb3-id36	au
 qb3-id37	adu
+qb3-id4	au
 qb3-id52	au
+qb3-id5	au
 qb3-id6	adu
+qb3-id7	au
 qb3-idgpu7	adu
 qb3-idgpu7	du
 qb3-ih1	adu
