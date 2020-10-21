@@ -7,14 +7,8 @@ msg-hmio2	au
 msg-id10	au
 msg-id15	adu
 msg-id40	adu
-msg-ihgpu2	adu
-msg-ihgpu2	du
-msg-ihgpu3	adu
-msg-ihgpu3	du
 msg-ihgpu4	adu
 msg-ihgpu4	du
-msg-ihgpu5	adu
-msg-ihgpu5	du
 msg-iogpu10	adu
 msg-iogpu10	du
 qb3-ad10	adu
