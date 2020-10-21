@@ -6,7 +6,6 @@ cc-id3	au
 msg-hmio2	au
 msg-id10	au
 msg-id15	adu
-msg-id17	E
 msg-id40	adu
 msg-ihgpu2	adu
 msg-ihgpu2	du
@@ -51,7 +50,6 @@ qb3-id52	au
 qb3-id5	au
 qb3-id6	adu
 qb3-id7	au
-qb3-idgpu11	E
 qb3-idgpu6	adu
 qb3-idgpu6	du
 qb3-idgpu7	adu
