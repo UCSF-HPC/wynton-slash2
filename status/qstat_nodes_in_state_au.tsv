@@ -4,6 +4,7 @@ cc-idgpu1	u
 msg-hmio2	aDdu
 msg-id10	aDdu
 msg-id15	aDdu
+msg-id22	aDu
 msg-id40	aDdu
 msg-iogpu10	aDdu
 msg-iogpu10	Ddu
@@ -12,9 +13,13 @@ qb3-ad1	aDdu
 qb3-ad6	aDu
 qb3-ad7	aDu
 qb3-id105	aDu
+qb3-id149	aDu
+qb3-id159	aDu
 qb3-id162	aDu
+qb3-id164	aDu
 qb3-id190	aDdu
 qb3-id190	aDu
+qb3-id198	aDu
 qb3-idgpu10	DE
 qb3-idgpu12	aDu
 qb3-idgpu12	Du
@@ -26,9 +31,11 @@ qb3-ih31	aDdu
 qb3-ih37	aDdu
 qb3-ih39	aDdu
 qb3-ih3	aDdu
+qb3-ih40	aDu
 qb3-ih48	aDu
 qb3-ih4	aDdu
 qb3-ih50	aDu
+qb3-ih52	aDu
 qb3-ih59	aDu
 qb3-ih64	aDu
 qb3-ih70	aDu
