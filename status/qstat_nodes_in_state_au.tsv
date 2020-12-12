@@ -23,6 +23,7 @@ msg-id40	adu
 msg-iogpu10	adu
 msg-iogpu10	du
 qb3-ad2	adu
+qb3-hmid4	adu
 qb3-id105	au
 qb3-id121	adu
 qb3-id127	au
@@ -36,6 +37,10 @@ qb3-id230	adu
 qb3-id25	au
 qb3-id37	adu
 qb3-id87	au
+qb3-idgpu10	adu
+qb3-idgpu10	du
+qb3-idgpu5	adu
+qb3-idgpu5	du
 qb3-ih10	adu
 qb3-ih18	au
 qb3-ih1	adu
