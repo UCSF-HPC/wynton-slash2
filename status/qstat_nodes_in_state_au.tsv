@@ -3,6 +3,8 @@ cc-idgpu1	au
 cc-idgpu1	u
 cc-idgpu2	adu
 cc-idgpu2	du
+cc-idgpu5	adu
+cc-idgpu5	du
 mac-id1	au
 mac-id2	au
 mac-id3	au
@@ -28,14 +30,18 @@ qb3-id121	adu
 qb3-id127	au
 qb3-id130	au
 qb3-id133	au
+qb3-id141	adu
 qb3-id177	au
 qb3-id185	au
 qb3-id190	adu
 qb3-id190	au
+qb3-id224	adu
 qb3-id230	adu
 qb3-id25	au
 qb3-id37	adu
 qb3-id87	au
+qb3-idgpu12	adu
+qb3-idgpu12	du
 qb3-ih10	adu
 qb3-ih18	au
 qb3-ih1	adu
