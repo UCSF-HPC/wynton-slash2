@@ -1,8 +1,4 @@
 queuename	states
-cc-idgpu1	au
-cc-idgpu1	u
-cc-idgpu2	adu
-cc-idgpu2	du
 mac-inst-id3	au
 msg-hmio2	adu
 msg-hmio3	au
