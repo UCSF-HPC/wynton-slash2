@@ -9,9 +9,8 @@ msg-hmio3	au
 msg-id10	adu
 msg-id15	adu
 msg-id40	adu
-msg-iogpu10	aDdu
 msg-iogpu10	adu
-msg-iogpu10	Ddu
+msg-iogpu10	du
 qb3-ad2	adu
 qb3-id127	adu
 qb3-id130	au
