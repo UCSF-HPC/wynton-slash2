@@ -1,5 +1,6 @@
 queuename	states
 1344015	01/28/2021
+cc-id1	adu
 cc-idgpu4	au
 cc-idgpu4	u
 mac-id2	au
@@ -15,7 +16,6 @@ msg-iogpu10	du
 qb3-ad2	adu
 qb3-id127	adu
 qb3-id130	au
-qb3-id131	adu
 qb3-id133	adu
 qb3-id145	adu
 qb3-id177	au
