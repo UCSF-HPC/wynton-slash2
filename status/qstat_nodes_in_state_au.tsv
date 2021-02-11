@@ -1,5 +1,4 @@
 queuename	states
-1344015	01/28/2021
 mac-id2	au
 mac-inst-id3	au
 msg-hmio2	adu
@@ -25,10 +24,6 @@ qb3-id37	au
 qb3-id46	au
 qb3-id88	au
 qb3-idgpu11	E
-qb3-idgpu7	adu
-qb3-idgpu7	du
-qb3-idgpu9	adu
-qb3-idgpu9	du
 qb3-ih10	adu
 qb3-ih18	au
 qb3-ih31	adu
@@ -37,7 +32,6 @@ qb3-ih39	adu
 qb3-ih49	au
 qb3-ih54	au
 qb3-ih55	au
-qb3-ih59	au
 qb3-ih64	au
 qb3-ih66	adu
 qb3-ih67	au
