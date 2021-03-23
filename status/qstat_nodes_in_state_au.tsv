@@ -11,7 +11,7 @@ msg-id15	adu
 msg-id40	adu
 msg-iogpu10	adu
 msg-iogpu10	du
-qb3-ad10	E
+qb3-ad10	aE
 qb3-ad2	adu
 qb3-ad6	aE
 qb3-ad8	E
@@ -30,7 +30,7 @@ qb3-ih17	E
 qb3-ih18	adu
 qb3-ih22	E
 qb3-ih26	E
-qb3-ih28	E
+qb3-ih28	aE
 qb3-ih30	au
 qb3-ih31	adu
 qb3-ih35	E
