@@ -2,6 +2,7 @@ queuename	states
 cc-idgpu4	au
 cc-idgpu4	u
 mac-id2	au
+mac-id8	au
 mac-inst-id3	au
 msg-hmio2	adu
 msg-hmio3	au
@@ -12,7 +13,6 @@ msg-id40	adu
 qb3-ad2	adu
 qb3-id127	adu
 qb3-id133	adu
-qb3-id15	au
 qb3-id177	au
 qb3-id185	au
 qb3-id190	adu
