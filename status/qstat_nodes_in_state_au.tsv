@@ -8,6 +8,7 @@ msg-id14	au
 msg-id15	adu
 msg-id40	adu
 qb3-ad2	adu
+qb3-id105	au
 qb3-id127	adu
 qb3-id133	adu
 qb3-id177	au
@@ -39,3 +40,5 @@ qb3-ih9	au
 qb3-io22	E
 qb3-io27	adu
 qb3-io28	adu
+qb3-iogpu5	adu
+qb3-iogpu5	du
