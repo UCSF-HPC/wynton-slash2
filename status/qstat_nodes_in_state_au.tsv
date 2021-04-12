@@ -22,6 +22,7 @@ qb3-idgpu12	au
 qb3-idgpu12	u
 qb3-idgpu2	au
 qb3-idgpu2	u
+qb3-ih17	E
 qb3-ih18	adu
 qb3-ih27	au
 qb3-ih30	au
@@ -36,7 +37,6 @@ qb3-ih66	adu
 qb3-ih67	au
 qb3-ih76	au
 qb3-ih9	au
-qb3-io22	E
 qb3-io27	adu
 qb3-io28	adu
 qb3-iogpu5	adu
