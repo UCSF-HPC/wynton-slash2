@@ -1,4 +1,6 @@
 queuename	states
+cc-idgpu2	adu
+cc-idgpu2	du
 cc-idgpu4	au
 cc-idgpu4	u
 mac-id2	au
