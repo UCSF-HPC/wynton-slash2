@@ -3,6 +3,7 @@ cc-idgpu1	adu
 cc-idgpu1	du
 cc-idgpu2	au
 cc-idgpu2	u
+mac-id1	au
 mac-id2	au
 mac-inst-id3	au
 msg-hmio2	adu
@@ -14,6 +15,7 @@ msg-id40	adu
 qb3-ad2	adu
 qb3-id127	adu
 qb3-id133	adu
+qb3-id159	au
 qb3-id160	au
 qb3-id175	au
 qb3-id177	au
