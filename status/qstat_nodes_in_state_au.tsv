@@ -27,7 +27,7 @@ msg-iogpu3	au
 msg-iogpu3	u
 qb3-ad3	E
 qb3-ad5	E
-qb3-ad8	aE
+qb3-ad8	E
 qb3-ad9	E
 qb3-atgpu1	adu
 qb3-atgpu1	du
@@ -103,3 +103,4 @@ qb3-io28	adu
 qb3-io29	au
 qb3-iogpu1	E
 qb3-iogpu4	E
+qb3-iogpu5	E
