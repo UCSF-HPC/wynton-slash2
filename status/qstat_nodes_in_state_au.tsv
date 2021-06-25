@@ -26,7 +26,7 @@ msg-id40	au
 msg-iogpu3	au
 msg-iogpu3	u
 qb3-ad3	E
-qb3-ad8	E
+qb3-ad8	aE
 qb3-ad9	E
 qb3-atgpu1	adu
 qb3-atgpu1	du
@@ -74,6 +74,8 @@ qb3-ih33	au
 qb3-ih36	E
 qb3-ih37	adu
 qb3-ih39	adu
+qb3-ih41	E
+qb3-ih45	E
 qb3-ih49	adu
 qb3-ih51	E
 qb3-ih54	adu
@@ -82,6 +84,7 @@ qb3-ih62	E
 qb3-ih64	au
 qb3-ih66	E
 qb3-ih67	au
+qb3-ih69	E
 qb3-ih6	au
 qb3-ih70	E
 qb3-ih75	E
