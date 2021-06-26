@@ -33,7 +33,7 @@ msg-iogpu9	E
 qb3-ad3	E
 qb3-ad4	E
 qb3-ad5	E
-qb3-ad8	aE
+qb3-ad8	E
 qb3-ad9	E
 qb3-atgpu1	adu
 qb3-atgpu1	du
@@ -77,6 +77,7 @@ qb3-idgpu8	E
 qb3-idgpu9	E
 qb3-ih12	E
 qb3-ih13	E
+qb3-ih14	E
 qb3-ih15	au
 qb3-ih16	E
 qb3-ih20	E
