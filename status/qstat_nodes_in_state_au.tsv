@@ -22,7 +22,6 @@ qb3-id105	au
 qb3-id106	au
 qb3-id127	adu
 qb3-id133	adu
-qb3-id150	adu
 qb3-id175	au
 qb3-id177	au
 qb3-id185	au
@@ -46,16 +45,14 @@ qb3-idgpu12	du
 qb3-ih15	au
 qb3-ih30	au
 qb3-ih31	adu
-qb3-ih32	adu
 qb3-ih33	au
 qb3-ih37	adu
+qb3-ih38	adu
 qb3-ih39	adu
 qb3-ih49	adu
 qb3-ih64	au
 qb3-ih67	au
-qb3-ih69	adu
 qb3-ih6	au
-qb3-ih73	adu
 qb3-io27	adu
 qb3-io28	adu
 qb3-io29	au
