@@ -16,11 +16,13 @@ msg-id14	au
 msg-id15	adu
 msg-id2	adu
 msg-id40	au
+msg-ihgpu3	aDdu
 msg-ihgpu3	adu
-msg-ihgpu3	du
+msg-ihgpu3	Ddu
+msg-iogpu7	aDu
 msg-iogpu7	au
-msg-iogpu7	u
-msg-iogpu9	E
+msg-iogpu7	Du
+msg-iogpu9	DE
 qb3-id105	au
 qb3-id127	adu
 qb3-id133	adu
