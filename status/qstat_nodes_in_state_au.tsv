@@ -66,7 +66,7 @@ msg-iogpu8	au
 msg-iogpu8	Du
 msg-iogpu9	aDu
 msg-iogpu9	au
-msg-iogpu9	DuE
+msg-iogpu9	Du
 qb3-id105	au
 qb3-id127	adu
 qb3-id133	adu
@@ -93,7 +93,6 @@ qb3-ih49	adu
 qb3-ih64	au
 qb3-ih67	au
 qb3-ih6	au
-qb3-io22	E
 qb3-io27	adu
 qb3-io28	adu
 qb3-io29	au
