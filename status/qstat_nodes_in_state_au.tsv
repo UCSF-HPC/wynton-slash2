@@ -23,6 +23,7 @@ msg-id40	au
 msg-ihgpu3	adu
 msg-ihgpu3	du
 msg-iogpu1	E
+msg-iogpu5	E
 msg-iogpu6	E
 msg-iogpu7	au
 msg-iogpu7	u
@@ -76,6 +77,7 @@ qb3-id172	E
 qb3-id174	E
 qb3-id175	au
 qb3-id177	au
+qb3-id17	E
 qb3-id184	E
 qb3-id185	au
 qb3-id188	E
