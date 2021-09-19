@@ -4,6 +4,7 @@ mac-id1	E
 mac-id2	au
 mac-id4	E
 mac-id5	E
+mac-id6	E
 mac-id7	E
 mac-inst-id3	au
 msg-hmio1	E
@@ -22,7 +23,7 @@ msg-id2	adu
 msg-id30	E
 msg-id32	E
 msg-id33	E
-msg-id34	E
+msg-id34	aE
 msg-id35	E
 msg-id38	E
 msg-id3	E
@@ -66,6 +67,7 @@ qb3-id115	E
 qb3-id116	E
 qb3-id117	E
 qb3-id118	E
+qb3-id11	E
 qb3-id120	E
 qb3-id121	E
 qb3-id123	E
