@@ -18,6 +18,12 @@ msg-ihgpu3	du
 msg-iogpu7	au
 msg-iogpu7	u
 qb3-as3	au
+qb3-atgpu2	adu
+qb3-atgpu2	du
+qb3-atgpu3	adu
+qb3-atgpu3	du
+qb3-atgpu4	adu
+qb3-atgpu4	du
 qb3-atgpu5	adu
 qb3-atgpu5	du
 qb3-hmid10	au
