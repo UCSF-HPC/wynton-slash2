@@ -5,6 +5,7 @@ cc-id1	adu
 cc-id2	adu
 cc-id3	adu
 mac-id2	au
+mac-id4	E
 mac-id5	E
 mac-id6	E
 mac-inst-id3	au
@@ -56,8 +57,6 @@ qb3-id94	au
 qb3-id95	au
 qb3-idgpu11	adu
 qb3-idgpu11	du
-qb3-idgpu12	adu
-qb3-idgpu12	du
 qb3-idgpu13	adu
 qb3-idgpu13	u
 qb3-idgpu16	adu
