@@ -45,14 +45,6 @@ qb3-id144	au
 qb3-id145	au
 qb3-id146	au
 qb3-id147	au
-qb3-id148	au
-qb3-id149	au
-qb3-id150	au
-qb3-id151	au
-qb3-id152	au
-qb3-id153	au
-qb3-id154	au
-qb3-id155	au
 qb3-id175	au
 qb3-id177	au
 qb3-id185	au
@@ -97,10 +89,8 @@ qb3-idgpu12	adu
 qb3-idgpu12	u
 qb3-idgpu13	adu
 qb3-idgpu13	u
-qb3-idgpu1	au
-qb3-idgpu1	u
-qb3-idgpu2	au
-qb3-idgpu2	u
+qb3-idgpu1	E
+qb3-idgpu2	E
 qb3-idgpu6	adu
 qb3-idgpu6	u
 qb3-idgpu7	au
