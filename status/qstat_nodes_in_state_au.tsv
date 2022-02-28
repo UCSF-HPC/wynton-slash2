@@ -1,6 +1,5 @@
 queuename	states
 mac-id2	aDu
-mac-id4	aDu
 mac-inst-id1	aDu
 mac-inst-id3	aDu
 msg-id10	aDdu
@@ -14,16 +13,12 @@ msg-ihgpu3	aDu
 msg-ihgpu3	au
 msg-ihgpu3	u
 qb3-as3	Ddu
-qb3-as9	aDdu
 qb3-id100	aDu
 qb3-id102	aDu
 qb3-id105	aDu
 qb3-id106	aDu
 qb3-id127	aDdu
 qb3-id133	aDdu
-qb3-id141	aDdu
-qb3-id152	aDdu
-qb3-id168	aDdu
 qb3-id175	aDu
 qb3-id177	aDu
 qb3-id185	aDu
@@ -31,8 +26,6 @@ qb3-id25	aDdu
 qb3-id34	aDu
 qb3-id37	aDu
 qb3-id46	aDu
-qb3-id60	aDdu
-qb3-id82	aDu
 qb3-id96	aDu
 qb3-id98	aDu
 qb3-idgpu12	aDdu
@@ -45,5 +38,4 @@ qb3-idgpu5	aDdu
 qb3-idgpu5	Ddu
 qb3-idgpu9	aDdu
 qb3-idgpu9	Ddu
-qb3-ih28	aDdu
 qb3-io23	aDdu
