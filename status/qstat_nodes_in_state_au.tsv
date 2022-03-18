@@ -1,8 +1,4 @@
 queuename	states
-345331	03/18/2022
-345333	03/18/2022
-345334	03/18/2022
-345336	03/18/2022
 mac-id2	aDu
 mac-id5	aDu
 mac-inst-id1	aDu
@@ -13,7 +9,6 @@ msg-id15	aDdu
 msg-id16	aDdu
 msg-id1	aDu
 msg-id21	aDu
-msg-id27	aDu
 msg-id2	aDdu
 msg-id3	aDu
 msg-id40	aDu
@@ -23,17 +18,9 @@ msg-ihgpu3	au
 msg-ihgpu3	u
 msg-ihgpu5	E
 msg-iogpu11	E
-msg-iogpu12	aDu
-msg-iogpu12	au
-msg-iogpu12	u
-msg-iogpu13	aDu
-msg-iogpu13	au
-msg-iogpu13	u
+msg-iogpu13	E
 msg-iogpu1	E
 msg-iogpu5	E
-msg-iogpu8	aDu
-msg-iogpu8	au
-msg-iogpu8	u
 msg-iogpu9	aDu
 msg-iogpu9	au
 msg-iogpu9	u
@@ -58,8 +45,6 @@ qb3-id37	aDu
 qb3-id46	aDu
 qb3-id47	aDu
 qb3-id57	aDu
-qb3-id58	aDu
-qb3-id68	aDu
 qb3-id72	aDu
 qb3-id74	aDu
 qb3-id84	aDu
