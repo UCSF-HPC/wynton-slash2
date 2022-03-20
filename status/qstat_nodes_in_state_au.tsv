@@ -18,7 +18,6 @@ msg-iogpu9	aDu
 msg-iogpu9	Du
 qb3-as3	Ddu
 qb3-atgpu2	DE
-qb3-atgpu3	DE
 qb3-hmid1	aDdu
 qb3-id100	aDu
 qb3-id102	aDu
@@ -41,16 +40,10 @@ qb3-id72	aDu
 qb3-id74	aDu
 qb3-id84	aDu
 qb3-id85	aDu
-qb3-idgpu10	DE
-qb3-idgpu12	DE
 qb3-idgpu13	aDu
 qb3-idgpu13	Du
-qb3-idgpu14	DE
 qb3-idgpu15	aDdu
 qb3-idgpu15	Ddu
-qb3-idgpu17	DE
-qb3-idgpu1	DE
-qb3-idgpu3	DE
 qb3-idgpu5	aDdu
 qb3-idgpu5	Ddu
 qb3-idgpu5	Du
