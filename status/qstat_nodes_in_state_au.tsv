@@ -16,9 +16,6 @@ msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	adu
 msg-id10	adu
-msg-id11	au
-msg-id12	au
-msg-id13	au
 msg-id14	au
 msg-id15	adu
 msg-id16	adu
@@ -49,12 +46,6 @@ msg-id38	au
 msg-id39	au
 msg-id3	au
 msg-id40	au
-msg-id4	au
-msg-id5	au
-msg-id6	au
-msg-id7	au
-msg-id8	au
-msg-id9	au
 msg-ihgpu1	au
 msg-ihgpu1	u
 msg-ihgpu2	au
