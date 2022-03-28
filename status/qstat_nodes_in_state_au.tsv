@@ -21,8 +21,7 @@ msg-id21	au
 msg-id2	adu
 msg-id3	au
 msg-id40	au
-msg-ihgpu1	au
-msg-ihgpu1	u
+msg-ihgpu1	E
 msg-ihgpu2	E
 msg-ihgpu3	au
 msg-ihgpu3	u
@@ -30,14 +29,12 @@ msg-ihgpu4	E
 msg-iogpu11	E
 msg-iogpu12	E
 msg-iogpu13	E
-msg-iogpu1	au
-msg-iogpu1	uE
+msg-iogpu1	E
 msg-iogpu2	E
 msg-iogpu3	E
 msg-iogpu4	E
 msg-iogpu5	E
-msg-iogpu6	au
-msg-iogpu6	u
+msg-iogpu6	E
 msg-iogpu9	au
 msg-iogpu9	u
 qb3-as10	au
