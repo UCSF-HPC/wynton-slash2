@@ -1,8 +1,8 @@
 queuename	states
-mac-id1	au
-mac-id5	au
-mac-inst-id2	au
-mac-inst-id3	au
+mac-id1	adu
+mac-id5	adu
+mac-inst-id2	adu
+mac-inst-id3	adu
 msg-id10	adu
 msg-id14	au
 msg-id15	adu
