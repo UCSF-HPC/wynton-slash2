@@ -1,12 +1,4 @@
 queuename	states
-mac-id1	adu
-mac-id2	adu
-mac-id3	adu
-mac-id4	adu
-mac-id5	adu
-mac-id6	adu
-mac-id7	adu
-mac-id8	adu
 msg-id10	adu
 msg-id14	au
 msg-id15	adu
@@ -41,6 +33,14 @@ qb3-id25	adu
 qb3-id268	au
 qb3-id269	au
 qb3-id270	au
+qb3-id271	au
+qb3-id272	au
+qb3-id273	au
+qb3-id274	au
+qb3-id275	au
+qb3-id276	au
+qb3-id277	au
+qb3-id278	au
 qb3-id31	au
 qb3-id37	au
 qb3-id46	au
