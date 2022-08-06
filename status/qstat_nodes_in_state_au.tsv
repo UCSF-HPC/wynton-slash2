@@ -10,16 +10,12 @@ msg-id3	au
 msg-id40	au
 msg-ihgpu1	au
 msg-ihgpu1	u
-msg-ihgpu2	adu
-msg-ihgpu2	du
 msg-ihgpu3	au
 msg-ihgpu3	u
 msg-iogpu1	adu
 msg-iogpu1	du
 msg-iogpu3	au
 msg-iogpu3	u
-msg-iogpu5	adu
-msg-iogpu5	du
 msg-iogpu9	au
 msg-iogpu9	u
 qb3-id100	au
