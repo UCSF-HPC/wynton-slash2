@@ -16,6 +16,8 @@ msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu9	au
 msg-iogpu9	u
+qb3-atgpu9	adu
+qb3-atgpu9	du
 qb3-id100	au
 qb3-id102	au
 qb3-id105	au
