@@ -21,8 +21,6 @@ msg-iogpu9	u
 qb3-id100	au
 qb3-id102	au
 qb3-id105	au
-qb3-id115	adu
-qb3-id123	adu
 qb3-id127	adu
 qb3-id133	adu
 qb3-id163	au
@@ -47,10 +45,8 @@ qb3-id275	adu
 qb3-id276	adu
 qb3-id31	au
 qb3-id37	au
-qb3-id38	adu
 qb3-id46	au
 qb3-id72	au
-qb3-id80	adu
 qb3-id84	au
 qb3-id85	au
 qb3-id93	au
