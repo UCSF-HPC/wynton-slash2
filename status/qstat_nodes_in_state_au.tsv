@@ -5,10 +5,8 @@ msg-id10	adu
 msg-id14	au
 msg-id15	adu
 msg-id16	adu
-msg-id18	au
 msg-id1	au
 msg-id21	au
-msg-id28	au
 msg-id2	adu
 msg-id3	au
 msg-id40	au
@@ -16,12 +14,8 @@ msg-ihgpu1	adu
 msg-ihgpu1	du
 msg-ihgpu3	au
 msg-ihgpu3	u
-msg-ihgpu5	au
-msg-ihgpu5	u
 msg-iogpu3	adu
 msg-iogpu3	du
-msg-iogpu7	au
-msg-iogpu7	u
 msg-iogpu9	au
 msg-iogpu9	u
 qb3-hmid7	adu
@@ -38,7 +32,6 @@ qb3-id245	adu
 qb3-id25	adu
 qb3-id270	adu
 qb3-id275	adu
-qb3-id276	au
 qb3-id31	au
 qb3-id37	au
 qb3-id45	au
@@ -58,8 +51,6 @@ qb3-idgpu16	au
 qb3-idgpu16	u
 qb3-idgpu9	adu
 qb3-idgpu9	du
-qb3-ih11	au
-qb3-ih20	au
 qb3-ih21	au
 qb3-ih22	au
 qb3-ih27	au
