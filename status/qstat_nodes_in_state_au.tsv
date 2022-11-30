@@ -37,9 +37,7 @@ qb3-idgpu16	adu
 qb3-idgpu16	du
 qb3-idgpu1	au
 qb3-idgpu1	u
-qb3-idgpu8	adu
-qb3-idgpu8	au
-qb3-idgpu8	u
+qb3-idgpu8	E
 qb3-ih13	au
 qb3-ih21	au
 qb3-ih27	au
