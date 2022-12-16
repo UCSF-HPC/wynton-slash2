@@ -41,7 +41,6 @@ qb3-idgpu14	adu
 qb3-idgpu14	u
 qb3-idgpu16	adu
 qb3-idgpu16	du
-qb3-ih10	au
 qb3-ih12	au
 qb3-ih13	au
 qb3-ih21	au
@@ -50,4 +49,5 @@ qb3-ih27	au
 qb3-ih40	au
 qb3-ih45	au
 qb3-ih47	au
+qb3-ih66	au
 qb3-io23	au
