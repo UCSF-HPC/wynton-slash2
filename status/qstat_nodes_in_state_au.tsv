@@ -1,4 +1,5 @@
 queuename	states
+msg-hmio1	au
 msg-hmio2	au
 msg-hmio3	au
 msg-id10	au
