@@ -20,6 +20,8 @@ msg-iogpu9	u
 qb3-ad10	au
 qb3-atgpu10	adu
 qb3-atgpu10	du
+qb3-atgpu11	adu
+qb3-atgpu11	du
 qb3-atgpu13	adu
 qb3-atgpu13	du
 qb3-atgpu19	adu
@@ -56,6 +58,7 @@ qb3-id137	adu
 qb3-id138	adu
 qb3-id139	adu
 qb3-id14	adu
+qb3-id153	adu
 qb3-id15	adu
 qb3-id163	adu
 qb3-id168	adu
@@ -153,6 +156,7 @@ qb3-id325	adu
 qb3-id326	au
 qb3-id327	adu
 qb3-id328	adu
+qb3-id329	adu
 qb3-id332	au
 qb3-id333	adu
 qb3-id335	au
@@ -201,6 +205,7 @@ qb3-ih46	au
 qb3-ih47	au
 qb3-ih54	adu
 qb3-ih61	au
+qb3-ih66	adu
 qb3-ih76	au
 qb3-io22	au
 qb3-io23	au
