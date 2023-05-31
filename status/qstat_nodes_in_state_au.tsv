@@ -1,4 +1,5 @@
 queuename	states
+msg-hmio1	aDu
 msg-hmio2	aDu
 msg-id10	aDu
 msg-id14	aDu
@@ -6,6 +7,7 @@ msg-id15	aDu
 msg-id16	aDu
 msg-id1	aDu
 msg-id21	aDu
+msg-id26	aDu
 msg-id2	aDu
 msg-id3	aDu
 msg-id40	aDu
@@ -49,7 +51,9 @@ qb3-id154	aDdu
 qb3-id155	aDdu
 qb3-id15	aDdu
 qb3-id168	aDdu
+qb3-id169	aDu
 qb3-id16	aDdu
+qb3-id174	aDu
 qb3-id175	aDu
 qb3-id177	aDu
 qb3-id178	aDdu
@@ -62,11 +66,13 @@ qb3-id220	aDdu
 qb3-id225	aDu
 qb3-id226	aDdu
 qb3-id227	aDu
+qb3-id229	aDu
 qb3-id253	aDdu
 qb3-id256	aDu
 qb3-id259	aDu
 qb3-id270	aDu
 qb3-id271	aDdu
+qb3-id272	aDu
 qb3-id273	aDdu
 qb3-id275	aDu
 qb3-id276	aDu
@@ -80,8 +86,11 @@ qb3-id44	aDdu
 qb3-id45	aDu
 qb3-id46	aDu
 qb3-id51	Du
+qb3-id57	aDu
 qb3-id61	aDdu
+qb3-id64	aDu
 qb3-id65	aDdu
+qb3-id67	aDu
 qb3-id68	aDdu
 qb3-id69	aDdu
 qb3-id6	aDu
@@ -100,10 +109,9 @@ qb3-idgpu1	Ddu
 qb3-idgpu2	Ddu
 qb3-ih47	aDu
 qb3-ih55	aDdu
+qb3-ih61	aDu
 qb3-io23	aDu
 qb3-io25	Ddu
-qb3-iogpu1	aDu
-qb3-iogpu1	Du
 yala-app1.wynton.ucsf.	aDdu
 yala-app1.wynton.ucsf.e	aDdu
 yala-app1.wynton.ucsf.ed	Du
