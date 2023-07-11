@@ -89,6 +89,7 @@ qb3-id288	au
 qb3-id294	au
 qb3-id2	adu
 qb3-id303	au
+qb3-id305	au
 qb3-id306	au
 qb3-id307	au
 qb3-id308	au
@@ -140,6 +141,8 @@ qb3-ih47	adu
 qb3-ih55	adu
 qb3-io23	au
 qb3-io25	du
+qb3-iogpu1	au
+qb3-iogpu1	u
 yala-app1.wynton.ucsf.	adu
 yala-app1.wynton.ucsf.e	adu
 yala-app1.wynton.ucsf.ed	u
