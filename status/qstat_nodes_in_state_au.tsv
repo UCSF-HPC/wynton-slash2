@@ -50,7 +50,6 @@ qb3-id107	adu
 qb3-id108	au
 qb3-id110	adu
 qb3-id113	adu
-qb3-id117	au
 qb3-id118	au
 qb3-id122	au
 qb3-id125	au
@@ -88,7 +87,6 @@ qb3-id18	adu
 qb3-id194	au
 qb3-id19	adu
 qb3-id208	au
-qb3-id210	au
 qb3-id218	au
 qb3-id220	adu
 qb3-id225	au
@@ -128,7 +126,6 @@ qb3-id45	au
 qb3-id46	au
 qb3-id50	au
 qb3-id51	u
-qb3-id58	au
 qb3-id59	au
 qb3-id61	adu
 qb3-id64	au
@@ -150,7 +147,6 @@ qb3-id92	adu
 qb3-id93	au
 qb3-id96	adu
 qb3-id97	au
-qb3-id98	au
 qb3-id9	au
 qb3-idgpu1	du
 qb3-idgpu2	du
@@ -158,8 +154,6 @@ qb3-ih47	adu
 qb3-ih55	adu
 qb3-io23	au
 qb3-io25	du
-qb3-iogpu5	au
-qb3-iogpu5	u
 yala-app1.wynton.ucsf.	adu
 yala-app1.wynton.ucsf.e	adu
 yala-app1.wynton.ucsf.ed	u
