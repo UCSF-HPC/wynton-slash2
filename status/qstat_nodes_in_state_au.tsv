@@ -2,7 +2,6 @@ queuename	states
 3650892	05/15/2023
 9288150	06/05/2023
 9290059	06/05/2023
-9633176	07/09/2023
 msg-hmio2	au
 msg-id10	au
 msg-id14	au
@@ -11,7 +10,6 @@ msg-id16	au
 msg-id1	au
 msg-id21	au
 msg-id2	au
-msg-id33	au
 msg-id3	au
 msg-id40	au
 msg-ihgpu3	au
@@ -27,8 +25,7 @@ qb3-atgpu17	E
 qb3-atgpu19	E
 qb3-atgpu1	au
 qb3-atgpu1	u
-qb3-atgpu23	au
-qb3-atgpu23	u
+qb3-atgpu23	E
 qb3-atgpu25	adu
 qb3-atgpu25	du
 qb3-atgpu26	E
@@ -49,7 +46,6 @@ qb3-id122	au
 qb3-id127	au
 qb3-id128	adu
 qb3-id12	adu
-qb3-id130	au
 qb3-id131	adu
 qb3-id132	du
 qb3-id132	u
@@ -78,7 +74,6 @@ qb3-id17	au
 qb3-id185	au
 qb3-id18	adu
 qb3-id19	adu
-qb3-id208	au
 qb3-id218	au
 qb3-id220	adu
 qb3-id225	au
@@ -93,9 +88,7 @@ qb3-id271	adu
 qb3-id273	adu
 qb3-id275	au
 qb3-id276	au
-qb3-id281	au
 qb3-id288	au
-qb3-id295	au
 qb3-id2	adu
 qb3-id303	au
 qb3-id308	au
@@ -124,7 +117,6 @@ qb3-id72	adu
 qb3-id73	adu
 qb3-id76	adu
 qb3-id77	adu
-qb3-id79	au
 qb3-id80	adu
 qb3-id81	au
 qb3-id82	au
