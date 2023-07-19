@@ -1,7 +1,4 @@
 queuename	states
-3650892	05/15/2023
-9288150	06/05/2023
-9290059	06/05/2023
 msg-hmio2	au
 msg-id10	au
 msg-id14	au
@@ -26,7 +23,6 @@ qb3-ad6	adu
 qb3-ad7	adu
 qb3-ad8	adu
 qb3-ad9	adu
-qb3-as18	adu
 qb3-atgpu25	adu
 qb3-atgpu25	du
 qb3-atgpu5	au
