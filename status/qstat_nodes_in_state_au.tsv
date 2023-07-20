@@ -43,9 +43,13 @@ qb3-id110	adu
 qb3-id113	adu
 qb3-id118	au
 qb3-id122	au
+qb3-id124	au
+qb3-id125	au
 qb3-id127	au
 qb3-id128	adu
+qb3-id129	au
 qb3-id12	adu
+qb3-id130	au
 qb3-id131	adu
 qb3-id138	du
 qb3-id139	du
@@ -57,6 +61,7 @@ qb3-id145	adu
 qb3-id14	adu
 qb3-id154	adu
 qb3-id155	adu
+qb3-id157	au
 qb3-id15	adu
 qb3-id168	adu
 qb3-id16	adu
@@ -123,6 +128,7 @@ qb3-id92	adu
 qb3-id93	au
 qb3-id96	adu
 qb3-id97	au
+qb3-id99	au
 qb3-idgpu1	du
 qb3-idgpu2	du
 qb3-io23	au
