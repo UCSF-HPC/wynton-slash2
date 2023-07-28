@@ -15,6 +15,8 @@ msg-iogpu9	au
 msg-iogpu9	u
 qb3-atgpu25	adu
 qb3-atgpu25	du
+qb3-atgpu30	adu
+qb3-atgpu30	du
 qb3-atgpu32	adu
 qb3-atgpu32	du
 qb3-hmid7	au
