@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-host=${host:-${HOSTNAME:}}
+host=${host:-${HOSTNAME:?}}
 home=${home:-${HOME:?}}
 user=${user:-${USER:?}}
 path=${path:-${PWD:?}}
@@ -11,7 +11,7 @@ path=${path:-${PWD:?}}
 export BENCH_LOGPATH=$home/wynton-bench-logs/$host
 
 # Default drives to be tested
-dirs=(/wynton/scratch/$user $home /wynton/group/cbi/$user)
+dirs=("/wynton/scratch/$user" "$home" "/wynton/group/cbi/$user")
 
 echo "Number of dirs: ${#dirs[@]}"
 
