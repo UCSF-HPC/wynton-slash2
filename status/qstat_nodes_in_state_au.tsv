@@ -382,13 +382,12 @@ qb3-idgpu12	adu
 qb3-idgpu12	du
 qb3-idgpu1	du
 qb3-idgpu2	du
-qb3-idgpu6	dE
 qb3-io22	adu
 qb3-io23	adu
 qb3-io24	adu
 qb3-io25	du
 qb3-iogpu1	adu
-qb3-iogpu1	duE
+qb3-iogpu1	du
 qb3-iogpu4	adu
 qb3-iogpu4	du
 qb3-iogpu5	adu
