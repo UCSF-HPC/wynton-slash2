@@ -2,10 +2,12 @@ queuename	states
 msg-hmio1	adu
 msg-hmio2	adu
 msg-hmio3	adu
+msg-id10	au
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
 msg-id1	adu
+msg-id2	au
 msg-id3	adu
 msg-id40	adu
 msg-ihgpu1	adu
