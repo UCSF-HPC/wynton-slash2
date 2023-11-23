@@ -9,8 +9,12 @@ msg-id1	adu
 msg-id2	au
 msg-id3	adu
 msg-id40	adu
+msg-ihgpu1	adu
+msg-ihgpu1	du
 msg-ihgpu3	adu
 msg-ihgpu3	du
+msg-ihgpu4	adu
+msg-ihgpu4	du
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as11	au
