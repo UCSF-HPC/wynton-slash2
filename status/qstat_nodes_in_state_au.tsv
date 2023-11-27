@@ -26,7 +26,6 @@ qb3-atgpu6	du
 qb3-hmid2	adu
 qb3-hmid3	adu
 qb3-hmid4	adu
-qb3-hmid5	adu
 qb3-hmid7	adu
 qb3-id102	au
 qb3-id116	adu
@@ -78,10 +77,6 @@ qb3-idgpu9	E
 qb3-io23	adu
 qb3-iogpu1	adu
 qb3-iogpu1	du
-qb3-iogpu4	adu
-qb3-iogpu4	du
-qb3-iogpu5	adu
-qb3-iogpu5	du
 yala-app1.wynton.ucsf.	au
 yala-app1.wynton.ucsf.e	au
 yala-app1.wynton.ucsf.ed	u
