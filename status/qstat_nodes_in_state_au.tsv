@@ -16,6 +16,7 @@ msg-id33	E
 msg-id37	E
 msg-id39	E
 msg-id3	adu
+msg-id4	E
 msg-id5	aE
 msg-id5	E
 msg-id8	E
@@ -29,6 +30,7 @@ msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	E
 qb3-as12	E
+qb3-as13	E
 qb3-as14	E
 qb3-as18	au
 qb3-as19	E
@@ -37,6 +39,8 @@ qb3-as2	aE
 qb3-as2	E
 qb3-as3	E
 qb3-as4	E
+qb3-as5	aE
+qb3-as5	E
 qb3-as6	E
 qb3-as7	E
 qb3-as8	E
