@@ -1,5 +1,11 @@
 queuename	states
 9709394	11/22/2023
+cph-app1.wynton.ucsf.e	adu
+cph-app1.wynton.ucsf.ed	adu
+cph-app1.wynton.ucsf.edu	du
+cph-app2.wynton.ucsf.e	adu
+cph-app2.wynton.ucsf.ed	adu
+cph-app2.wynton.ucsf.edu	du
 msg-hmio2	adu
 msg-id10	au
 msg-id14	adu
