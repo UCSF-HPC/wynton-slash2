@@ -19,8 +19,7 @@ msg-ihgpu3	adu
 msg-ihgpu3	du
 msg-ihgpu5	adu
 msg-ihgpu5	du
-msg-iogpu1	E
-msg-iogpu5	E
+msg-iogpu7	E
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as18	au
@@ -70,7 +69,6 @@ qb3-id6	adu
 qb3-id80	adu
 qb3-id89	adu
 qb3-id8	au
-qb3-idgpu6	E
 yala-app1.wynton.ucsf.	au
 yala-app1.wynton.ucsf.e	au
 yala-app1.wynton.ucsf.ed	u
