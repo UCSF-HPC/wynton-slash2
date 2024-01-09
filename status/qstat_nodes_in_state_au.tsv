@@ -18,6 +18,8 @@ msg-ihgpu3	adu
 msg-ihgpu3	du
 msg-ihgpu5	adu
 msg-ihgpu5	du
+msg-iogpu3	E
+msg-iogpu5	E
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as18	au
