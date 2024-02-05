@@ -52,7 +52,6 @@ msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu9	adu
 msg-iogpu9	du
-qb3-as15	dE
 qb3-as18	au
 qb3-atgpu6	adu
 qb3-atgpu6	du
@@ -64,6 +63,7 @@ qb3-id11	au
 qb3-id133	au
 qb3-id140	au
 qb3-id144	au
+qb3-id14	au
 qb3-id152	adu
 qb3-id168	au
 qb3-id16	du
