@@ -53,7 +53,6 @@ qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-hmid6	au
 qb3-hmid7	adu
-qb3-id101	au
 qb3-id102	au
 qb3-id103	au
 qb3-id105	au
@@ -61,7 +60,6 @@ qb3-id10	au
 qb3-id112	au
 qb3-id114	au
 qb3-id120	au
-qb3-id121	au
 qb3-id123	au
 qb3-id127	au
 qb3-id128	au
@@ -69,8 +67,6 @@ qb3-id129	au
 qb3-id130	au
 qb3-id132	au
 qb3-id133	au
-qb3-id135	au
-qb3-id136	au
 qb3-id138	au
 qb3-id140	au
 qb3-id144	au
@@ -106,11 +102,13 @@ qb3-id325	adu
 qb3-id35	au
 qb3-id36	au
 qb3-id37	adu
+qb3-id41	au
 qb3-id42	au
 qb3-id43	au
 qb3-id44	au
 qb3-id45	adu
 qb3-id46	au
+qb3-id49	au
 qb3-id4	au
 qb3-id51	au
 qb3-id5	au
