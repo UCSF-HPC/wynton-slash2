@@ -49,11 +49,8 @@ qb3-atgpu22	adu
 qb3-atgpu22	du
 qb3-atgpu29	au
 qb3-atgpu29	u
-qb3-atgpu34	E
-qb3-atgpu5	E
 qb3-atgpu6	adu
 qb3-atgpu6	du
-qb3-atgpu8	E
 qb3-hmid6	au
 qb3-hmid7	adu
 qb3-id102	au
@@ -69,7 +66,6 @@ qb3-id16	du
 qb3-id175	adu
 qb3-id176	au
 qb3-id177	adu
-qb3-id178	E
 qb3-id185	adu
 qb3-id18	du
 qb3-id195	au
@@ -90,7 +86,6 @@ qb3-id263	au
 qb3-id279	au
 qb3-id280	au
 qb3-id297	au
-qb3-id299	E
 qb3-id31	au
 qb3-id322	adu
 qb3-id325	adu
@@ -105,18 +100,12 @@ qb3-id5	au
 qb3-id6	adu
 qb3-id70	au
 qb3-id80	adu
-qb3-id87	E
 qb3-id89	adu
 qb3-id9	au
-qb3-idgpu10	E
-qb3-idgpu12	E
 qb3-idgpu14	adu
 qb3-idgpu14	u
 qb3-idgpu6	adu
 qb3-idgpu6	u
-qb3-idgpu8	E
-qb3-iogpu1	E
-qb3-iogpu4	E
 yala-app1.wynton.ucsf.ed	u
 yala-app1.wynton.ucsf.e	u
 yala-app1.wynton.ucsf.	u
