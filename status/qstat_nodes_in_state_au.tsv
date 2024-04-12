@@ -25,7 +25,6 @@ gh-id32	adu
 gh-id9	adu
 msg-hmio2	adu
 msg-id10	au
-msg-id13	adu
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
@@ -48,8 +47,6 @@ qb3-atgpu23	au
 qb3-atgpu23	u
 qb3-atgpu29	adu
 qb3-atgpu29	du
-qb3-atgpu31	adu
-qb3-atgpu31	du
 qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-hmid2	adu
