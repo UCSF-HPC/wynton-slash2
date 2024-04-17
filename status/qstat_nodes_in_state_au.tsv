@@ -1,4 +1,5 @@
 queuename	states
+215697	04/16/2024
 gh-id10	adu
 gh-id11	adu
 gh-id12	adu
@@ -42,6 +43,8 @@ msg-ihgpu4	au
 msg-ihgpu4	u
 msg-ihgpu5	adu
 msg-ihgpu5	du
+msg-iogpu11	au
+msg-iogpu11	u
 msg-iogpu12	au
 msg-iogpu12	u
 msg-iogpu13	au
