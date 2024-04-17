@@ -77,13 +77,12 @@ qb3-hmid6	au
 qb3-hmid7	adu
 qb3-id102	au
 qb3-id113	au
-qb3-id115	au
-qb3-id126	au
-qb3-id128	au
 qb3-id132	au
 qb3-id133	au
+qb3-id147	au
 qb3-id149	au
 qb3-id152	adu
+qb3-id153	au
 qb3-id16	du
 qb3-id175	adu
 qb3-id176	au
@@ -100,6 +99,7 @@ qb3-id232	adu
 qb3-id233	adu
 qb3-id234	adu
 qb3-id235	adu
+qb3-id24	au
 qb3-id26	au
 qb3-id297	au
 qb3-id322	adu
@@ -107,7 +107,6 @@ qb3-id325	adu
 qb3-id37	adu
 qb3-id38	au
 qb3-id39	au
-qb3-id43	au
 qb3-id45	adu
 qb3-id49	au
 qb3-id50	au
