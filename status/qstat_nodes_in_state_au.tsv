@@ -32,10 +32,11 @@ msg-id1	adu
 msg-id2	au
 msg-id35	au
 msg-id3	adu
-msg-ihgpu1	au
-msg-ihgpu1	u
+msg-ihgpu1	E
+msg-ihgpu2	E
 msg-ihgpu3	adu
 msg-ihgpu3	du
+msg-ihgpu4	E
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu9	adu
@@ -84,7 +85,6 @@ qb3-id37	adu
 qb3-id45	adu
 qb3-id50	au
 qb3-id53	au
-qb3-id68	au
 qb3-id6	adu
 qb3-id80	adu
 qb3-id84	au
