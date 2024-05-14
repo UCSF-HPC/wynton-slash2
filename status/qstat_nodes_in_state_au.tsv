@@ -50,12 +50,12 @@ msg-iogpu7	au
 msg-iogpu7	u
 msg-iogpu9	adu
 msg-iogpu9	du
-qb3-as11	au
-qb3-as13	au
-qb3-as17	au
+qb3-as10	au
+qb3-as14	au
 qb3-as18	adu
+qb3-as3	au
 qb3-as5	au
-qb3-as6	au
+qb3-as8	au
 qb3-atgpu15	adu
 qb3-atgpu15	du
 qb3-atgpu17	adu
