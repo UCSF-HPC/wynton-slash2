@@ -48,16 +48,11 @@ msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu3	au
 msg-iogpu3	u
-msg-iogpu4	E
-msg-iogpu5	E
-msg-iogpu6	E
 msg-iogpu7	au
 msg-iogpu7	u
-msg-iogpu8	E
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as18	adu
-qb3-atgpu10	E
 qb3-atgpu12	au
 qb3-atgpu12	u
 qb3-atgpu13	E
