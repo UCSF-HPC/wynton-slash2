@@ -53,15 +53,12 @@ msg-iogpu7	u
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as18	adu
-qb3-atgpu12	E
 qb3-atgpu14	au
 qb3-atgpu14	u
 qb3-atgpu15	adu
 qb3-atgpu15	du
-qb3-atgpu16	E
 qb3-atgpu17	adu
 qb3-atgpu17	du
-qb3-atgpu24	E
 qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-hmid5	au
