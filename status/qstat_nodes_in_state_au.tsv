@@ -50,6 +50,8 @@ msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu3	au
 msg-iogpu3	u
+msg-iogpu6	ad
+msg-iogpu6	d
 msg-iogpu7	au
 msg-iogpu7	u
 msg-iogpu9	adu
