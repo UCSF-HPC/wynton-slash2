@@ -49,8 +49,7 @@ msg-id3	adu
 msg-id4	au
 msg-id7	d
 msg-id9	d
-msg-ihgpu1	adu
-msg-ihgpu1	du
+msg-ihgpu1	d
 msg-ihgpu3	adu
 msg-ihgpu3	du
 msg-ihgpu5	adu
@@ -66,7 +65,6 @@ msg-iogpu9	du
 qb3-as10	d
 qb3-as12	d
 qb3-as13	au
-qb3-as14	ad
 qb3-as14	d
 qb3-as15	d
 qb3-as16	d
