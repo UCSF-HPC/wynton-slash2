@@ -45,10 +45,8 @@ msg-id1	adu
 msg-id2	au
 msg-id3	adu
 msg-ihgpu1	d
-msg-ihgpu2	d
 msg-ihgpu3	adu
 msg-ihgpu3	du
-msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu11	d
@@ -59,7 +57,6 @@ msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu4	d
 msg-iogpu5	d
-msg-iogpu8	d
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	d
