@@ -1,14 +1,4 @@
 queuename	states
-gh-id10	d
-gh-id11	d
-gh-id12	d
-gh-id13	d
-gh-id14	d
-gh-id15	d
-gh-id16	d
-gh-id17	d
-gh-id18	d
-gh-id19	d
 gh-id1	adu
 gh-id20	d
 gh-id21	d
@@ -30,7 +20,6 @@ gh-id5	au
 gh-id6	au
 gh-id7	au
 gh-id8	au
-gh-id9	d
 msg-hmio1	d
 msg-hmio2	adu
 msg-hmio3	d
