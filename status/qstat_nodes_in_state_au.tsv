@@ -30,6 +30,8 @@ msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu3	adu
 msg-iogpu3	du
+msg-iogpu7	au
+msg-iogpu7	u
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	d
