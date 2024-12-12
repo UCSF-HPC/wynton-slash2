@@ -17,14 +17,12 @@ msg-hmio2	adu
 msg-hmio3	d
 msg-id10	au
 msg-id11	au
-msg-id13	E
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
 msg-id18	au
 msg-id1	adu
 msg-id2	au
-msg-id32	E
 msg-id3	adu
 msg-ihgpu3	adu
 msg-ihgpu3	du
@@ -42,7 +40,6 @@ qb3-atgpu15	adu
 qb3-atgpu15	du
 qb3-atgpu16	d
 qb3-atgpu17	d
-qb3-atgpu19	E
 qb3-atgpu23	d
 qb3-atgpu29	adu
 qb3-atgpu29	du
