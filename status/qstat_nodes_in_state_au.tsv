@@ -28,8 +28,6 @@ msg-ihgpu3	adu
 msg-ihgpu3	du
 msg-ihgpu5	adu
 msg-ihgpu5	du
-msg-iogpu1	au
-msg-iogpu1	u
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu7	au
@@ -96,7 +94,7 @@ qb3-id273	E
 qb3-id280	au
 qb3-id288	E
 qb3-id297	adu
-qb3-id31	E
+qb3-id31	aE
 qb3-id322	adu
 qb3-id346	au
 qb3-id354	au
