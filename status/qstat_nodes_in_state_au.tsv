@@ -1,14 +1,12 @@
 queuename	states
 gh-id10	ad
 gh-id10	d
-gh-id11	ad
 gh-id11	d
 gh-id12	d
 gh-id13	d
 gh-id14	d
 gh-id15	d
 gh-id16	d
-gh-id17	ad
 gh-id17	d
 gh-id18	d
 gh-id19	d
@@ -86,6 +84,7 @@ msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu11	d
+msg-iogpu12	ad
 msg-iogpu12	d
 msg-iogpu13	d
 msg-iogpu1	d
@@ -115,7 +114,6 @@ qb3-as2	d
 qb3-as3	d
 qb3-as4	d
 qb3-as5	d
-qb3-as6	ad
 qb3-as6	d
 qb3-as7	d
 qb3-as8	d
@@ -211,7 +209,6 @@ qb3-id140	adu
 qb3-id141	adu
 qb3-id142	d
 qb3-id143	d
-qb3-id144	ad
 qb3-id144	d
 qb3-id145	d
 qb3-id146	d
@@ -258,11 +255,9 @@ qb3-id182	d
 qb3-id183	d
 qb3-id184	d
 qb3-id185	adu
-qb3-id186	ad
 qb3-id186	d
 qb3-id187	d
 qb3-id188	adu
-qb3-id189	ad
 qb3-id189	d
 qb3-id18	du
 qb3-id190	d
@@ -292,7 +287,6 @@ qb3-id215	d
 qb3-id216	d
 qb3-id217	d
 qb3-id218	adu
-qb3-id219	ad
 qb3-id219	d
 qb3-id21	d
 qb3-id220	d
@@ -532,12 +526,12 @@ qb3-idgpu17	d
 qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu3	dE
+qb3-idgpu4	ad
 qb3-idgpu4	d
 qb3-idgpu5	d
 qb3-idgpu6	adu
 qb3-idgpu6	du
 qb3-idgpu7	d
-qb3-idgpu8	ad
 qb3-idgpu8	d
 qb3-idgpu9	adu
 qb3-idgpu9	du
