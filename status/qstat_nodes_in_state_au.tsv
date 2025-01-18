@@ -1,5 +1,4 @@
 queuename	states
-gh-id10	au
 gh-id1	adu
 gh-id23	adu
 gh-id29	adu
@@ -133,7 +132,8 @@ qb3-id322	adu
 qb3-id325	E
 qb3-id327	au
 qb3-id328	E
-qb3-id334	au
+qb3-id334	aE
+qb3-id334	E
 qb3-id336	aE
 qb3-id336	E
 qb3-id342	aE
@@ -222,7 +222,7 @@ qb3-idgpu7	d
 qb3-idgpu9	adu
 qb3-idgpu9	du
 qb3-iogpu1	aE
-	du
+du
 qb3-idgpu13	adu
 qb3-idgpu13	du
 qb3-idgpu14	adu
