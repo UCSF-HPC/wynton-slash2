@@ -106,9 +106,9 @@ qb3-id254	E
 qb3-id280	au
 qb3-id284	E
 qb3-id297	adu
-qb3-id298	E
+qb3-id298	aE
 qb3-id301	aE
-qb3-id303	aE
+qb3-id303	E
 qb3-id305	E
 qb3-id313	E
 qb3-id321	aE
@@ -202,4 +202,4 @@ qb3-idgpu6	u
 qb3-idgpu7	d
 qb3-idgpu9	adu
 qb3-idgpu9	du
-qb3-iogpu1	E
+qb3-iogpu1	aE
