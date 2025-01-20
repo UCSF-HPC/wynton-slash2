@@ -19,7 +19,6 @@ gh-id24	d
 gh-id25	d
 gh-id26	d
 gh-id27	d
-gh-id28	ad
 gh-id28	d
 gh-id29	adu
 gh-id2	adu
@@ -39,7 +38,6 @@ msg-hmio2	adu
 msg-hmio3	d
 msg-id10	adu
 msg-id11	adu
-msg-id12	ad
 msg-id12	d
 msg-id13	d
 msg-id14	adu
@@ -51,7 +49,6 @@ msg-id19	d
 msg-id1	adu
 msg-id20	d
 msg-id21	d
-msg-id22	ad
 msg-id22	d
 msg-id23	d
 msg-id24	ad
@@ -75,7 +72,7 @@ msg-id38	d
 msg-id39	d
 msg-id3	adu
 msg-id40	d
-msg-id4	d
+msg-id4	adu
 msg-id5	d
 msg-id6	d
 msg-id7	d
@@ -118,7 +115,6 @@ qb3-as17	d
 qb3-as17	dE
 qb3-as18	adu
 qb3-as19	d
-qb3-as1	ad
 qb3-as1	d
 qb3-as2	d
 qb3-as3	d
@@ -131,7 +127,6 @@ qb3-as7	d
 qb3-as7	dE
 qb3-as8	d
 qb3-as9	d
-qb3-atgpu10	ad
 qb3-atgpu10	d
 qb3-atgpu11	d
 qb3-atgpu12	d
