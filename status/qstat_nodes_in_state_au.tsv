@@ -1,5 +1,5 @@
 queuename	states
-dev3.wynton.ucsf.edu	ad
+dev3.wynton.ucsf.edu	d
 gh-id10	d
 gh-id11	d
 gh-id12	d
@@ -73,7 +73,7 @@ msg-id40	d
 msg-id4	d
 msg-id5	d
 msg-id6	d
-msg-id7	adu
+msg-id7	d
 msg-id8	d
 msg-id9	d
 msg-ihgpu1	d
@@ -117,8 +117,8 @@ qb3-as1	d
 qb3-as2	d
 qb3-as3	d
 qb3-as3	dE
-qb3-as4	adu
-qb3-as4	aduE
+qb3-as4	d
+qb3-as4	dE
 qb3-as5	d
 qb3-as6	d
 qb3-as7	d
@@ -161,7 +161,7 @@ qb3-atgpu6	du
 qb3-atgpu7	d
 qb3-atgpu8	d
 qb3-atgpu9	d
-qb3-hmid1	adu
+qb3-hmid1	d
 qb3-hmid2	d
 qb3-hmid3	d
 qb3-hmid4	d
@@ -200,7 +200,7 @@ qb3-id127	d
 qb3-id128	d
 qb3-id129	d
 qb3-id12	d
-qb3-id130	adu
+qb3-id130	d
 qb3-id131	d
 qb3-id132	d
 qb3-id133	d
@@ -225,9 +225,9 @@ qb3-id14	d
 qb3-id150	d
 qb3-id151	d
 qb3-id152	adu
-qb3-id153	adu
+qb3-id153	d
 qb3-id154	d
-qb3-id155	adu
+qb3-id155	d
 qb3-id156	d
 qb3-id157	d
 qb3-id158	d
@@ -256,8 +256,8 @@ qb3-id178	adu
 qb3-id179	d
 qb3-id17	d
 qb3-id180	d
-qb3-id181	adu
-qb3-id181	aduE
+qb3-id181	d
+qb3-id181	dE
 qb3-id182	d
 qb3-id183	d
 qb3-id184	d
@@ -289,15 +289,15 @@ qb3-id210	d
 qb3-id211	d
 qb3-id212	d
 qb3-id213	d
-qb3-id214	adu
-qb3-id214	aduE
+qb3-id214	d
+qb3-id214	dE
 qb3-id215	d
 qb3-id216	d
-qb3-id217	adu
+qb3-id217	d
 qb3-id218	adu
 qb3-id219	d
 qb3-id21	d
-qb3-id220	adu
+qb3-id220	d
 qb3-id221	d
 qb3-id222	d
 qb3-id223	d
@@ -320,7 +320,7 @@ qb3-id238	adu
 qb3-id239	adu
 qb3-id23	d
 qb3-id240	d
-qb3-id241	adu
+qb3-id241	d
 qb3-id242	adu
 qb3-id243	d
 qb3-id244	d
@@ -383,8 +383,8 @@ qb3-id299	d
 qb3-id29	d
 qb3-id2	d
 qb3-id300	d
-qb3-id301	adu
-qb3-id301	aduE
+qb3-id301	d
+qb3-id301	dE
 qb3-id302	d
 qb3-id303	d
 qb3-id303	dE
