@@ -3,7 +3,6 @@ dev3.wynton.ucsf.edu	d
 gh-id19	E
 gh-id1	adu
 gh-id23	adu
-gh-id26	au
 gh-id28	E
 gh-id29	adu
 gh-id2	adu
@@ -89,8 +88,8 @@ qb3-id105	au
 qb3-id106	au
 qb3-id107	au
 qb3-id112	au
+qb3-id114	au
 qb3-id121	au
-qb3-id125	au
 qb3-id128	au
 qb3-id135	E
 qb3-id13	E
@@ -104,7 +103,6 @@ qb3-id14	au
 qb3-id151	au
 qb3-id151	auE
 qb3-id152	adu
-qb3-id154	au
 qb3-id155	au
 qb3-id156	au
 qb3-id156	auE
@@ -150,7 +148,6 @@ qb3-id242	adu
 qb3-id247	E
 qb3-id24	au
 qb3-id251	au
-qb3-id268	au
 qb3-id273	au
 qb3-id27	au
 qb3-id27	auE
@@ -162,7 +159,6 @@ qb3-id297	adu
 qb3-id29	au
 qb3-id301	au
 qb3-id30	au
-qb3-id311	au
 qb3-id31	au
 qb3-id322	adu
 qb3-id346	au
@@ -234,6 +230,7 @@ qb3-id96	au
 qb3-id97	au
 qb3-id98	au
 qb3-id99	adu
+qb3-id9	au
 qb3-idgpu11	adu
 qb3-idgpu11	du
 qb3-idgpu13	adu
