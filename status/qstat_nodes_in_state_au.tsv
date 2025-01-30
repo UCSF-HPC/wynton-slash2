@@ -3,7 +3,6 @@ dev3.wynton.ucsf.edu	d
 gh-id19	E
 gh-id1	adu
 gh-id23	adu
-gh-id28	E
 gh-id29	adu
 gh-id2	adu
 gh-id30	adu
@@ -23,7 +22,6 @@ msg-id11	au
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
-msg-id17	E
 msg-id18	au
 msg-id1	adu
 msg-id27	E
@@ -34,7 +32,6 @@ msg-ihgpu1	E
 msg-ihgpu2	E
 msg-ihgpu3	adu
 msg-ihgpu3	du
-msg-ihgpu4	E
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu12	au
@@ -42,7 +39,6 @@ msg-iogpu12	u
 msg-iogpu13	au
 msg-iogpu13	u
 msg-iogpu1	E
-msg-iogpu2	E
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu4	E
@@ -52,11 +48,8 @@ msg-iogpu7	u
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	d
-qb3-as11	E
-qb3-as12	E
 qb3-as17	au
 qb3-as18	au
-qb3-as2	E
 qb3-as7	au
 qb3-atgpu13	E
 qb3-atgpu15	adu
@@ -85,29 +78,20 @@ qb3-id112	au
 qb3-id113	au
 qb3-id114	au
 qb3-id115	au
-qb3-id121	E
 qb3-id122	au
-qb3-id135	E
 qb3-id138	au
-qb3-id139	E
 qb3-id140	adu
 qb3-id141	adu
 qb3-id143	d
 qb3-id146	au
 qb3-id148	au
-qb3-id149	E
-qb3-id151	E
 qb3-id152	adu
-qb3-id153	aE
 qb3-id155	au
-qb3-id159	aE
 qb3-id167	au
 qb3-id169	au
 qb3-id16	u
 qb3-id170	au
-qb3-id173	E
 qb3-id175	adu
-qb3-id176	E
 qb3-id177	adu
 qb3-id178	au
 qb3-id185	adu
@@ -119,7 +103,6 @@ qb3-id197	adu
 qb3-id201	au
 qb3-id209	au
 qb3-id218	adu
-qb3-id226	E
 qb3-id229	adu
 qb3-id231	adu
 qb3-id232	adu
@@ -131,7 +114,6 @@ qb3-id237	au
 qb3-id238	au
 qb3-id239	au
 qb3-id242	d
-qb3-id27	E
 qb3-id280	au
 qb3-id297	adu
 qb3-id30	au
@@ -195,7 +177,6 @@ qb3-id86	au
 qb3-id87	au
 qb3-id88	au
 qb3-id89	au
-qb3-id8	aE
 qb3-id91	au
 qb3-id92	au
 qb3-id93	au
@@ -215,7 +196,6 @@ qb3-idgpu15	adu
 qb3-idgpu15	du
 qb3-idgpu16	adu
 qb3-idgpu16	du
-qb3-idgpu17	E
 qb3-idgpu3	E
 qb3-idgpu6	au
 qb3-idgpu6	u
