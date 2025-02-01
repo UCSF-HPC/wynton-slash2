@@ -1,7 +1,9 @@
 queuename	states
 2039809	01/29/2025
 dev3.wynton.ucsf.edu	d
+gh-id12	au
 gh-id14	E
+gh-id15	au
 gh-id16	adu
 gh-id17	au
 gh-id18	E
@@ -31,7 +33,7 @@ msg-id15	adu
 msg-id16	adu
 msg-id18	au
 msg-id1	adu
-msg-id27	E
+msg-id27	aE
 msg-id2	au
 msg-id3	adu
 msg-id9	d
