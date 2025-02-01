@@ -1,13 +1,12 @@
 queuename	states
 2039809	01/29/2025
 dev3.wynton.ucsf.edu	d
-gh-id12	au
 gh-id14	E
 gh-id16	adu
 gh-id17	au
 gh-id18	E
 gh-id1	adu
-gh-id21	au
+gh-id21	aE
 gh-id23	adu
 gh-id24	E
 gh-id29	adu
@@ -40,8 +39,7 @@ msg-ihgpu1	E
 msg-ihgpu2	E
 msg-ihgpu3	adu
 msg-ihgpu3	du
-msg-ihgpu4	au
-msg-ihgpu4	uE
+msg-ihgpu4	E
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu12	au
@@ -91,7 +89,6 @@ qb3-id106	au
 qb3-id107	au
 qb3-id10	d
 qb3-id110	d
-qb3-id112	au
 qb3-id114	au
 qb3-id124	au
 qb3-id130	au
@@ -105,7 +102,6 @@ qb3-id143	d
 qb3-id146	au
 qb3-id148	au
 qb3-id152	adu
-qb3-id155	au
 qb3-id164	au
 qb3-id167	au
 qb3-id168	E
@@ -150,7 +146,6 @@ qb3-id350	E
 qb3-id351	d
 qb3-id353	d
 qb3-id354	au
-qb3-id35	au
 qb3-id36	au
 qb3-id37	au
 qb3-id38	au
