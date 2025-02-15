@@ -30,8 +30,11 @@ msg-id1	adu
 msg-id2	au
 msg-id3	adu
 msg-id9	d
+msg-ihgpu1	E
+msg-ihgpu2	E
 msg-ihgpu3	adu
 msg-ihgpu3	du
+msg-ihgpu4	E
 msg-ihgpu5	adu
 msg-ihgpu5	du
 msg-iogpu12	au
@@ -39,6 +42,7 @@ msg-iogpu12	u
 msg-iogpu13	au
 msg-iogpu13	u
 msg-iogpu1	E
+msg-iogpu2	E
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu4	E
