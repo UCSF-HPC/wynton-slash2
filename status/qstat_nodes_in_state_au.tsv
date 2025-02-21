@@ -9,7 +9,6 @@ gh-id16	adu
 gh-id18	d
 gh-id19	d
 gh-id1	adu
-gh-id20	d
 gh-id23	adu
 gh-id24	d
 gh-id25	d
@@ -50,7 +49,7 @@ msg-id2	au
 msg-id39	d
 msg-id3	adu
 msg-id40	d
-msg-id7	d
+msg-id7	au
 msg-id9	d
 msg-ihgpu1	E
 msg-ihgpu2	d
@@ -95,7 +94,6 @@ qb3-atgpu10	d
 qb3-atgpu11	d
 qb3-atgpu12	d
 qb3-atgpu13	d
-qb3-atgpu14	d
 qb3-atgpu15	adu
 qb3-atgpu15	du
 qb3-atgpu16	d
@@ -134,6 +132,7 @@ qb3-id104	au
 qb3-id105	au
 qb3-id106	au
 qb3-id107	au
+qb3-id109	au
 qb3-id10	d
 qb3-id110	adu
 qb3-id113	d
@@ -152,6 +151,7 @@ qb3-id132	d
 qb3-id133	au
 qb3-id134	d
 qb3-id135	au
+qb3-id137	au
 qb3-id138	d
 qb3-id139	d
 qb3-id13	d
@@ -213,6 +213,7 @@ qb3-id215	d
 qb3-id216	d
 qb3-id217	d
 qb3-id218	adu
+qb3-id21	au
 qb3-id220	d
 qb3-id222	d
 qb3-id223	d
