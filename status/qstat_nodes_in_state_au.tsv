@@ -94,8 +94,7 @@ msg-iogpu1	E
 msg-iogpu2	E
 msg-iogpu3	adu
 msg-iogpu3	du
-msg-iogpu4	d
-msg-iogpu4	dE
+msg-iogpu4	E
 msg-iogpu5	d
 msg-iogpu6	d
 msg-iogpu6	dE
@@ -190,7 +189,6 @@ qb3-id114	au
 qb3-id115	d
 qb3-id11	d
 qb3-id120	d
-qb3-id121	ad
 qb3-id121	d
 qb3-id122	d
 qb3-id123	d
@@ -291,7 +289,6 @@ qb3-id211	d
 qb3-id212	d
 qb3-id213	d
 qb3-id214	d
-qb3-id215	ad
 qb3-id215	d
 qb3-id216	d
 qb3-id217	d
