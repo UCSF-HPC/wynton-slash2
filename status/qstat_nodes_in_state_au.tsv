@@ -69,7 +69,7 @@ msg-id38	d
 msg-id39	d
 msg-id3	adu
 msg-id40	d
-msg-id4	d
+msg-id4	adu
 msg-id5	d
 msg-id6	d
 msg-id7	d
@@ -157,7 +157,8 @@ qb3-atgpu35	d
 qb3-atgpu36	d
 qb3-atgpu3	d
 qb3-atgpu4	d
-qb3-atgpu5	d
+qb3-atgpu5	adu
+qb3-atgpu5	du
 qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-atgpu7	d
