@@ -43,6 +43,7 @@ msg-iogpu2	E
 msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu4	E
+msg-iogpu5	E
 msg-iogpu6	E
 msg-iogpu7	au
 msg-iogpu7	u
@@ -50,12 +51,14 @@ msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	d
 qb3-as12	au
+qb3-as17	E
 qb3-as18	au
 qb3-as7	au
 qb3-atgpu15	adu
 qb3-atgpu15	du
 qb3-atgpu16	d
 qb3-atgpu17	d
+qb3-atgpu18	E
 qb3-atgpu1	E
 qb3-atgpu21	E
 qb3-atgpu23	au
