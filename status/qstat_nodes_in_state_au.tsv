@@ -13,6 +13,7 @@ gh-id22	E
 gh-id23	adu
 gh-id24	E
 gh-id26	E
+gh-id27	E
 gh-id29	adu
 gh-id2	adu
 gh-id30	adu
@@ -66,6 +67,7 @@ msg-iogpu9	du
 qb3-as10	d
 qb3-as11	E
 qb3-as12	au
+qb3-as16	E
 qb3-as17	E
 qb3-as18	au
 qb3-as7	au
@@ -84,6 +86,7 @@ qb3-atgpu29	adu
 qb3-atgpu29	du
 qb3-atgpu35	E
 qb3-atgpu36	E
+qb3-atgpu4	E
 qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-hmid1	E
@@ -117,16 +120,20 @@ qb3-id141	adu
 qb3-id144	au
 qb3-id146	au
 qb3-id148	au
+qb3-id150	au
 qb3-id152	adu
 qb3-id162	au
 qb3-id164	au
+qb3-id166	E
 qb3-id167	au
 qb3-id169	au
 qb3-id16	u
 qb3-id170	au
 qb3-id171	E
+qb3-id173	E
 qb3-id174	E
 qb3-id175	au
+qb3-id176	E
 qb3-id177	adu
 qb3-id178	au
 qb3-id180	au
@@ -156,6 +163,7 @@ qb3-id269	E
 qb3-id270	E
 qb3-id280	au
 qb3-id284	E
+qb3-id285	E
 qb3-id288	E
 qb3-id291	E
 qb3-id294	E
