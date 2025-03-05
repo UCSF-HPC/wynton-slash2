@@ -1,4 +1,14 @@
 queuename	states
+2539231	03/04/2025
+2539263	03/04/2025
+2539266	03/04/2025
+2539284	03/04/2025
+2539288	03/04/2025
+2539298	03/04/2025
+2539303	03/04/2025
+2539334	03/04/2025
+2539340	03/04/2025
+2539359	03/04/2025
 dev3.wynton.ucsf.edu	d
 gh-id13	au
 gh-id16	adu
@@ -67,6 +77,7 @@ qb3-atgpu15	adu
 qb3-atgpu15	du
 qb3-atgpu16	d
 qb3-atgpu17	d
+qb3-atgpu18	E
 qb3-atgpu1	E
 qb3-atgpu21	E
 qb3-atgpu23	au
@@ -76,6 +87,7 @@ qb3-atgpu29	du
 qb3-atgpu35	E
 qb3-atgpu6	adu
 qb3-atgpu6	du
+qb3-hmid1	E
 qb3-hmid2	au
 qb3-hmid3	d
 qb3-hmid4	au
@@ -226,6 +238,7 @@ qb3-idgpu15	adu
 qb3-idgpu15	du
 qb3-idgpu16	adu
 qb3-idgpu16	du
+qb3-idgpu18	E
 qb3-idgpu3	E
 qb3-idgpu6	au
 qb3-idgpu6	u
