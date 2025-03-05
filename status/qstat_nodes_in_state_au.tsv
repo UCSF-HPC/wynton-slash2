@@ -1,4 +1,10 @@
 queuename	states
+2539692	03/04/2025
+2539731	03/04/2025
+2539732	03/04/2025
+2539763	03/04/2025
+2539792	03/04/2025
+2539809	03/04/2025
 dev3.wynton.ucsf.edu	d
 gh-id10	E
 gh-id11	E
@@ -106,6 +112,7 @@ qb3-as16	E
 qb3-as17	E
 qb3-as18	au
 qb3-as2	E
+qb3-as3	E
 qb3-as7	au
 qb3-as8	E
 qb3-as9	E
@@ -123,7 +130,7 @@ qb3-atgpu1	E
 qb3-atgpu21	E
 qb3-atgpu23	au
 qb3-atgpu23	u
-qb3-atgpu24	aE
+qb3-atgpu24	E
 qb3-atgpu25	E
 qb3-atgpu29	adu
 qb3-atgpu29	du
@@ -158,6 +165,7 @@ qb3-id104	au
 qb3-id105	au
 qb3-id106	au
 qb3-id107	au
+qb3-id108	au
 qb3-id110	au
 qb3-id111	au
 qb3-id112	d
@@ -169,6 +177,7 @@ qb3-id135	au
 qb3-id139	d
 qb3-id140	adu
 qb3-id141	adu
+qb3-id143	E
 qb3-id144	au
 qb3-id146	au
 qb3-id148	au
@@ -200,6 +209,7 @@ qb3-id189	E
 qb3-id18	u
 qb3-id190	E
 qb3-id191	au
+qb3-id192	E
 qb3-id194	E
 qb3-id196	au
 qb3-id197	adu
@@ -216,6 +226,7 @@ qb3-id217	E
 qb3-id218	adu
 qb3-id219	E
 qb3-id221	E
+qb3-id226	E
 qb3-id229	adu
 qb3-id231	adu
 qb3-id232	adu
@@ -232,7 +243,10 @@ qb3-id246	E
 qb3-id247	E
 qb3-id249	E
 qb3-id251	au
+qb3-id254	E
+qb3-id256	E
 qb3-id259	E
+qb3-id263	E
 qb3-id268	E
 qb3-id269	E
 qb3-id270	E
@@ -251,6 +265,7 @@ qb3-id299	E
 qb3-id2	E
 qb3-id300	E
 qb3-id304	E
+qb3-id305	E
 qb3-id306	d
 qb3-id307	E
 qb3-id308	E
@@ -307,6 +322,7 @@ qb3-id56	au
 qb3-id57	au
 qb3-id58	au
 qb3-id59	au
+qb3-id5	E
 qb3-id60	au
 qb3-id61	au
 qb3-id62	au
