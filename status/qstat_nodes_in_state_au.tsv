@@ -53,7 +53,6 @@ msg-iogpu9	du
 qb3-as10	d
 qb3-as12	au
 qb3-as18	au
-qb3-as19	Es
 qb3-as2	Es
 qb3-as3	Es
 qb3-as4	Es
@@ -84,7 +83,6 @@ qb3-atgpu35	Es
 qb3-atgpu36	Es
 qb3-atgpu3	Es
 qb3-atgpu4	Es
-qb3-atgpu5	Es
 qb3-atgpu6	adu
 qb3-atgpu6	du
 qb3-atgpu7	Es
