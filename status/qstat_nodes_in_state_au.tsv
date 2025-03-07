@@ -26,12 +26,8 @@ msg-id15	adu
 msg-id16	adu
 msg-id18	au
 msg-id1	adu
-msg-id21	Es
-msg-id22	Es
-msg-id23	Es
-msg-id24	Es
-msg-id25	Es
-msg-id26	Es
+msg-id25	E
+msg-id26	E
 msg-id27	Es
 msg-id28	Es
 msg-id29	Es
@@ -48,8 +44,7 @@ msg-id38	Es
 msg-id39	Es
 msg-id3	adus
 msg-id40	Es
-msg-id4	auEs
-msg-id4	aus
+msg-id4	Es
 msg-id5	Es
 msg-id6	Es
 msg-id7	Es
