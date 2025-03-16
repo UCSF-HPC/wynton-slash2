@@ -1,11 +1,4 @@
 queuename	states
-2692163	03/16/2025
-2692571	03/16/2025
-2692738	03/16/2025
-2692882	03/16/2025
-2693069	03/16/2025
-2693221	03/16/2025
-2693402	03/16/2025
 dev3.wynton.ucsf.edu	ds
 gh-id13	au
 gh-id16	adu
@@ -122,9 +115,9 @@ qb3-id196	au
 qb3-id197	adu
 qb3-id201	au
 qb3-id209	au
-qb3-id20	au
 qb3-id218	adu
 qb3-id229	adu
+qb3-id22	au
 qb3-id231	adu
 qb3-id232	adu
 qb3-id233	adu
