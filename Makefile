@@ -6,7 +6,7 @@ wynton-bench/%:
 	date
 	git pull
 	host=$(@F).wynton.ucsf.edu path=wynton-bench cron-scripts/extract-total_time.sh
-	git commit wynton-bench/ -m "Update wynton-bench data (from '${hostname}' by '${USER}')" || true
+	git commit wynton-bench/ -m "Update wynton-bench data on $(@F) (from '$(HOSTNAME)' by '$(USER)')" || true
 
 push:
 	git push || true
