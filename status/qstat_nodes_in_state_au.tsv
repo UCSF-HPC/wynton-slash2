@@ -1,5 +1,5 @@
 queuename	states
-dev3.wynton.ucsf.edu	ds
+dev3.wynton.ucsf.edu	adus
 gh-id13	aus
 gh-id16	adus
 gh-id1	adus
@@ -28,6 +28,7 @@ msg-id18	aus
 msg-id1	adus
 msg-id2	aus
 msg-id3	adus
+msg-id4	aus
 msg-ihgpu1	aus
 msg-ihgpu1	us
 msg-ihgpu3	adus
@@ -48,7 +49,19 @@ msg-iogpu9	adus
 msg-iogpu9	dus
 qb3-as10	ds
 qb3-as12	adus
+qb3-as13	au
+qb3-as13	aus
+qb3-as14	au
+qb3-as14	aus
 qb3-as18	aus
+qb3-as19	au
+qb3-as19	aus
+qb3-as1	au
+qb3-as1	aus
+qb3-as3	au
+qb3-as3	aus
+qb3-as4	au
+qb3-as4	aus
 qb3-as7	aus
 qb3-atgpu10	ds
 qb3-atgpu11	ds
