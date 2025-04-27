@@ -44,8 +44,6 @@ msg-iogpu13	au
 msg-iogpu13	u
 msg-iogpu3	adu
 msg-iogpu3	du
-msg-iogpu5	au
-msg-iogpu5	u
 msg-iogpu7	au
 msg-iogpu7	u
 msg-iogpu9	adu
@@ -228,3 +226,5 @@ qb3-idgpu7	d
 qb3-idgpu8	d
 qb3-idgpu9	adu
 qb3-idgpu9	du
+qb3-iogpu1	au
+qb3-iogpu1	u
