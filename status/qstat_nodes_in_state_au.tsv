@@ -93,18 +93,17 @@ qb3-id104	au
 qb3-id105	au
 qb3-id106	au
 qb3-id107	au
+qb3-id108	au
 qb3-id112	d
 qb3-id114	au
 qb3-id121	E
-qb3-id126	au
 qb3-id130	au
 qb3-id133	au
 qb3-id135	au
 qb3-id139	d
 qb3-id140	adu
 qb3-id141	adu
-qb3-id145	au
-qb3-id145	auE
+qb3-id145	E
 qb3-id146	au
 qb3-id148	au
 qb3-id152	adu
@@ -143,7 +142,6 @@ qb3-id242	d
 qb3-id248	adu
 qb3-id251	au
 qb3-id261	au
-qb3-id27	au
 qb3-id280	au
 qb3-id297	adu
 qb3-id29	au
@@ -160,7 +158,6 @@ qb3-id346	au
 qb3-id348	au
 qb3-id351	au
 qb3-id354	au
-qb3-id35	au
 qb3-id36	au
 qb3-id37	adu
 qb3-id38	au
@@ -225,6 +222,7 @@ qb3-id96	au
 qb3-id97	au
 qb3-id98	au
 qb3-id99	adu
+qb3-id9	au
 qb3-idgpu12	E
 qb3-idgpu13	d
 qb3-idgpu14	adu
