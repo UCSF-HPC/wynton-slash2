@@ -1,6 +1,7 @@
 queuename	states
 dev3.wynton.ucsf.edu	d
 gh-id10	au
+gh-id12	au
 gh-id13	au
 gh-id16	adu
 gh-id1	adu
@@ -119,7 +120,7 @@ qb3-id180	au
 qb3-id185	adu
 qb3-id18	u
 qb3-id191	au
-qb3-id192	E
+qb3-id192	aE
 qb3-id196	au
 qb3-id197	adu
 qb3-id201	au
@@ -147,9 +148,11 @@ qb3-id29	au
 qb3-id306	d
 qb3-id307	au
 qb3-id30	au
+qb3-id312	au
 qb3-id316	E
 qb3-id320	E
 qb3-id322	adu
+qb3-id327	au
 qb3-id338	au
 qb3-id33	au
 qb3-id343	adu
