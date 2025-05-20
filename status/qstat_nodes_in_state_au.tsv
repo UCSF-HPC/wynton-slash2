@@ -26,7 +26,6 @@ msg-hmio2	adu
 msg-hmio3	d
 msg-id10	au
 msg-id11	au
-msg-id13	au
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
@@ -65,7 +64,6 @@ qb3-as10	d
 qb3-as12	adu
 qb3-as13	au
 qb3-as15	au
-qb3-as17	au
 qb3-as18	au
 qb3-as19	au
 qb3-as3	au
