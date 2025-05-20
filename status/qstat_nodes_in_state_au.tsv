@@ -54,8 +54,7 @@ msg-iogpu3	adu
 msg-iogpu3	du
 msg-iogpu7	au
 msg-iogpu7	u
-msg-iogpu8	au
-msg-iogpu8	uE
+msg-iogpu8	E
 msg-iogpu9	adu
 msg-iogpu9	du
 qb3-as10	d
@@ -149,7 +148,8 @@ qb3-id153	E
 qb3-id155	au
 qb3-id157	au
 qb3-id159	E
-qb3-id15	aE
+qb3-id15	au
+qb3-id15	auE
 qb3-id160	E
 qb3-id162	au
 qb3-id164	au
@@ -180,7 +180,6 @@ qb3-id202	E
 qb3-id203	au
 qb3-id209	au
 qb3-id212	au
-qb3-id216	au
 qb3-id218	adu
 qb3-id222	E
 qb3-id229	adu
