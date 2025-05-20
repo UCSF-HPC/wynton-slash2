@@ -101,7 +101,6 @@ qb3-atgpu9	d
 qb3-hmid1	au
 qb3-hmid2	au
 qb3-hmid3	d
-qb3-hmid4	au
 qb3-hmid5	au
 qb3-hmid7	adu
 qb3-hmid8	d
@@ -127,7 +126,7 @@ qb3-id128	au
 qb3-id129	adu
 qb3-id12	au
 qb3-id130	au
-qb3-id131	aE
+qb3-id131	E
 qb3-id133	au
 qb3-id134	au
 qb3-id135	au
