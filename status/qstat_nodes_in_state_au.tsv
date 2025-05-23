@@ -118,7 +118,7 @@ qb3-id140	adu
 qb3-id141	adu
 qb3-id142	E
 qb3-id149	E
-qb3-id151	aE
+qb3-id151	E
 qb3-id152	adu
 qb3-id162	au
 qb3-id163	E
@@ -249,6 +249,8 @@ qb3-idgpu15	du
 qb3-idgpu16	adu
 qb3-idgpu16	du
 qb3-idgpu17	E
+qb3-idgpu3	au
+qb3-idgpu3	u
 qb3-idgpu6	au
 qb3-idgpu6	u
 qb3-idgpu7	d
