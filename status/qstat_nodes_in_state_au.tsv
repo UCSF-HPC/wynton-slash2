@@ -26,7 +26,6 @@ msg-id18	au
 msg-id1	adu
 msg-id2	au
 msg-id35	au
-msg-id38	au
 msg-id3	adu
 msg-id4	au
 msg-ihgpu3	adu
@@ -123,7 +122,7 @@ qb3-id145	E
 qb3-id147	E
 qb3-id149	E
 qb3-id14	E
-qb3-id151	aE
+qb3-id151	E
 qb3-id152	adu
 qb3-id154	E
 qb3-id162	au
@@ -260,8 +259,6 @@ qb3-id96	au
 qb3-id97	au
 qb3-id98	au
 qb3-id99	adu
-qb3-idgpu10	au
-qb3-idgpu10	u
 qb3-idgpu11	d
 qb3-idgpu12	E
 qb3-idgpu13	d
