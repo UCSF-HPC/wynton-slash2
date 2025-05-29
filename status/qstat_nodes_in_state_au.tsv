@@ -27,6 +27,7 @@ msg-id16	adu
 msg-id18	au
 msg-id1	adu
 msg-id2	au
+msg-id34	au
 msg-id35	au
 msg-id3	adu
 msg-id4	au
@@ -82,6 +83,7 @@ qb3-atgpu9	d
 qb3-hmid2	au
 qb3-hmid3	d
 qb3-hmid4	au
+qb3-hmid5	au
 qb3-hmid7	adu
 qb3-hmid8	d
 qb3-id100	au
