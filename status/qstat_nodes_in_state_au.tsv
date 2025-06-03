@@ -30,8 +30,6 @@ gh-id22	au
 gh-id22	aus
 gh-id23	adu
 gh-id23	adus
-gh-id24	au
-gh-id24	aus
 gh-id25	au
 gh-id25	aus
 gh-id26	au
@@ -824,8 +822,6 @@ qb3-id327	au
 qb3-id327	aus
 qb3-id328	au
 qb3-id328	aus
-qb3-id329	au
-qb3-id329	aus
 qb3-id32	au
 qb3-id32	aus
 qb3-id330	adu
@@ -1080,6 +1076,10 @@ qb3-iogpu1	us
 qb3-iogpu4	au
 qb3-iogpu4	aus
 qb3-iogpu4	us
+qb3-iogpu5	au
+qb3-iogpu5	aus
+qb3-iogpu5	us
+pu4	us
 qb3-iogpu5	au
 qb3-iogpu5	aus
 qb3-iogpu5	us
