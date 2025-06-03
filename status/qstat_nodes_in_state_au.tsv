@@ -98,9 +98,7 @@ qb3-as7	au
 qb3-as7	aus
 qb3-atgpu10	ds
 qb3-atgpu11	ds
-qb3-atgpu12	adus
-qb3-atgpu12	au
-qb3-atgpu12	us
+qb3-atgpu12	ds
 qb3-atgpu13	ds
 qb3-atgpu14	ds
 qb3-atgpu15	adu
@@ -443,5 +441,8 @@ qb3-idgpu7	d
 qb3-idgpu7	ds
 qb3-idgpu8	d
 qb3-idgpu8	ds
+qb3-idgpu9	d
+qb3-idgpu9	ds
+8	ds
 qb3-idgpu9	d
 qb3-idgpu9	ds
