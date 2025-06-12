@@ -57,6 +57,7 @@ qb3-atgpu10	d
 qb3-atgpu11	d
 qb3-atgpu12	ad
 qb3-atgpu12	d
+qb3-atgpu13	ad
 qb3-atgpu13	d
 qb3-atgpu14	d
 qb3-atgpu15	adu
@@ -259,5 +260,6 @@ qb3-idgpu17	E
 qb3-idgpu6	au
 qb3-idgpu6	u
 qb3-idgpu7	d
+qb3-idgpu8	ad
 qb3-idgpu8	d
 qb3-idgpu9	d
