@@ -19,7 +19,6 @@ msg-hmio2	adu
 msg-hmio3	d
 msg-id10	au
 msg-id11	au
-msg-id13	au
 msg-id14	adu
 msg-id15	adu
 msg-id16	adu
@@ -104,7 +103,7 @@ qb3-id141	d
 qb3-id142	E
 qb3-id144	E
 qb3-id147	E
-qb3-id149	E
+qb3-id149	aE
 qb3-id14	E
 qb3-id152	adu
 qb3-id154	E
@@ -162,6 +161,7 @@ qb3-id306	d
 qb3-id30	au
 qb3-id312	au
 qb3-id313	au
+qb3-id31	au
 qb3-id322	adu
 qb3-id32	E
 qb3-id343	d
