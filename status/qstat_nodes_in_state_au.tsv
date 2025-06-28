@@ -1,5 +1,5 @@
 queuename	states
-dev3.wynton.ucsf.edu	d
+dev3.wynton.ucsf.edu	adu
 gh-id13	au
 gh-id1	adu
 gh-id23	adu
@@ -206,6 +206,7 @@ qb3-id91	au
 qb3-id95	au
 qb3-id97	au
 qb3-id99	d
+qb3-idgpu13	ad
 qb3-idgpu13	d
 qb3-idgpu14	adu
 qb3-idgpu14	du
