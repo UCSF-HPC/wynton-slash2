@@ -35,7 +35,6 @@ msg-hmio2	adu
 msg-hmio3	d
 msg-id10	au
 msg-id11	au
-msg-id12	ad
 msg-id12	d
 msg-id14	adu
 msg-id15	adu
@@ -85,7 +84,6 @@ msg-id8	d
 msg-id9	d
 msg-ihgpu1	d
 msg-ihgpu1	dE
-msg-ihgpu2	ad
 msg-ihgpu2	d
 msg-ihgpu3	adu
 msg-ihgpu3	du
@@ -334,6 +332,7 @@ qb3-id227	d
 qb3-id228	d
 qb3-id229	adu
 qb3-id22	d
+qb3-id230	ad
 qb3-id230	d
 qb3-id231	adu
 qb3-id232	adu
