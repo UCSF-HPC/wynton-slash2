@@ -81,7 +81,6 @@ msg-id5	d
 msg-id6	d
 msg-id6	dE
 msg-id7	d
-msg-id8	ad
 msg-id8	d
 msg-id9	d
 msg-ihgpu1	d
@@ -334,7 +333,6 @@ qb3-id227	d
 qb3-id228	d
 qb3-id229	adu
 qb3-id22	d
-qb3-id230	ad
 qb3-id230	d
 qb3-id231	adu
 qb3-id232	adu
@@ -553,6 +551,7 @@ qb3-id9	d
 qb3-idgpu10	d
 qb3-idgpu11	d
 qb3-idgpu11	dE
+qb3-idgpu12	ad
 qb3-idgpu12	d
 qb3-idgpu13	ad
 qb3-idgpu13	d
