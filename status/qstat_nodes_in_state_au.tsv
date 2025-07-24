@@ -50,7 +50,6 @@ msg-iogpu3	adu
 msg-iogpu3	u
 msg-iogpu4	d
 msg-iogpu5	d
-msg-iogpu6	ad
 msg-iogpu6	d
 msg-iogpu7	au
 msg-iogpu7	u
@@ -170,7 +169,6 @@ qb3-id239	au
 qb3-id23	d
 qb3-id23	dE
 qb3-id242	au
-qb3-id244	au
 qb3-id245	au
 qb3-id245	auE
 qb3-id24	d
