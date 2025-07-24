@@ -26,7 +26,7 @@ msg-id18	au
 msg-id1	adu
 msg-id2	au
 msg-id35	au
-msg-id3	adu
+msg-id3	au
 msg-id4	au
 msg-ihgpu1	ad
 msg-ihgpu1	d
@@ -70,7 +70,6 @@ qb3-atgpu14	d
 qb3-atgpu15	adu
 qb3-atgpu15	u
 qb3-atgpu16	d
-qb3-atgpu17	ad
 qb3-atgpu17	d
 qb3-atgpu21	au
 qb3-atgpu21	u
