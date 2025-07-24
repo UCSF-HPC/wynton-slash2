@@ -21,7 +21,6 @@ msg-hmio1	E
 msg-hmio2	adu
 msg-id10	au
 msg-id11	au
-msg-id13	ad
 msg-id13	d
 msg-id14	au
 msg-id15	au
@@ -61,7 +60,6 @@ msg-iogpu7	u
 msg-iogpu8	d
 msg-iogpu9	adu
 msg-iogpu9	u
-qb3-as11	ad
 qb3-as11	d
 qb3-as12	au
 qb3-as13	au
