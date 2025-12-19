@@ -17,7 +17,6 @@ msg-ihgpu1	d
 msg-ihgpu2	d
 msg-ihgpu3	adu
 msg-ihgpu3	u
-msg-ihgpu4	ad
 msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	u
@@ -36,7 +35,7 @@ msg-iogpu8	d
 msg-iogpu9	adu
 msg-iogpu9	u
 qb3-as18	au
-qb3-as19	E
+qb3-as19	Es
 qb3-as3	adu
 qb3-as5	d
 qb3-as9	d
@@ -80,7 +79,7 @@ qb3-atgpu8	d
 qb3-atgpu9	d
 qb3-hmid2	au
 qb3-hmid3	au
-qb3-hmid5	E
+qb3-hmid5	Es
 qb3-hmid6	au
 qb3-hmid7	au
 qb3-hmid9	au
@@ -213,7 +212,6 @@ qb3-id96	d
 qb3-id97	au
 qb3-id99	auE
 qb3-idgpu10	d
-qb3-idgpu11	ad
 qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
