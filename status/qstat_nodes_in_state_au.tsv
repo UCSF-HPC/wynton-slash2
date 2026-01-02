@@ -17,7 +17,6 @@ msg-ihgpu1	ds
 msg-ihgpu2	ds
 msg-ihgpu3	adus
 msg-ihgpu3	us
-msg-ihgpu4	ads
 msg-ihgpu4	ds
 msg-ihgpu5	adus
 msg-ihgpu5	us
@@ -236,7 +235,6 @@ qb3-idgpu10	ds
 qb3-idgpu11	ds
 qb3-idgpu12	adus
 qb3-idgpu12	us
-qb3-idgpu13	ads
 qb3-idgpu13	ds
 qb3-idgpu14	adus
 qb3-idgpu14	dus
