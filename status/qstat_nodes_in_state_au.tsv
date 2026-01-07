@@ -30,8 +30,10 @@ msg-iogpu2	ad
 msg-iogpu2	d
 msg-iogpu3	adu
 msg-iogpu3	u
+msg-iogpu4	ad
 msg-iogpu4	d
 msg-iogpu5	d
+msg-iogpu6	ad
 msg-iogpu6	d
 msg-iogpu7	adu
 msg-iogpu7	u
