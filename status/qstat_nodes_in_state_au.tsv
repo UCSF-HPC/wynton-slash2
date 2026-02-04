@@ -141,6 +141,7 @@ qb3-id185	au
 qb3-id187	au
 qb3-id18	u
 qb3-id191	au
+qb3-id195	E
 qb3-id196	au
 qb3-id197	d
 qb3-id198	au
@@ -259,6 +260,7 @@ qb3-idgpu10	d
 qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
+qb3-idgpu13	ad
 qb3-idgpu13	d
 qb3-idgpu14	adu
 qb3-idgpu14	du
@@ -266,7 +268,6 @@ qb3-idgpu15	adu
 qb3-idgpu15	u
 qb3-idgpu16	adu
 qb3-idgpu16	u
-qb3-idgpu17	ad
 qb3-idgpu17	d
 qb3-idgpu18	d
 qb3-idgpu3	d
