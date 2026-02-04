@@ -41,9 +41,7 @@ msg-iogpu9	adu
 msg-iogpu9	u
 qb3-as12	au
 qb3-as14	au
-qb3-as16	E
 qb3-as18	au
-qb3-as19	E
 qb3-as3	d
 qb3-as4	adu
 qb3-as5	d
@@ -53,17 +51,14 @@ qb3-atgpu11	d
 qb3-atgpu12	d
 qb3-atgpu13	d
 qb3-atgpu14	d
-qb3-atgpu14	E
 qb3-atgpu15	adu
 qb3-atgpu15	u
 qb3-atgpu16	d
 qb3-atgpu17	d
-qb3-atgpu17	E
 qb3-atgpu18	adu
 qb3-atgpu18	uE
 qb3-atgpu19	d
 qb3-atgpu1	d
-qb3-atgpu1	E
 qb3-atgpu21	adu
 qb3-atgpu21	u
 qb3-atgpu23	adu
@@ -73,7 +68,6 @@ qb3-atgpu25	d
 qb3-atgpu29	adu
 qb3-atgpu29	u
 qb3-atgpu2	d
-qb3-atgpu2	E
 qb3-atgpu30	adu
 qb3-atgpu30	du
 qb3-atgpu31	d
