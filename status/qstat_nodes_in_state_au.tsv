@@ -25,7 +25,6 @@ msg-iogpu12	d
 msg-iogpu13	d
 msg-iogpu1	adu
 msg-iogpu1	u
-msg-iogpu2	ad
 msg-iogpu2	d
 msg-iogpu3	adu
 msg-iogpu3	u
@@ -269,6 +268,7 @@ qb3-idgpu10	d
 qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
+qb3-idgpu13	ad
 qb3-idgpu13	d
 qb3-idgpu14	adu
 qb3-idgpu14	du
