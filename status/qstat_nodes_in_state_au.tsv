@@ -1,4 +1,5 @@
 queuename	states
+3154353	02/19/2026
 gh-id29	adus
 gh-id30	adus
 gh-id31	adus
@@ -234,6 +235,7 @@ qb3-id164	au
 qb3-id164	aus
 qb3-id165	E
 qb3-id165	Es
+qb3-id166	au
 qb3-id166	auE
 qb3-id166	aus
 qb3-id167	au
@@ -258,6 +260,7 @@ qb3-id177	au
 qb3-id177	aus
 qb3-id178	au
 qb3-id178	aus
+qb3-id182	E
 qb3-id182	Es
 qb3-id184	au
 qb3-id184	aus
@@ -269,6 +272,7 @@ qb3-id18	u
 qb3-id18	us
 qb3-id191	au
 qb3-id191	aus
+qb3-id195	E
 qb3-id195	Es
 qb3-id196	au
 qb3-id196	aus
@@ -318,6 +322,8 @@ qb3-id237	au
 qb3-id237	aus
 qb3-id240	au
 qb3-id240	aus
+qb3-id244	au
+qb3-id244	aus
 qb3-id245	d
 qb3-id245	ds
 qb3-id247	E
@@ -337,6 +343,8 @@ qb3-id27	au
 qb3-id27	aus
 qb3-id280	au
 qb3-id280	aus
+qb3-id281	au
+qb3-id281	aus
 qb3-id283	E
 qb3-id283	Es
 qb3-id28	au
@@ -532,7 +540,8 @@ qb3-idgpu9	adus
 qb3-idgpu9	u
 qb3-iogpu1	d
 qb3-iogpu1	ds
-qb3-iogpu4	d
-qb3-iogpu4	ds
+qb3-iogpu4	adu
+qb3-iogpu4	adus
+qb3-iogpu4	u
 qb3-iogpu5	d
 qb3-iogpu5	ds
