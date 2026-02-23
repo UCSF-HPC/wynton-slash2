@@ -49,8 +49,9 @@ msg-iogpu2	ds
 msg-iogpu3	adu
 msg-iogpu3	adus
 msg-iogpu3	u
+msg-iogpu4	ad
+msg-iogpu4	ads
 msg-iogpu4	d
-msg-iogpu4	ds
 msg-iogpu5	d
 msg-iogpu5	ds
 msg-iogpu6	d
@@ -58,8 +59,9 @@ msg-iogpu6	ds
 msg-iogpu7	adu
 msg-iogpu7	adus
 msg-iogpu7	u
+msg-iogpu8	ad
+msg-iogpu8	ads
 msg-iogpu8	d
-msg-iogpu8	ds
 msg-iogpu9	adu
 msg-iogpu9	adus
 msg-iogpu9	u
