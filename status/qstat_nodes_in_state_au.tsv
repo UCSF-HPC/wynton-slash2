@@ -16,6 +16,7 @@ msg-id35	d
 msg-id3	au
 msg-id4	au
 msg-ihgpu1	d
+msg-ihgpu2	ad
 msg-ihgpu2	d
 msg-ihgpu3	adu
 msg-ihgpu3	u
@@ -23,7 +24,8 @@ msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	u
 msg-iogpu11	d
-msg-iogpu12	d
+msg-iogpu12	adu
+msg-iogpu12	du
 msg-iogpu13	d
 msg-iogpu1	adu
 msg-iogpu1	u
