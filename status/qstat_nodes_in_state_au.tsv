@@ -23,8 +23,6 @@ msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	u
 msg-iogpu11	d
-msg-iogpu12	adu
-msg-iogpu12	du
 msg-iogpu13	d
 msg-iogpu1	adu
 msg-iogpu1	u
@@ -36,7 +34,6 @@ msg-iogpu5	d
 msg-iogpu6	d
 msg-iogpu7	adu
 msg-iogpu7	u
-msg-iogpu8	ad
 msg-iogpu8	d
 msg-iogpu9	adu
 msg-iogpu9	u
