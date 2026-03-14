@@ -123,7 +123,7 @@ qb3-id11	au
 qb3-id121	E
 qb3-id122	au
 qb3-id123	au
-qb3-id132	E
+qb3-id132	aE
 qb3-id134	E
 qb3-id135	au
 qb3-id136	E
@@ -344,5 +344,6 @@ qb3-idgpu8	E
 qb3-idgpu9	adu
 qb3-idgpu9	u
 qb3-iogpu1	d
+qb3-iogpu4	ad
 qb3-iogpu4	d
 qb3-iogpu5	d
