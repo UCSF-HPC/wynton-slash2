@@ -35,7 +35,6 @@ msg-ihgpu1	d
 msg-ihgpu2	d
 msg-ihgpu3	adu
 msg-ihgpu3	u
-msg-ihgpu4	ad
 msg-ihgpu4	d
 msg-ihgpu5	adu
 msg-ihgpu5	u
@@ -63,7 +62,6 @@ qb3-as14	au
 qb3-as17	d
 qb3-as17	dE
 qb3-as18	au
-qb3-as19	au
 qb3-as2	E
 qb3-as3	d
 qb3-as4	adu
