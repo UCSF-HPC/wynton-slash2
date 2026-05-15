@@ -10,7 +10,7 @@ gh-id32	adu
 msg-hmio1	adu
 msg-hmio1	au
 msg-hmio2	adu
-msg-hmio3	ad
+msg-hmio3	d
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -320,8 +320,8 @@ qb3-id184	adu
 qb3-id184	au
 qb3-id185	adu
 qb3-id185	au
+qb3-id186	aE
 qb3-id186	d
-qb3-id186	E
 qb3-id187	adu
 qb3-id187	au
 qb3-id188	d
@@ -662,8 +662,8 @@ qb3-id88	au
 qb3-id89	adu
 qb3-id89	au
 qb3-id8	d
-qb3-id90	aE
 qb3-id90	d
+qb3-id90	E
 qb3-id91	adu
 qb3-id91	au
 qb3-id92	adu
