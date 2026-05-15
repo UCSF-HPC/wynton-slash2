@@ -77,7 +77,8 @@ msg-ihgpu5	adu
 msg-ihgpu5	u
 msg-iogpu11	d
 msg-iogpu12	d
-msg-iogpu13	d
+msg-iogpu13	adu
+msg-iogpu13	du
 msg-iogpu1	adu
 msg-iogpu1	u
 msg-iogpu2	d
