@@ -72,7 +72,7 @@ msg-ihgpu3	adu
 msg-ihgpu3	u
 msg-ihgpu5	adu
 msg-ihgpu5	u
-msg-iogpu11	d
+msg-iogpu11	ad
 msg-iogpu12	d
 msg-iogpu1	adu
 msg-iogpu1	u
@@ -494,8 +494,8 @@ qb3-id301	au
 qb3-id302	adu
 qb3-id302	au
 qb3-id302	auE
-qb3-id303	aE
 qb3-id303	d
+qb3-id303	E
 qb3-id304	d
 qb3-id305	d
 qb3-id306	d
