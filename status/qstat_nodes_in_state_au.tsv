@@ -177,7 +177,7 @@ qb3-hmid7	au
 qb3-hmid8	d
 qb3-hmid9	adu
 qb3-hmid9	au
-qb3-id100	d
+qb3-id100	ad
 qb3-id101	adu
 qb3-id101	au
 qb3-id102	adu
@@ -216,7 +216,7 @@ qb3-id123	au
 qb3-id124	d
 qb3-id125	d
 qb3-id126	d
-qb3-id127	d
+qb3-id127	ad
 qb3-id128	d
 qb3-id129	d
 qb3-id129	E
@@ -311,8 +311,8 @@ qb3-id17	d
 qb3-id17	E
 qb3-id180	d
 qb3-id181	d
-qb3-id182	aE
 qb3-id182	d
+qb3-id182	E
 qb3-id183	d
 qb3-id184	adu
 qb3-id184	au
