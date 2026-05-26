@@ -3,7 +3,6 @@ queuename	states
 3380109	05/26/2026
 3380117	05/26/2026
 3380118	05/26/2026
-3891956	05/26/2026
 gh-id29	adu
 gh-id30	adu
 gh-id31	adu
@@ -156,8 +155,7 @@ qb3-atgpu34	E
 qb3-atgpu35	d
 qb3-atgpu36	d
 qb3-atgpu3	d
-qb3-atgpu4	au
-qb3-atgpu4	u
+qb3-atgpu4	E
 qb3-atgpu5	d
 qb3-atgpu5	E
 qb3-atgpu6	adu
@@ -262,7 +260,8 @@ qb3-id150	au
 qb3-id151	d
 qb3-id152	adu
 qb3-id152	au
-qb3-id153	d
+qb3-id153	adu
+qb3-id153	au
 qb3-id154	d
 qb3-id155	d
 qb3-id156	d
@@ -365,8 +364,8 @@ qb3-id215	adu
 qb3-id215	au
 qb3-id216	d
 qb3-id216	E
+qb3-id217	aE
 qb3-id217	d
-qb3-id217	E
 qb3-id218	adu
 qb3-id218	au
 qb3-id219	adu
