@@ -1,8 +1,8 @@
 queuename	states
-3345929	05/26/2026
-3380109	05/26/2026
-3380117	05/26/2026
-3380118	05/26/2026
+3345929	05/27/2026
+3380109	05/27/2026
+3380117	05/27/2026
+3380118	05/27/2026
 gh-id29	adu
 gh-id30	adu
 gh-id31	adu
@@ -76,7 +76,7 @@ msg-iogpu11	d
 msg-iogpu12	d
 msg-iogpu1	adu
 msg-iogpu1	u
-msg-iogpu2	d
+msg-iogpu2	ad
 msg-iogpu3	adu
 msg-iogpu3	u
 msg-iogpu4	d
