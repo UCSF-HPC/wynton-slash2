@@ -30,7 +30,7 @@ msg-id20	d
 msg-id20	E
 msg-id21	adu
 msg-id21	au
-msg-id22	ad
+msg-id22	d
 msg-id23	adu
 msg-id23	au
 msg-id24	d
@@ -129,7 +129,6 @@ qb3-atgpu18	uE
 qb3-atgpu19	d
 qb3-atgpu19	E
 qb3-atgpu1	d
-qb3-atgpu21	ad
 qb3-atgpu21	d
 qb3-atgpu23	adu
 qb3-atgpu23	u
@@ -422,7 +421,7 @@ qb3-id24	d
 qb3-id250	d
 qb3-id251	adu
 qb3-id251	au
-qb3-id252	d
+qb3-id252	ad
 qb3-id253	d
 qb3-id254	adu
 qb3-id254	au
