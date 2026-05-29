@@ -55,7 +55,7 @@ msg-id36	d
 msg-id37	d
 msg-id38	adu
 msg-id38	au
-msg-id39	d
+msg-id39	ad
 msg-id3	adu
 msg-id3	au
 msg-id40	d
@@ -75,7 +75,7 @@ msg-iogpu11	d
 msg-iogpu12	d
 msg-iogpu1	adu
 msg-iogpu1	u
-msg-iogpu2	d
+msg-iogpu2	ad
 msg-iogpu3	adu
 msg-iogpu3	u
 msg-iogpu4	d
@@ -198,7 +198,7 @@ qb3-id10	au
 qb3-id110	adu
 qb3-id110	au
 qb3-id111	d
-qb3-id112	d
+qb3-id112	ad
 qb3-id113	adu
 qb3-id113	au
 qb3-id114	d
