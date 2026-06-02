@@ -32,7 +32,7 @@ msg-id21	au
 msg-id22	d
 msg-id23	adu
 msg-id23	au
-msg-id24	d
+msg-id24	ad
 msg-id25	d
 msg-id26	d
 msg-id27	d
@@ -51,7 +51,7 @@ msg-id36	d
 msg-id37	d
 msg-id38	adu
 msg-id38	au
-msg-id39	d
+msg-id39	ad
 msg-id3	adu
 msg-id3	au
 msg-id40	d
@@ -59,7 +59,7 @@ msg-id4	adu
 msg-id4	au
 msg-id5	d
 msg-id6	d
-msg-id7	d
+msg-id7	ad
 msg-id9	d
 msg-ihgpu1	d
 msg-ihgpu2	d
@@ -239,7 +239,7 @@ qb3-id142	adu
 qb3-id142	au
 qb3-id143	adu
 qb3-id143	au
-qb3-id144	d
+qb3-id144	ad
 qb3-id145	d
 qb3-id146	d
 qb3-id147	adu
