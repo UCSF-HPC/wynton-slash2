@@ -54,7 +54,7 @@ msg-id38	au
 msg-id39	d
 msg-id3	adu
 msg-id3	au
-msg-id40	ad
+msg-id40	d
 msg-id4	adu
 msg-id4	au
 msg-id5	d
@@ -203,7 +203,7 @@ qb3-id122	au
 qb3-id123	adu
 qb3-id123	au
 qb3-id124	d
-qb3-id125	d
+qb3-id125	ad
 qb3-id126	d
 qb3-id127	d
 qb3-id128	d
@@ -307,8 +307,8 @@ qb3-id184	adu
 qb3-id184	au
 qb3-id185	adu
 qb3-id185	au
+qb3-id186	aE
 qb3-id186	d
-qb3-id186	E
 qb3-id187	adu
 qb3-id187	au
 qb3-id188	d
