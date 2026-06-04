@@ -242,8 +242,7 @@ qb3-id140	d
 qb3-id141	adu
 qb3-id141	au
 qb3-id142	d
-qb3-id143	adu
-qb3-id143	au
+qb3-id143	d
 qb3-id144	dE
 qb3-id144	E
 qb3-id145	d
@@ -478,8 +477,7 @@ qb3-id289	d
 qb3-id28	d
 qb3-id290	d
 qb3-id291	d
-qb3-id292	adu
-qb3-id292	au
+qb3-id292	d
 qb3-id293	d
 qb3-id294	d
 qb3-id294	E
@@ -693,7 +691,7 @@ qb3-idgpu8	d
 qb3-idgpu8	E
 qb3-idgpu9	adu
 qb3-idgpu9	u
-qb3-iogpu1	adu
-qb3-iogpu1	u
+qb3-iogpu1	d
+qb3-iogpu1	E
 qb3-iogpu4	d
 qb3-iogpu4	E
