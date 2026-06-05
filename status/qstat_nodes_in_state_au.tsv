@@ -16,7 +16,7 @@ msg-id10	au
 msg-id11	adu
 msg-id11	au
 msg-id12	d
-msg-id13	d
+msg-id13	ad
 msg-id14	adu
 msg-id14	au
 msg-id15	adu
@@ -26,8 +26,8 @@ msg-id16	au
 msg-id17	ad
 msg-id19	d
 msg-id1	adu
-msg-id20	ad
 msg-id20	aE
+msg-id20	d
 msg-id21	adu
 msg-id21	au
 msg-id22	d
@@ -603,7 +603,7 @@ qb3-id65	adu
 qb3-id65	au
 qb3-id66	adu
 qb3-id66	au
-qb3-id67	ad
+qb3-id67	d
 qb3-id68	d
 qb3-id69	E
 qb3-id6	adu
