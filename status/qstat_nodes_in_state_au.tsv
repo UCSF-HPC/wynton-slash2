@@ -10,7 +10,7 @@ gh-id32	adu
 msg-hmio1	adu
 msg-hmio1	au
 msg-hmio2	adu
-msg-hmio3	ad
+msg-hmio3	d
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -585,7 +585,7 @@ qb3-id53	d
 qb3-id54	adu
 qb3-id54	au
 qb3-id55	d
-qb3-id56	ad
+qb3-id56	d
 qb3-id57	dE
 qb3-id58	d
 qb3-id59	d
