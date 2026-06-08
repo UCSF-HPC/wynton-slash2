@@ -7,7 +7,7 @@ gh-id32	adu
 msg-hmio1	adu
 msg-hmio1	au
 msg-hmio2	adu
-msg-hmio3	d
+msg-hmio3	ad
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -92,7 +92,7 @@ qb3-as4	dE
 qb3-as5	d
 qb3-as6	d
 qb3-as7	d
-qb3-as8	ad
+qb3-as8	d
 qb3-as9	d
 qb3-as9	dE
 qb3-atgpu10	d
