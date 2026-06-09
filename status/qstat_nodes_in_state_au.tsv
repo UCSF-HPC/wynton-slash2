@@ -439,7 +439,6 @@ qb3-id2	d
 qb3-id300	d
 qb3-id301	d
 qb3-id302	d
-qb3-id302	E
 qb3-id303	d
 qb3-id304	d
 qb3-id305	d
@@ -602,8 +601,8 @@ qb3-id98	au
 qb3-id99	au
 qb3-id9	adu
 qb3-id9	au
-qb3-idgpu10	adu
-qb3-idgpu10	uE
+qb3-idgpu10	d
+qb3-idgpu10	E
 qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
