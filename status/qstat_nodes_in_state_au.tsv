@@ -80,8 +80,9 @@ msg-iogpu5	d
 msg-iogpu5	Dd
 msg-iogpu6	d
 msg-iogpu6	Dd
-msg-iogpu7	d
-msg-iogpu7	Dd
+msg-iogpu7	aDdu
+msg-iogpu7	adu
+msg-iogpu7	Du
 msg-iogpu8	d
 msg-iogpu8	Dd
 msg-iogpu9	aDdu
