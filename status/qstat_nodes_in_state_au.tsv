@@ -59,7 +59,7 @@ msg-ihgpu5	u
 msg-iogpu11	d
 msg-iogpu12	d
 msg-iogpu1	d
-msg-iogpu2	ad
+msg-iogpu2	d
 msg-iogpu3	adu
 msg-iogpu3	u
 msg-iogpu4	d
@@ -181,7 +181,7 @@ qb3-id130	d
 qb3-id131	d
 qb3-id132	d
 qb3-id133	d
-qb3-id134	d
+qb3-id134	ad
 qb3-id135	adu
 qb3-id135	au
 qb3-id136	d
