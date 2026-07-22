@@ -154,7 +154,7 @@ qb3-id104	adu
 qb3-id104	au
 qb3-id105	adu
 qb3-id105	au
-qb3-id106	ad
+qb3-id106	d
 qb3-id107	d
 qb3-id108	d
 qb3-id10	d
@@ -429,8 +429,9 @@ qb3-id302	d
 qb3-id303	d
 qb3-id304	d
 qb3-id305	d
-qb3-id306	d
-qb3-id306	E
+qb3-id306	adu
+qb3-id306	au
+qb3-id306	auE
 qb3-id307	d
 qb3-id308	d
 qb3-id309	d
@@ -535,7 +536,7 @@ qb3-id90	d
 qb3-id91	adu
 qb3-id91	au
 qb3-id92	d
-qb3-id93	ad
+qb3-id93	d
 qb3-id94	d
 qb3-id95	d
 qb3-id96	adu
