@@ -450,7 +450,8 @@ qb3-id315	d
 qb3-id316	d
 qb3-id317	d
 qb3-id318	d
-qb3-id31	d
+qb3-id31	adu
+qb3-id31	au
 qb3-id32	d
 qb3-id33	d
 qb3-id343	d
@@ -519,8 +520,7 @@ qb3-id71	d
 qb3-id72	d
 qb3-id73	d
 qb3-id74	d
-qb3-id75	adu
-qb3-id75	au
+qb3-id75	d
 qb3-id76	d
 qb3-id77	d
 qb3-id78	d
@@ -544,7 +544,6 @@ qb3-id8	d
 qb3-id90	d
 qb3-id91	adu
 qb3-id91	au
-qb3-id92	aE
 qb3-id92	d
 qb3-id92	E
 qb3-id93	d
