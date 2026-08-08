@@ -1,5 +1,5 @@
 queuename	states
-4389354	08/07/2026
+4389354	08/08/2026
 msg-hmio1	adu
 msg-hmio1	au
 msg-hmio2	adu
@@ -582,7 +582,6 @@ qb3-idgpu15	u
 qb3-idgpu16	adu
 qb3-idgpu16	u
 qb3-idgpu17	d
-qb3-idgpu18	ad
 qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu4	d
