@@ -8,7 +8,7 @@ msg-id10	au
 msg-id11	adu
 msg-id11	au
 msg-id12	d
-msg-id13	d
+msg-id13	ad
 msg-id14	adu
 msg-id14	au
 msg-id15	adu
@@ -570,6 +570,7 @@ qb3-idgpu15	u
 qb3-idgpu16	adu
 qb3-idgpu16	u
 qb3-idgpu17	d
+qb3-idgpu18	ad
 qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu4	d
