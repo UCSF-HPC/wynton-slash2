@@ -1,4 +1,5 @@
 queuename	states
+dev3.wynton.ucsf.edu	aus
 msg-hmio1	adu
 msg-hmio1	au
 msg-hmio2	adu
@@ -420,8 +421,9 @@ qb3-id180	d
 qb3-id181	adu
 qb3-id181	au
 qb3-id182	d
-qb3-id183	d
-qb3-id183	E
+qb3-id183	adu
+qb3-id183	au
+qb3-id183	auE
 qb3-id184	adu
 qb3-id184	au
 qb3-id185	adu
