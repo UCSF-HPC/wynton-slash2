@@ -27,6 +27,7 @@ msg-id23	d
 msg-id24	d
 msg-id25	d
 msg-id26	d
+msg-id26	E
 msg-id27	d
 msg-id28	d
 msg-id28	E
@@ -672,5 +673,6 @@ qb3-idgpu9	adus
 qb3-idgpu9	duE
 qb3-iogpu1	adu
 qb3-iogpu1	u
+qb3-iogpu4	ad
 qb3-iogpu4	d
 qb3-iogpu5	d
