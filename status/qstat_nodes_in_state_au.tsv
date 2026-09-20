@@ -3,7 +3,7 @@ queuename	states
 5020088	09/20/2026
 msg-hmio1	d
 msg-hmio2	adu
-msg-hmio3	d
+msg-hmio3	ad
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -639,7 +639,6 @@ qb3-id89	adu
 qb3-id89	au
 qb3-id8	aE
 qb3-id8	d
-qb3-id8	E
 qb3-id91	adu
 qb3-id91	au
 qb3-id92	adu
