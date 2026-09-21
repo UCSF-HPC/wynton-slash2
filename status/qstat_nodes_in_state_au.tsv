@@ -224,8 +224,8 @@ qb3-hmid9	adu
 qb3-hmid9	au
 qb3-hmid9	aus
 qb3-id100	d
-qb3-id101	aE
 qb3-id101	d
+qb3-id101	E
 qb3-id102	adu
 qb3-id102	au
 qb3-id103	d
@@ -655,6 +655,7 @@ qb3-idgpu10	duE
 qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
+qb3-idgpu13	ad
 qb3-idgpu13	d
 qb3-idgpu14	adu
 qb3-idgpu14	du
