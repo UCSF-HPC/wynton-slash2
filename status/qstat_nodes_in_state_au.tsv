@@ -1,6 +1,6 @@
 queuename	states
-5020085	09/21/2026
-5020088	09/21/2026
+5020085	09/22/2026
+5020088	09/22/2026
 msg-hmio1	d
 msg-hmio2	adu
 msg-hmio3	ad
@@ -462,7 +462,7 @@ qb3-id249	d
 qb3-id24	d
 qb3-id250	d
 qb3-id251	d
-qb3-id252	d
+qb3-id252	ad
 qb3-id253	dE
 qb3-id253	E
 qb3-id254	ad
@@ -656,7 +656,6 @@ qb3-idgpu11	d
 qb3-idgpu12	adu
 qb3-idgpu12	u
 qb3-idgpu13	ad
-qb3-idgpu13	d
 qb3-idgpu14	adu
 qb3-idgpu14	du
 qb3-idgpu15	adu
