@@ -94,8 +94,8 @@ qb3-as13	ds
 qb3-as14	d
 qb3-as15	dE
 qb3-as15	Es
-qb3-as16	aEs
 qb3-as16	dE
+qb3-as16	Es
 qb3-as17	d
 qb3-as17	ds
 qb3-as18	adu
@@ -184,7 +184,9 @@ qb3-hmid1	au
 qb3-hmid1	aus
 qb3-hmid2	d
 qb3-hmid2	ds
-qb3-hmid3	d
+qb3-hmid3	adu
+qb3-hmid3	au
+qb3-hmid3	aus
 qb3-hmid4	d
 qb3-hmid4	ds
 qb3-hmid5	d
