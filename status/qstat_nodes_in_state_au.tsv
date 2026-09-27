@@ -113,8 +113,8 @@ qb3-as6	adu
 qb3-as6	au
 qb3-as7	d
 qb3-as7	ds
-qb3-as8	aEs
 qb3-as8	dE
+qb3-as8	Es
 qb3-as9	d
 qb3-as9	ds
 qb3-atgpu10	d
@@ -465,7 +465,7 @@ qb3-id290	d
 qb3-id291	d
 qb3-id292	d
 qb3-id293	d
-qb3-id294	ad
+qb3-id294	d
 qb3-id295	d
 qb3-id296	d
 qb3-id297	adu
