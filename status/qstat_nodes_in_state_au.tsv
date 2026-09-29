@@ -51,7 +51,7 @@ msg-id5	d
 msg-id6	d
 msg-id7	d
 msg-id8	adu
-msg-id9	ad
+msg-id9	d
 msg-ihgpu1	adu
 msg-ihgpu1	du
 msg-ihgpu2	adu
@@ -445,7 +445,7 @@ qb3-id266	d
 qb3-id267	d
 qb3-id268	d
 qb3-id268	ds
-qb3-id269	ad
+qb3-id269	d
 qb3-id26	d
 qb3-id270	d
 qb3-id270	ds
@@ -500,7 +500,7 @@ qb3-id31	d
 qb3-id31	dE
 qb3-id32	adu
 qb3-id32	au
-qb3-id33	d
+qb3-id33	ad
 qb3-id343	d
 qb3-id344	d
 qb3-id345	d
