@@ -6,7 +6,7 @@ msg-id10	adu
 msg-id10	au
 msg-id11	adu
 msg-id11	au
-msg-id12	ad
+msg-id12	d
 msg-id13	d
 msg-id14	adu
 msg-id14	au
@@ -30,7 +30,7 @@ msg-id28	d
 msg-id29	d
 msg-id2	adu
 msg-id2	au
-msg-id30	d
+msg-id30	ad
 msg-id31	d
 msg-id32	d
 msg-id33	adu
@@ -460,7 +460,7 @@ qb3-id286	d
 qb3-id287	d
 qb3-id288	d
 qb3-id289	d
-qb3-id28	ad
+qb3-id28	d
 qb3-id290	d
 qb3-id291	d
 qb3-id292	d
