@@ -96,8 +96,8 @@ qb3-as12	dEs
 qb3-as13	d
 qb3-as13	ds
 qb3-as14	d
+qb3-as15	aEs
 qb3-as15	dE
-qb3-as15	Es
 qb3-as16	dE
 qb3-as16	Es
 qb3-as17	d
@@ -128,6 +128,7 @@ qb3-atgpu12	d
 qb3-atgpu12	ds
 qb3-atgpu13	d
 qb3-atgpu13	ds
+qb3-atgpu14	ad
 qb3-atgpu14	d
 qb3-atgpu14	ds
 qb3-atgpu15	adu
