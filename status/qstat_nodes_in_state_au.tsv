@@ -105,8 +105,8 @@ qb3-as17	ds
 qb3-as18	adu
 qb3-as18	au
 qb3-as18	aus
+qb3-as19	aEs
 qb3-as19	dE
-qb3-as19	Es
 qb3-as1	d
 qb3-as2	dE
 qb3-as3	d
@@ -144,7 +144,6 @@ qb3-atgpu19	d
 qb3-atgpu1	adu
 qb3-atgpu1	adus
 qb3-atgpu1	u
-qb3-atgpu21	ad
 qb3-atgpu21	d
 qb3-atgpu23	d
 qb3-atgpu23	E
