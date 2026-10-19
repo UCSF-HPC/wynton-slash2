@@ -16,13 +16,13 @@ msg-id16	adu
 msg-id16	au
 msg-id17	d
 msg-id18	adu
-msg-id19	ad
+msg-id19	d
 msg-id1	adu
 msg-id20	ad
 msg-id21	d
 msg-id22	d
 msg-id23	d
-msg-id24	ad
+msg-id24	d
 msg-id25	ad
 msg-id26	d
 msg-id27	d
@@ -161,7 +161,7 @@ qb3-atgpu31	d
 qb3-atgpu32	ad
 qb3-atgpu32	d
 qb3-atgpu33	ad
-qb3-atgpu34	ad
+qb3-atgpu33	d
 qb3-atgpu34	d
 qb3-atgpu35	d
 qb3-atgpu36	d
