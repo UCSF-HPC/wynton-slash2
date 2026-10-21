@@ -393,7 +393,7 @@ qb3-id228	adu
 qb3-id228	au
 qb3-id229	adu
 qb3-id229	au
-qb3-id22	ad
+qb3-id22	d
 qb3-id230	adu
 qb3-id230	au
 qb3-id231	adu
@@ -648,7 +648,5 @@ qb3-idgpu9	adus
 qb3-idgpu9	duE
 qb3-iogpu1	adu
 qb3-iogpu1	u
-qb3-iogpu4	adu
-qb3-iogpu4	u
-qb3-iogpu5	adu
-qb3-iogpu5	u
+qb3-iogpu4	d
+qb3-iogpu5	d
