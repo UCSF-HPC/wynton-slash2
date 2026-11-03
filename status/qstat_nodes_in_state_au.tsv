@@ -1,7 +1,7 @@
 queuename	states
 msg-hmio1	d
 msg-hmio2	adu
-msg-hmio3	ad
+msg-hmio3	d
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -30,7 +30,7 @@ msg-id28	d
 msg-id2	adu
 msg-id2	au
 msg-id30	ad
-msg-id31	d
+msg-id31	ad
 msg-id32	d
 msg-id33	adu
 msg-id33	au
@@ -42,7 +42,7 @@ msg-id38	adE
 msg-id39	d
 msg-id3	adu
 msg-id3	au
-msg-id40	ad
+msg-id40	d
 msg-id4	adu
 msg-id4	au
 msg-id5	d
@@ -162,6 +162,7 @@ qb3-atgpu32	d
 qb3-atgpu33	ad
 qb3-atgpu33	d
 qb3-atgpu34	ad
+qb3-atgpu34	d
 qb3-atgpu35	d
 qb3-atgpu36	d
 qb3-atgpu3	d
@@ -207,7 +208,7 @@ qb3-hmid9	au
 qb3-hmid9	aus
 qb3-id100	adu
 qb3-id100	au
-qb3-id101	ad
+qb3-id101	d
 qb3-id102	adu
 qb3-id102	au
 qb3-id103	adu
@@ -221,7 +222,7 @@ qb3-id107	adu
 qb3-id107	au
 qb3-id108	d
 qb3-id109	d
-qb3-id10	ad
+qb3-id10	d
 qb3-id110	adu
 qb3-id110	au
 qb3-id111	adu
@@ -232,7 +233,7 @@ qb3-id114	ad
 qb3-id115	adu
 qb3-id115	au
 qb3-id11	d
-qb3-id120	ad
+qb3-id120	d
 qb3-id121	d
 qb3-id122	ad
 qb3-id123	d
@@ -240,7 +241,7 @@ qb3-id124	dE
 qb3-id125	ad
 qb3-id126	d
 qb3-id127	d
-qb3-id128	d
+qb3-id128	ad
 qb3-id129	d
 qb3-id12	dE
 qb3-id130	d
@@ -265,7 +266,7 @@ qb3-id142	au
 qb3-id143	adu
 qb3-id143	au
 qb3-id144	ad
-qb3-id145	ad
+qb3-id145	d
 qb3-id146	d
 qb3-id147	adu
 qb3-id147	au
@@ -282,7 +283,7 @@ qb3-id155	d
 qb3-id156	d
 qb3-id157	d
 qb3-id158	d
-qb3-id159	ad
+qb3-id159	d
 qb3-id15	d
 qb3-id160	ad
 qb3-id161	d
@@ -354,7 +355,7 @@ qb3-id195	d
 qb3-id196	adu
 qb3-id196	au
 qb3-id197	d
-qb3-id198	ad
+qb3-id198	d
 qb3-id199	adu
 qb3-id199	au
 qb3-id19	d
@@ -399,7 +400,7 @@ qb3-id228	adu
 qb3-id228	au
 qb3-id229	adu
 qb3-id229	au
-qb3-id22	ad
+qb3-id22	d
 qb3-id230	adu
 qb3-id230	au
 qb3-id231	adu
@@ -422,7 +423,7 @@ qb3-id23	au
 qb3-id240	d
 qb3-id241	d
 qb3-id242	ad
-qb3-id243	ad
+qb3-id243	d
 qb3-id244	d
 qb3-id245	d
 qb3-id246	d
@@ -435,7 +436,7 @@ qb3-id251	d
 qb3-id252	ad
 qb3-id253	dE
 qb3-id254	d
-qb3-id255	ad
+qb3-id255	d
 qb3-id256	d
 qb3-id257	d
 qb3-id258	d
@@ -458,12 +459,12 @@ qb3-id270	d
 qb3-id270	ds
 qb3-id273	adu
 qb3-id279	d
-qb3-id27	ad
+qb3-id27	d
 qb3-id280	adu
 qb3-id280	au
 qb3-id281	d
 qb3-id282	ad
-qb3-id283	ad
+qb3-id283	d
 qb3-id284	d
 qb3-id285	d
 qb3-id286	d
@@ -489,7 +490,7 @@ qb3-id301	aduE
 qb3-id301	au
 qb3-id302	ad
 qb3-id303	d
-qb3-id304	d
+qb3-id304	ad
 qb3-id305	d
 qb3-id306	dE
 qb3-id306	E
@@ -499,17 +500,17 @@ qb3-id309	dE
 qb3-id30	d
 qb3-id310	d
 qb3-id311	ad
-qb3-id312	ad
+qb3-id312	d
 qb3-id313	d
 qb3-id314	d
-qb3-id315	ad
+qb3-id315	d
 qb3-id317	ad
 qb3-id318	d
 qb3-id31	d
 qb3-id31	dE
 qb3-id32	adu
 qb3-id32	au
-qb3-id33	ad
+qb3-id33	d
 qb3-id343	d
 qb3-id344	d
 qb3-id345	d
