@@ -158,9 +158,7 @@ qb3-atgpu2	ds
 qb3-atgpu31	ad
 qb3-atgpu32	ad
 qb3-atgpu33	ad
-qb3-atgpu33	d
 qb3-atgpu34	ad
-qb3-atgpu34	d
 qb3-atgpu35	d
 qb3-atgpu36	d
 qb3-atgpu3	d
@@ -643,6 +641,7 @@ qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu4	d
 qb3-idgpu5	d
+qb3-idgpu6	ad
 qb3-idgpu6	d
 qb3-idgpu7	d
 qb3-idgpu7	ds
