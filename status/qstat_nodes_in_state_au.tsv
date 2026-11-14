@@ -236,7 +236,7 @@ qb3-id123	d
 qb3-id124	dE
 qb3-id125	d
 qb3-id126	d
-qb3-id127	d
+qb3-id127	ad
 qb3-id128	d
 qb3-id129	d
 qb3-id12	dE
@@ -281,7 +281,7 @@ qb3-id157	d
 qb3-id158	d
 qb3-id159	d
 qb3-id15	d
-qb3-id160	d
+qb3-id160	ad
 qb3-id161	d
 qb3-id161	E
 qb3-id162	adu
@@ -642,6 +642,7 @@ qb3-idgpu16	adu
 qb3-idgpu16	u
 qb3-idgpu17	adu
 qb3-idgpu17	u
+qb3-idgpu18	ad
 qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu4	d
