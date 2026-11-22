@@ -16,7 +16,7 @@ msg-id16	adu
 msg-id16	au
 msg-id17	d
 msg-id18	adu
-msg-id19	d
+msg-id19	ad
 msg-id1	adu
 msg-id20	ad
 msg-id21	d
@@ -25,7 +25,7 @@ msg-id23	d
 msg-id24	d
 msg-id25	ad
 msg-id26	d
-msg-id27	ad
+msg-id27	d
 msg-id28	ad
 msg-id2	adu
 msg-id2	au
@@ -234,7 +234,7 @@ qb3-id120	ad
 qb3-id121	ad
 qb3-id122	ad
 qb3-id123	d
-qb3-id124	adE
+qb3-id124	dE
 qb3-id125	ad
 qb3-id126	d
 qb3-id127	d
@@ -243,8 +243,8 @@ qb3-id129	ad
 qb3-id12	dE
 qb3-id130	d
 qb3-id131	ad
-qb3-id132	d
-qb3-id133	ad
+qb3-id132	ad
+qb3-id133	d
 qb3-id134	d
 qb3-id135	adu
 qb3-id135	au
@@ -263,7 +263,7 @@ qb3-id142	au
 qb3-id143	adu
 qb3-id143	au
 qb3-id144	ad
-qb3-id145	d
+qb3-id145	ad
 qb3-id146	d
 qb3-id147	adu
 qb3-id147	au
@@ -389,7 +389,7 @@ qb3-id219	adu
 qb3-id219	au
 qb3-id21	d
 qb3-id220	d
-qb3-id221	ad
+qb3-id221	d
 qb3-id222	d
 qb3-id223	adu
 qb3-id224	adu
@@ -423,20 +423,20 @@ qb3-id239	adu
 qb3-id23	adu
 qb3-id23	au
 qb3-id240	d
-qb3-id241	ad
+qb3-id241	d
 qb3-id242	d
 qb3-id243	d
 qb3-id244	d
 qb3-id245	d
-qb3-id246	ad
+qb3-id246	d
 qb3-id247	ad
 qb3-id248	d
 qb3-id249	d
-qb3-id24	ad
+qb3-id24	d
 qb3-id250	d
 qb3-id251	d
 qb3-id252	d
-qb3-id253	adE
+qb3-id253	dE
 qb3-id254	d
 qb3-id255	d
 qb3-id256	d
@@ -476,7 +476,7 @@ qb3-id288	d
 qb3-id289	d
 qb3-id28	d
 qb3-id290	ad
-qb3-id291	ad
+qb3-id291	d
 qb3-id292	d
 qb3-id293	d
 qb3-id294	d
@@ -491,7 +491,7 @@ qb3-id2	d
 qb3-id300	d
 qb3-id301	aduE
 qb3-id301	au
-qb3-id302	ad
+qb3-id302	d
 qb3-id303	d
 qb3-id304	d
 qb3-id305	d
@@ -540,7 +540,7 @@ qb3-id43	au
 qb3-id45	adu
 qb3-id45	au
 qb3-id46	d
-qb3-id47	ad
+qb3-id47	d
 qb3-id48	adu
 qb3-id48	au
 qb3-id49	aduE
@@ -596,7 +596,7 @@ qb3-id77	au
 qb3-id78	adu
 qb3-id79	adu
 qb3-id79	au
-qb3-id7	ad
+qb3-id7	d
 qb3-id80	adu
 qb3-id80	au
 qb3-id81	au
