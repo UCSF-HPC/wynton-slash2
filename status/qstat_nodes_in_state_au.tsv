@@ -1,5 +1,5 @@
 queuename	states
-msg-hmio1	ad
+msg-hmio1	d
 msg-hmio2	adu
 msg-hmio3	ad
 msg-id10	adu
@@ -24,7 +24,7 @@ msg-id22	d
 msg-id23	ad
 msg-id24	ad
 msg-id25	d
-msg-id26	d
+msg-id26	ad
 msg-id27	ad
 msg-id28	ad
 msg-id2	adu
@@ -34,7 +34,7 @@ msg-id31	ad
 msg-id32	d
 msg-id33	adu
 msg-id33	au
-msg-id34	d
+msg-id34	ad
 msg-id36	adu
 msg-id36	au
 msg-id37	d
@@ -230,7 +230,7 @@ qb3-id114	d
 qb3-id115	adu
 qb3-id115	au
 qb3-id11	d
-qb3-id120	d
+qb3-id120	ad
 qb3-id121	d
 qb3-id122	d
 qb3-id123	ad
@@ -239,7 +239,7 @@ qb3-id125	ad
 qb3-id126	d
 qb3-id127	d
 qb3-id128	d
-qb3-id129	d
+qb3-id129	ad
 qb3-id12	adE
 qb3-id130	d
 qb3-id131	ad
@@ -268,7 +268,7 @@ qb3-id146	d
 qb3-id147	adu
 qb3-id147	au
 qb3-id148	d
-qb3-id149	d
+qb3-id149	ad
 qb3-id14	d
 qb3-id150	ad
 qb3-id151	d
@@ -323,7 +323,7 @@ qb3-id177	au
 qb3-id177	aus
 qb3-id178	adu
 qb3-id178	au
-qb3-id179	ad
+qb3-id179	d
 qb3-id17	ad
 qb3-id180	d
 qb3-id181	adu
@@ -355,7 +355,7 @@ qb3-id195	d
 qb3-id196	adu
 qb3-id196	au
 qb3-id197	d
-qb3-id198	d
+qb3-id198	ad
 qb3-id199	adu
 qb3-id199	au
 qb3-id19	adu
@@ -367,7 +367,7 @@ qb3-id201	au
 qb3-id202	adu
 qb3-id202	au
 qb3-id203	d
-qb3-id208	d
+qb3-id208	ad
 qb3-id209	d
 qb3-id20	ad
 qb3-id210	adu
@@ -425,7 +425,7 @@ qb3-id23	au
 qb3-id240	d
 qb3-id241	ad
 qb3-id242	d
-qb3-id243	d
+qb3-id243	ad
 qb3-id244	ad
 qb3-id245	d
 qb3-id246	d
@@ -453,7 +453,7 @@ qb3-id264	d
 qb3-id264	dE
 qb3-id265	d
 qb3-id266	d
-qb3-id267	ad
+qb3-id267	d
 qb3-id268	d
 qb3-id268	ds
 qb3-id269	d
@@ -466,7 +466,7 @@ qb3-id27	ad
 qb3-id280	adu
 qb3-id280	au
 qb3-id281	d
-qb3-id282	d
+qb3-id282	ad
 qb3-id283	ad
 qb3-id284	d
 qb3-id285	ad
@@ -479,7 +479,7 @@ qb3-id290	d
 qb3-id291	ad
 qb3-id292	d
 qb3-id293	d
-qb3-id294	ad
+qb3-id294	d
 qb3-id295	d
 qb3-id296	d
 qb3-id297	adu
@@ -507,7 +507,7 @@ qb3-id312	ad
 qb3-id313	d
 qb3-id314	d
 qb3-id315	ad
-qb3-id317	ad
+qb3-id317	d
 qb3-id318	d
 qb3-id31	d
 qb3-id31	dE
@@ -540,7 +540,7 @@ qb3-id43	au
 qb3-id45	adu
 qb3-id45	au
 qb3-id46	d
-qb3-id47	ad
+qb3-id47	d
 qb3-id48	adu
 qb3-id48	au
 qb3-id49	aduE
