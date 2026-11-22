@@ -1,5 +1,5 @@
 queuename	states
-msg-hmio1	ad
+msg-hmio1	d
 msg-hmio2	adu
 msg-hmio3	ad
 msg-id10	adu
@@ -19,12 +19,12 @@ msg-id18	adu
 msg-id19	d
 msg-id1	adu
 msg-id20	d
-msg-id21	ad
+msg-id21	d
 msg-id22	d
 msg-id23	d
 msg-id24	d
 msg-id25	d
-msg-id26	ad
+msg-id26	d
 msg-id27	d
 msg-id28	d
 msg-id2	adu
@@ -42,7 +42,7 @@ msg-id38	adE
 msg-id39	d
 msg-id3	adu
 msg-id3	au
-msg-id40	d
+msg-id40	ad
 msg-id4	adu
 msg-id4	au
 msg-id5	d
@@ -234,15 +234,15 @@ qb3-id120	d
 qb3-id121	ad
 qb3-id122	d
 qb3-id123	d
-qb3-id124	adE
+qb3-id124	dE
 qb3-id125	d
 qb3-id126	d
 qb3-id127	d
 qb3-id128	d
 qb3-id129	ad
-qb3-id12	adE
+qb3-id12	dE
 qb3-id130	d
-qb3-id131	ad
+qb3-id131	d
 qb3-id132	d
 qb3-id133	d
 qb3-id134	d
@@ -275,7 +275,7 @@ qb3-id151	d
 qb3-id152	adu
 qb3-id152	au
 qb3-id153	ad
-qb3-id154	ad
+qb3-id154	d
 qb3-id155	d
 qb3-id156	d
 qb3-id157	d
@@ -323,7 +323,7 @@ qb3-id177	au
 qb3-id177	aus
 qb3-id178	adu
 qb3-id178	au
-qb3-id179	ad
+qb3-id179	d
 qb3-id17	d
 qb3-id180	d
 qb3-id181	adu
@@ -343,7 +343,7 @@ qb3-id188	au
 qb3-id189	adu
 qb3-id18	du
 qb3-id18	u
-qb3-id190	ad
+qb3-id190	d
 qb3-id191	adu
 qb3-id191	au
 qb3-id192	d
@@ -367,7 +367,7 @@ qb3-id201	au
 qb3-id202	adu
 qb3-id202	au
 qb3-id203	d
-qb3-id208	ad
+qb3-id208	d
 qb3-id209	d
 qb3-id20	ad
 qb3-id210	adu
@@ -453,7 +453,7 @@ qb3-id264	d
 qb3-id264	dE
 qb3-id265	d
 qb3-id266	d
-qb3-id267	ad
+qb3-id267	d
 qb3-id268	d
 qb3-id268	ds
 qb3-id269	d
@@ -462,7 +462,7 @@ qb3-id270	d
 qb3-id270	ds
 qb3-id273	adu
 qb3-id279	d
-qb3-id27	d
+qb3-id27	ad
 qb3-id280	adu
 qb3-id280	au
 qb3-id281	d
@@ -486,13 +486,13 @@ qb3-id297	adu
 qb3-id297	au
 qb3-id298	d
 qb3-id299	d
-qb3-id29	ad
+qb3-id29	d
 qb3-id2	d
 qb3-id300	d
 qb3-id301	aduE
 qb3-id301	au
 qb3-id302	d
-qb3-id303	ad
+qb3-id303	d
 qb3-id304	d
 qb3-id305	d
 qb3-id306	dE
@@ -515,7 +515,7 @@ qb3-id32	adu
 qb3-id32	au
 qb3-id33	d
 qb3-id343	d
-qb3-id344	ad
+qb3-id344	d
 qb3-id345	d
 qb3-id346	adu
 qb3-id346	au
@@ -628,7 +628,7 @@ qb3-id97	adu
 qb3-id97	au
 qb3-id97	auE
 qb3-id98	au
-qb3-id9	d
+qb3-id9	ad
 qb3-idgpu10	adu
 qb3-idgpu10	duE
 qb3-idgpu11	adu
