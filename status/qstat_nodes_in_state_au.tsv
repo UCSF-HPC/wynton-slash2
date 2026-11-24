@@ -1,7 +1,7 @@
 queuename	states
 msg-hmio1	ad
 msg-hmio2	adu
-msg-hmio3	d
+msg-hmio3	ad
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -24,7 +24,7 @@ msg-id22	d
 msg-id23	d
 msg-id24	d
 msg-id25	ad
-msg-id26	d
+msg-id26	ad
 msg-id27	d
 msg-id28	d
 msg-id2	adu
@@ -34,7 +34,7 @@ msg-id31	d
 msg-id32	d
 msg-id33	adu
 msg-id33	au
-msg-id34	d
+msg-id34	ad
 msg-id36	adu
 msg-id36	au
 msg-id37	d
@@ -42,7 +42,7 @@ msg-id38	dE
 msg-id39	ad
 msg-id3	adu
 msg-id3	au
-msg-id40	ad
+msg-id40	d
 msg-id4	adu
 msg-id4	au
 msg-id5	d
@@ -244,7 +244,7 @@ qb3-id12	dE
 qb3-id130	ad
 qb3-id131	d
 qb3-id132	d
-qb3-id133	ad
+qb3-id133	d
 qb3-id134	ad
 qb3-id135	adu
 qb3-id135	au
@@ -263,7 +263,7 @@ qb3-id142	au
 qb3-id143	adu
 qb3-id143	au
 qb3-id144	ad
-qb3-id145	d
+qb3-id145	ad
 qb3-id146	d
 qb3-id147	adu
 qb3-id147	au
@@ -279,7 +279,7 @@ qb3-id154	d
 qb3-id155	d
 qb3-id156	d
 qb3-id157	d
-qb3-id158	ad
+qb3-id158	d
 qb3-id159	d
 qb3-id15	d
 qb3-id160	d
@@ -329,7 +329,7 @@ qb3-id180	d
 qb3-id181	adu
 qb3-id181	au
 qb3-id182	d
-qb3-id183	ad
+qb3-id183	d
 qb3-id184	adu
 qb3-id184	au
 qb3-id185	adu
@@ -377,10 +377,10 @@ qb3-id211	au
 qb3-id212	d
 qb3-id213	adu
 qb3-id213	au
-qb3-id214	d
+qb3-id214	ad
 qb3-id215	adu
 qb3-id215	au
-qb3-id216	d
+qb3-id216	ad
 qb3-id217	adu
 qb3-id217	au
 qb3-id218	adu
@@ -402,7 +402,7 @@ qb3-id228	adu
 qb3-id228	au
 qb3-id229	adu
 qb3-id229	au
-qb3-id22	d
+qb3-id22	ad
 qb3-id230	adu
 qb3-id230	au
 qb3-id231	adu
@@ -426,7 +426,7 @@ qb3-id240	d
 qb3-id241	d
 qb3-id242	d
 qb3-id243	d
-qb3-id244	ad
+qb3-id244	d
 qb3-id245	d
 qb3-id246	d
 qb3-id247	d
@@ -462,7 +462,7 @@ qb3-id270	d
 qb3-id270	ds
 qb3-id273	adu
 qb3-id279	d
-qb3-id27	d
+qb3-id27	ad
 qb3-id280	adu
 qb3-id280	au
 qb3-id281	d
@@ -476,7 +476,7 @@ qb3-id288	d
 qb3-id289	d
 qb3-id28	d
 qb3-id290	d
-qb3-id291	d
+qb3-id291	ad
 qb3-id292	d
 qb3-id293	d
 qb3-id294	ad
@@ -491,7 +491,7 @@ qb3-id2	d
 qb3-id300	d
 qb3-id301	aduE
 qb3-id301	au
-qb3-id302	d
+qb3-id302	ad
 qb3-id303	d
 qb3-id304	d
 qb3-id305	d
@@ -508,7 +508,7 @@ qb3-id313	d
 qb3-id314	d
 qb3-id315	d
 qb3-id317	ad
-qb3-id318	ad
+qb3-id318	d
 qb3-id31	d
 qb3-id31	dE
 qb3-id32	adu
