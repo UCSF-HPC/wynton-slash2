@@ -1,7 +1,7 @@
 queuename	states
 msg-hmio1	d
 msg-hmio2	adu
-msg-hmio3	ad
+msg-hmio3	d
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
