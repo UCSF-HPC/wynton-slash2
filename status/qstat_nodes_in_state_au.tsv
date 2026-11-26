@@ -1,7 +1,7 @@
 queuename	states
 msg-hmio1	ad
 msg-hmio2	adu
-msg-hmio3	ad
+msg-hmio3	d
 msg-id10	adu
 msg-id10	au
 msg-id11	adu
@@ -29,7 +29,7 @@ msg-id27	d
 msg-id28	d
 msg-id2	adu
 msg-id2	au
-msg-id30	d
+msg-id30	ad
 msg-id31	d
 msg-id32	d
 msg-id33	adu
@@ -233,7 +233,7 @@ qb3-id11	d
 qb3-id120	d
 qb3-id121	ad
 qb3-id122	d
-qb3-id123	d
+qb3-id123	ad
 qb3-id124	dE
 qb3-id125	d
 qb3-id126	d
@@ -270,7 +270,7 @@ qb3-id147	au
 qb3-id148	ad
 qb3-id149	d
 qb3-id14	d
-qb3-id150	ad
+qb3-id150	d
 qb3-id151	d
 qb3-id152	adu
 qb3-id152	au
@@ -423,7 +423,7 @@ qb3-id239	adu
 qb3-id23	adu
 qb3-id23	au
 qb3-id240	d
-qb3-id241	ad
+qb3-id241	d
 qb3-id242	d
 qb3-id243	d
 qb3-id244	d
@@ -649,6 +649,7 @@ qb3-idgpu18	d
 qb3-idgpu3	d
 qb3-idgpu4	d
 qb3-idgpu5	d
+qb3-idgpu6	ad
 qb3-idgpu6	d
 qb3-idgpu7	d
 qb3-idgpu7	ds
